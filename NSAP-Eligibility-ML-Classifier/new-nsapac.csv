@@ -1,0 +1,2505 @@
+state_ut_name,state_ut_code,constituency,constituency_code,fiscal_year,indicator_1,indicator_2,indicator_3
+Bihar,4,Valmiki Nagar,1,2019-20,10.12,10.12,100.00
+Bihar,4,Ramnagar (SC),2,2019-20,7.19,7.19,100.00
+Bihar,4,Narkatiaganj,3,2019-20,7.17,7.17,100.00
+Bihar,4,Bagaha,4,2019-20,6.46,6.46,100.00
+Bihar,4,Lauriya,5,2019-20,7.39,7.39,100.00
+Bihar,4,Nautan,6,2019-20,8.54,8.54,100.00
+Bihar,4,Chanpatia,7,2019-20,9.76,9.76,100.00
+Bihar,4,Bettiah,8,2019-20,6.67,6.67,100.00
+Bihar,4,Sikta,9,2019-20,8.41,8.41,100.00
+Bihar,4,Raxaul,10,2019-20,7.63,7.63,100.00
+Bihar,4,Sugauli,11,2019-20,9.07,9.07,100.00
+Bihar,4,Narkatia,12,2019-20,9.58,9.58,100.00
+Bihar,4,Harsidhi (SC),13,2019-20,8.98,8.98,100.00
+Bihar,4,Govindganj,14,2019-20,9.74,9.74,100.00
+Bihar,4,Kesaria,15,2019-20,7.10,7.10,100.00
+Bihar,4,Kalyanpur,16,2019-20,9.47,9.47,100.00
+Bihar,4,Pipra,17,2019-20,10.00,10.00,100.00
+Bihar,4,Madhuban,18,2019-20,8.37,8.37,100.00
+Bihar,4,Motihari,19,2019-20,7.44,7.44,100.00
+Bihar,4,Chiraia,20,2019-20,9.66,9.66,100.00
+Bihar,4,Dhaka,21,2019-20,9.71,9.71,100.00
+Bihar,4,Sheohar,22,2019-20,13.35,13.35,100.00
+Bihar,4,Riga,23,2019-20,10.39,10.39,100.00
+Bihar,4,Bathnaha (SC),24,2019-20,10.73,10.73,100.00
+Bihar,4,Parihar,25,2019-20,10.89,10.89,100.00
+Bihar,4,Sursand,26,2019-20,14.05,14.05,100.00
+Bihar,4,Bajpatti,27,2019-20,13.81,13.81,100.00
+Bihar,4,Sitamarhi,28,2019-20,8.24,8.24,100.00
+Bihar,4,Runnisaidpur,29,2019-20,9.40,9.40,100.00
+Bihar,4,Belsand,30,2019-20,9.78,9.78,100.00
+Bihar,4,Harlakhi,31,2019-20,13.44,13.44,100.00
+Bihar,4,Benipatti,32,2019-20,11.64,11.64,100.00
+Bihar,4,Khajauli,33,2019-20,11.41,11.41,100.00
+Bihar,4,Baburahi,34,2019-20,13.97,13.97,100.00
+Bihar,4,Bisfi,35,2019-20,12.35,12.35,100.00
+Bihar,4,Madhubani,36,2019-20,13.18,13.18,100.00
+Bihar,4,Rajnagar(SC),37,2019-20,13.60,13.60,100.00
+Bihar,4,Jhanjharpur,38,2019-20,13.04,13.04,100.00
+Bihar,4,Phulparas,39,2019-20,18.34,18.34,100.00
+Bihar,4,Laukaha,40,2019-20,17.79,17.79,100.00
+Bihar,4,Nirmali,41,2019-20,8.95,8.95,100.00
+Bihar,4,Pipra,42,2019-20,9.06,9.06,100.00
+Bihar,4,Supaul,43,2019-20,9.18,9.18,100.00
+Bihar,4,Triveniganj (SC),44,2019-20,7.88,7.88,100.00
+Bihar,4,Chhatapur,45,2019-20,7.90,7.90,100.00
+Bihar,4,Narpatganj,46,2019-20,8.11,8.11,100.00
+Bihar,4,Raniganj (SC),47,2019-20,9.48,9.48,100.00
+Bihar,4,Forbesganj,48,2019-20,8.37,8.37,100.00
+Bihar,4,Araria,49,2019-20,10.40,10.40,100.00
+Bihar,4,Jokihat,50,2019-20,14.35,14.35,100.00
+Bihar,4,Sikti,51,2019-20,10.04,10.04,100.00
+Bihar,4,Bahadurganj,52,2019-20,10.85,10.85,100.00
+Bihar,4,Thakurganj,53,2019-20,10.37,10.37,100.00
+Bihar,4,Kishanganj,54,2019-20,8.03,8.03,100.00
+Bihar,4,Kochadhaman,55,2019-20,11.21,11.21,100.00
+Bihar,4,Amour,56,2019-20,10.41,10.41,100.00
+Bihar,4,Baisi,57,2019-20,9.61,9.61,100.00
+Bihar,4,Kasba,58,2019-20,10.58,10.58,100.00
+Bihar,4,Banmankhi (SC),59,2019-20,9.30,9.30,100.00
+Bihar,4,Rupauli,60,2019-20,9.91,9.91,100.00
+Bihar,4,Dhamdaha,61,2019-20,13.20,13.20,100.00
+Bihar,4,Purnia/Purnea,62,2019-20,3.32,3.32,100.00
+Bihar,4,Katihar,63,2019-20,2.51,2.51,100.00
+Bihar,4,Kadwa,64,2019-20,7.13,7.13,100.00
+Bihar,4,Balrampur,65,2019-20,9.40,9.40,100.00
+Bihar,4,Pranpur,66,2019-20,8.77,8.77,100.00
+Bihar,4,Manihari (ST),67,2019-20,7.97,7.97,100.00
+Bihar,4,Barari,68,2019-20,8.54,8.54,100.00
+Bihar,4,Korha (SC),69,2019-20,8.72,8.72,100.00
+Bihar,4,Alamnagar,70,2019-20,13.32,13.32,100.00
+Bihar,4,Bihariganj,71,2019-20,11.44,11.44,100.00
+Bihar,4,Singheshwar (SC),72,2019-20,9.06,9.06,100.00
+Bihar,4,Madhepura,73,2019-20,12.16,12.16,100.00
+Bihar,4,Sonbarsha (SC),74,2019-20,9.54,9.54,100.00
+Bihar,4,Saharsa,75,2019-20,11.87,11.87,100.00
+Bihar,4,Simri Bakhtiarpur,76,2019-20,11.28,11.28,100.00
+Bihar,4,Mahishi,77,2019-20,11.99,11.99,100.00
+Bihar,4,Kusheshwar Asthan (SC),78,2019-20,8.22,8.22,100.00
+Bihar,4,Gaura Bauram,79,2019-20,9.85,9.85,100.00
+Bihar,4,Benipur,80,2019-20,7.98,7.98,100.00
+Bihar,4,Alinagar,81,2019-20,10.93,10.93,100.00
+Bihar,4,Darbhanga Rural,82,2019-20,11.16,11.16,100.00
+Bihar,4,Darbhanga,83,2019-20,2.50,2.50,100.00
+Bihar,4,Hayaghat,84,2019-20,8.27,8.27,100.00
+Bihar,4,Bahadurpur,85,2019-20,11.36,11.36,100.00
+Bihar,4,Keoti,86,2019-20,9.89,9.89,100.00
+Bihar,4,Jale,87,2019-20,11.15,11.15,100.00
+Bihar,4,Gaighat,88,2019-20,14.62,14.62,100.00
+Bihar,4,Aurai,89,2019-20,10.62,10.62,100.00
+Bihar,4,Minapur,90,2019-20,12.89,12.89,100.00
+Bihar,4,Bochahan(SC),91,2019-20,14.43,14.43,100.00
+Bihar,4,Sakra (SC),92,2019-20,13.37,13.37,100.00
+Bihar,4,Kurhani,93,2019-20,12.85,12.85,100.00
+Bihar,4,Muzzaffarpur,94,2019-20,0.80,0.80,100.00
+Bihar,4,Kanti,95,2019-20,9.37,9.37,100.00
+Bihar,4,Baruraj,96,2019-20,8.75,8.75,100.00
+Bihar,4,Paroo,97,2019-20,16.40,16.40,100.00
+Bihar,4,Sahebganj,98,2019-20,13.27,13.27,100.00
+Bihar,4,Baikunthpur,99,2019-20,8.51,8.51,100.00
+Bihar,4,Barauli,100,2019-20,5.95,5.95,100.00
+Bihar,4,Gopalganj,101,2019-20,6.29,6.29,100.00
+Bihar,4,Kuchaikote,102,2019-20,8.07,8.07,100.00
+Bihar,4,Bhore(SC),103,2019-20,6.92,6.92,100.00
+Bihar,4,Hathua,104,2019-20,7.28,7.28,100.00
+Bihar,4,Siwan,105,2019-20,4.70,4.70,100.00
+Bihar,4,Ziradel,106,2019-20,5.71,5.71,100.00
+Bihar,4,Darauli (SC),107,2019-20,9.07,9.07,100.00
+Bihar,4,Raghunathpur,108,2019-20,6.22,6.22,100.00
+Bihar,4,Daraunda,109,2019-20,9.47,9.47,100.00
+Bihar,4,Barharia,110,2019-20,6.75,6.75,100.00
+Bihar,4,Goriakothi,111,2019-20,9.21,9.21,100.00
+Bihar,4,Maharajganj,112,2019-20,7.51,7.51,100.00
+Bihar,4,Ekma,113,2019-20,8.71,8.71,100.00
+Bihar,4,Manjhi,114,2019-20,8.12,8.12,100.00
+Bihar,4,Baniapur,115,2019-20,8.42,8.42,100.00
+Bihar,4,Taraiya,116,2019-20,4.92,4.92,100.00
+Bihar,4,Marhaura,117,2019-20,4.23,4.23,100.00
+Bihar,4,Chapra,118,2019-20,4.48,4.48,100.00
+Bihar,4,Garkha(SC),119,2019-20,10.55,10.55,100.00
+Bihar,4,Amnour,120,2019-20,7.26,7.26,100.00
+Bihar,4,Parsa,121,2019-20,9.50,9.50,100.00
+Bihar,4,Sonepur,122,2019-20,6.24,6.24,100.00
+Bihar,4,Hajipur,123,2019-20,7.65,7.65,100.00
+Bihar,4,Lalganj,124,2019-20,16.00,16.00,100.00
+Bihar,4,Vaishali,125,2019-20,14.21,14.21,100.00
+Bihar,4,Mahua,126,2019-20,10.91,10.91,100.00
+Bihar,4,Raja Pakar(SC),127,2019-20,11.22,11.22,100.00
+Bihar,4,Raghopur,128,2019-20,14.99,14.99,100.00
+Bihar,4,Mahnar,129,2019-20,10.16,10.16,100.00
+Bihar,4,Patepur (SC),130,2019-20,9.97,9.97,100.00
+Bihar,4,Kalyanpur(SC),131,2019-20,10.82,10.82,100.00
+Bihar,4,Warisnagar,132,2019-20,7.81,7.81,100.00
+Bihar,4,Samastipur,133,2019-20,5.76,5.76,100.00
+Bihar,4,Ujiarpur,134,2019-20,8.79,8.79,100.00
+Bihar,4,Morwa,135,2019-20,7.44,7.44,100.00
+Bihar,4,Sarairanjan,136,2019-20,7.11,7.11,100.00
+Bihar,4,Mohiuddinnagar,137,2019-20,7.73,7.73,100.00
+Bihar,4,Bibhutipur,138,2019-20,8.01,8.01,100.00
+Bihar,4,Rosera (SC),139,2019-20,10.34,10.34,100.00
+Bihar,4,Hasanpur,140,2019-20,8.96,8.96,100.00
+Bihar,4,Cheria - Bariarpur,141,2019-20,10.18,10.18,100.00
+Bihar,4,Bachhwara,142,2019-20,9.57,9.57,100.00
+Bihar,4,Teghra,143,2019-20,5.41,5.41,100.00
+Bihar,4,Matihani,144,2019-20,6.20,6.20,100.00
+Bihar,4,Sahebpur Kamal,145,2019-20,4.81,4.81,100.00
+Bihar,4,Begusarai,146,2019-20,6.43,6.43,100.00
+Bihar,4,Bakhri (SC),147,2019-20,10.41,10.41,100.00
+Bihar,4,Alauli (SC),148,2019-20,8.74,8.74,100.00
+Bihar,4,Khagaria,149,2019-20,7.62,7.62,100.00
+Bihar,4,Beldaur,150,2019-20,8.58,8.58,100.00
+Bihar,4,Parbatta,151,2019-20,9.14,9.14,100.00
+Bihar,4,Bihpur,152,2019-20,12.32,12.32,100.00
+Bihar,4,Gopalpur,153,2019-20,11.62,11.62,100.00
+Bihar,4,Pirpainti (SC),154,2019-20,10.00,10.00,100.00
+Bihar,4,Kahalgaon,155,2019-20,10.86,10.86,100.00
+Bihar,4,Bhagalpur,156,2019-20,5.28,5.28,100.00
+Bihar,4,Sultanganj,157,2019-20,9.77,9.77,100.00
+Bihar,4,Nathnagar,158,2019-20,10.73,10.73,100.00
+Bihar,4,Amarpur,159,2019-20,8.09,8.09,100.00
+Bihar,4,Dhoraiya (SC),160,2019-20,8.52,8.52,100.00
+Bihar,4,Banka,161,2019-20,6.03,6.03,100.00
+Bihar,4,Katoria (ST),162,2019-20,6.49,6.49,100.00
+Bihar,4,Belhar,163,2019-20,9.59,9.59,100.00
+Bihar,4,Tarapur,164,2019-20,10.40,10.40,100.00
+Bihar,4,Munger,165,2019-20,6.01,6.01,100.00
+Bihar,4,Jamalpur,166,2019-20,7.06,7.06,100.00
+Bihar,4,Suryagarha,167,2019-20,11.32,11.32,100.00
+Bihar,4,Lakshisarai,168,2019-20,7.32,7.32,100.00
+Bihar,4,Sheikhpura,169,2019-20,9.06,9.06,100.00
+Bihar,4,Barbigha,170,2019-20,6.69,6.69,100.00
+Bihar,4,Asthawan,171,2019-20,9.61,9.61,100.00
+Bihar,4,Biharsharif/ Bihar,172,2019-20,3.48,3.48,100.00
+Bihar,4,Rajgir (SC),173,2019-20,7.25,7.25,100.00
+Bihar,4,Islampur,174,2019-20,10.70,10.70,100.00
+Bihar,4,Hilsa,175,2019-20,9.25,9.25,100.00
+Bihar,4,Nalanda,176,2019-20,10.25,10.25,100.00
+Bihar,4,Harnaut,177,2019-20,11.52,11.52,100.00
+Bihar,4,Mokama,178,2019-20,7.06,7.06,100.00
+Bihar,4,Barh,179,2019-20,7.00,7.00,100.00
+Bihar,4,Bakhtiarpur,180,2019-20,7.62,7.62,100.00
+Bihar,4,Digha,181,2019-20,1.44,1.44,100.00
+Bihar,4,Bankipur,182,2019-20,NA,NA,NA
+Bihar,4,Kumhrar,183,2019-20,NA,NA,NA
+Bihar,4,Patna Sahib,184,2019-20,NA,NA,NA
+Bihar,4,Fatuha,185,2019-20,10.52,10.52,100.00
+Bihar,4,Danapur,186,2019-20,3.03,3.03,100.00
+Bihar,4,Maner,187,2019-20,5.60,5.60,100.00
+Bihar,4,Phulwari (SC),188,2019-20,7.07,7.07,100.00
+Bihar,4,Masaurhi (SC),189,2019-20,12.70,12.70,100.00
+Bihar,4,Paliganj,190,2019-20,8.26,8.26,100.00
+Bihar,4,Bikram,191,2019-20,8.16,8.16,100.00
+Bihar,4,Sandesh,192,2019-20,6.40,6.40,100.00
+Bihar,4,Barhara,193,2019-20,6.29,6.29,100.00
+Bihar,4,Arrah,194,2019-20,2.77,2.77,100.00
+Bihar,4,Agiaon (SC),195,2019-20,5.91,5.91,100.00
+Bihar,4,Tarari,196,2019-20,9.57,9.57,100.00
+Bihar,4,Jagdishpur,197,2019-20,9.14,9.14,100.00
+Bihar,4,Shahpur,198,2019-20,8.74,8.74,100.00
+Bihar,4,Brahmpur,199,2019-20,10.66,10.66,100.00
+Bihar,4,Buxar,200,2019-20,6.76,6.76,100.00
+Bihar,4,Dumraon,201,2019-20,10.23,10.23,100.00
+Bihar,4,Rajpur (SC),202,2019-20,10.59,10.59,100.00
+Bihar,4,Ramgarh,203,2019-20,7.18,7.18,100.00
+Bihar,4,Mohania (SC),204,2019-20,6.36,6.36,100.00
+Bihar,4,Bhabua,205,2019-20,9.01,9.01,100.00
+Bihar,4,Chainpur,206,2019-20,12.52,12.52,100.00
+Bihar,4,Chenari (SC),207,2019-20,9.97,9.97,100.00
+Bihar,4,Sasaram,208,2019-20,5.45,5.45,100.00
+Bihar,4,Kargahar,209,2019-20,9.00,9.00,100.00
+Bihar,4,Dinara,210,2019-20,6.45,6.45,100.00
+Bihar,4,Nokha,211,2019-20,7.12,7.12,100.00
+Bihar,4,Dehri,212,2019-20,6.05,6.05,100.00
+Bihar,4,Karakat,213,2019-20,6.79,6.79,100.00
+Bihar,4,Arwal,214,2019-20,8.98,8.98,100.00
+Bihar,4,Kurtha,215,2019-20,9.23,9.23,100.00
+Bihar,4,Jehanabad,216,2019-20,4.86,4.86,100.00
+Bihar,4,Ghosi,217,2019-20,8.30,8.30,100.00
+Bihar,4,Makhdumpur (SC),218,2019-20,6.48,6.48,100.00
+Bihar,4,Goh,219,2019-20,7.13,7.13,100.00
+Bihar,4,Obra,220,2019-20,7.70,7.70,100.00
+Bihar,4,Nabinagar,221,2019-20,5.66,5.66,100.00
+Bihar,4,Kutumba (SC),222,2019-20,7.16,7.16,100.00
+Bihar,4,Aurangabad,223,2019-20,4.84,4.84,100.00
+Bihar,4,Rafiganj,224,2019-20,6.65,6.65,100.00
+Bihar,4,Gurua,225,2019-20,7.81,7.81,100.00
+Bihar,4,Sherghati,226,2019-20,8.25,8.25,100.00
+Bihar,4,Imamganj(SC),227,2019-20,8.95,8.95,100.00
+Bihar,4,Barachatti(SC),228,2019-20,10.84,10.84,100.00
+Bihar,4,Bodh Gaya(SC),229,2019-20,9.12,9.12,100.00
+Bihar,4,Gaya Town,230,2019-20,0.27,0.27,100.00
+Bihar,4,Tikari,231,2019-20,10.97,10.97,100.00
+Bihar,4,Belaganj,232,2019-20,6.37,6.37,100.00
+Bihar,4,Atri,233,2019-20,10.22,10.22,100.00
+Bihar,4,Wazirganj,234,2019-20,7.90,7.90,100.00
+Bihar,4,Rajauli(SC),235,2019-20,8.31,8.31,100.00
+Bihar,4,Hisua,236,2019-20,8.33,8.33,100.00
+Bihar,4,Nawada,237,2019-20,6.87,6.87,100.00
+Bihar,4,Gobindpur,238,2019-20,10.09,10.09,100.00
+Bihar,4,Warsaliganj,239,2019-20,7.64,7.64,100.00
+Bihar,4,Sikandra(SC),240,2019-20,6.93,6.93,100.00
+Bihar,4,Jamui,241,2019-20,7.24,7.24,100.00
+Bihar,4,Jhajha,242,2019-20,10.20,10.20,100.00
+Bihar,4,Chakai,243,2019-20,8.96,8.96,100.00
+Bihar,4,Valmiki Nagar,1,2020-21,10.96,10.96,100.00
+Bihar,4,Ramnagar (SC),2,2020-21,7.77,7.77,100.00
+Bihar,4,Narkatiaganj,3,2020-21,8.60,8.60,100.00
+Bihar,4,Bagaha,4,2020-21,6.96,6.96,100.00
+Bihar,4,Lauriya,5,2020-21,7.95,7.95,100.00
+Bihar,4,Nautan,6,2020-21,9.36,9.36,100.00
+Bihar,4,Chanpatia,7,2020-21,10.87,10.87,100.00
+Bihar,4,Bettiah,8,2020-21,7.17,7.17,100.00
+Bihar,4,Sikta,9,2020-21,9.24,9.24,100.00
+Bihar,4,Raxaul,10,2020-21,7.83,7.83,100.00
+Bihar,4,Sugauli,11,2020-21,9.69,9.69,100.00
+Bihar,4,Narkatia,12,2020-21,9.88,9.88,100.00
+Bihar,4,Harsidhi (SC),13,2020-21,9.61,9.61,100.00
+Bihar,4,Govindganj,14,2020-21,10.23,10.23,100.00
+Bihar,4,Kesaria,15,2020-21,7.56,7.56,100.00
+Bihar,4,Kalyanpur,16,2020-21,10.13,10.13,100.00
+Bihar,4,Pipra,17,2020-21,10.65,10.65,100.00
+Bihar,4,Madhuban,18,2020-21,8.54,8.54,100.00
+Bihar,4,Motihari,19,2020-21,7.89,7.89,100.00
+Bihar,4,Chiraia,20,2020-21,10.18,10.18,100.00
+Bihar,4,Dhaka,21,2020-21,10.18,10.18,100.00
+Bihar,4,Sheohar,22,2020-21,14.15,14.15,100.00
+Bihar,4,Riga,23,2020-21,11.07,11.07,100.00
+Bihar,4,Bathnaha (SC),24,2020-21,11.52,11.52,100.00
+Bihar,4,Parihar,25,2020-21,11.08,11.08,100.00
+Bihar,4,Sursand,26,2020-21,13.70,13.70,100.00
+Bihar,4,Bajpatti,27,2020-21,14.13,14.13,100.00
+Bihar,4,Sitamarhi,28,2020-21,8.81,8.81,100.00
+Bihar,4,Runnisaidpur,29,2020-21,10.34,10.34,100.00
+Bihar,4,Belsand,30,2020-21,10.50,10.50,100.00
+Bihar,4,Harlakhi,31,2020-21,14.44,14.44,100.00
+Bihar,4,Benipatti,32,2020-21,12.42,12.42,100.00
+Bihar,4,Khajauli,33,2020-21,12.20,12.20,100.00
+Bihar,4,Baburahi,34,2020-21,14.99,14.99,100.00
+Bihar,4,Bisfi,35,2020-21,13.33,13.33,100.00
+Bihar,4,Madhubani,36,2020-21,14.09,14.09,100.00
+Bihar,4,Rajnagar(SC),37,2020-21,14.64,14.64,100.00
+Bihar,4,Jhanjharpur,38,2020-21,14.02,14.02,100.00
+Bihar,4,Phulparas,39,2020-21,19.82,19.82,100.00
+Bihar,4,Laukaha,40,2020-21,19.58,19.58,100.00
+Bihar,4,Nirmali,41,2020-21,9.82,9.82,100.00
+Bihar,4,Pipra,42,2020-21,9.80,9.80,100.00
+Bihar,4,Supaul,43,2020-21,10.06,10.06,100.00
+Bihar,4,Triveniganj (SC),44,2020-21,8.62,8.62,100.00
+Bihar,4,Chhatapur,45,2020-21,8.58,8.58,100.00
+Bihar,4,Narpatganj,46,2020-21,8.62,8.62,100.00
+Bihar,4,Raniganj (SC),47,2020-21,10.31,10.31,100.00
+Bihar,4,Forbesganj,48,2020-21,9.06,9.06,100.00
+Bihar,4,Araria,49,2020-21,11.45,11.45,100.00
+Bihar,4,Jokihat,50,2020-21,16.03,16.03,100.00
+Bihar,4,Sikti,51,2020-21,11.08,11.08,100.00
+Bihar,4,Bahadurganj,52,2020-21,11.91,11.91,100.00
+Bihar,4,Thakurganj,53,2020-21,11.38,11.38,100.00
+Bihar,4,Kishanganj,54,2020-21,9.37,9.37,100.00
+Bihar,4,Kochadhaman,55,2020-21,12.30,12.30,100.00
+Bihar,4,Amour,56,2020-21,11.26,11.26,100.00
+Bihar,4,Baisi,57,2020-21,10.43,10.43,100.00
+Bihar,4,Kasba,58,2020-21,11.34,11.34,100.00
+Bihar,4,Banmankhi (SC),59,2020-21,9.97,9.97,100.00
+Bihar,4,Rupauli,60,2020-21,10.67,10.67,100.00
+Bihar,4,Dhamdaha,61,2020-21,13.93,13.93,100.00
+Bihar,4,Purnia/Purnea,62,2020-21,3.61,3.61,100.00
+Bihar,4,Katihar,63,2020-21,2.76,2.76,100.00
+Bihar,4,Kadwa,64,2020-21,7.81,7.81,100.00
+Bihar,4,Balrampur,65,2020-21,10.20,10.20,100.00
+Bihar,4,Pranpur,66,2020-21,9.52,9.52,100.00
+Bihar,4,Manihari (ST),67,2020-21,8.70,8.70,100.00
+Bihar,4,Barari,68,2020-21,9.24,9.24,100.00
+Bihar,4,Korha (SC),69,2020-21,9.46,9.46,100.00
+Bihar,4,Alamnagar,70,2020-21,14.14,14.14,100.00
+Bihar,4,Bihariganj,71,2020-21,12.18,12.18,100.00
+Bihar,4,Singheshwar (SC),72,2020-21,9.76,9.76,100.00
+Bihar,4,Madhepura,73,2020-21,13.16,13.16,100.00
+Bihar,4,Sonbarsha (SC),74,2020-21,10.40,10.40,100.00
+Bihar,4,Saharsa,75,2020-21,12.90,12.90,100.00
+Bihar,4,Simri Bakhtiarpur,76,2020-21,12.22,12.22,100.00
+Bihar,4,Mahishi,77,2020-21,12.90,12.90,100.00
+Bihar,4,Kusheshwar Asthan (SC),78,2020-21,8.97,8.97,100.00
+Bihar,4,Gaura Bauram,79,2020-21,10.73,10.73,100.00
+Bihar,4,Benipur,80,2020-21,8.70,8.70,100.00
+Bihar,4,Alinagar,81,2020-21,11.65,11.65,100.00
+Bihar,4,Darbhanga Rural,82,2020-21,12.13,12.13,100.00
+Bihar,4,Darbhanga,83,2020-21,2.72,2.72,100.00
+Bihar,4,Hayaghat,84,2020-21,9.03,9.03,100.00
+Bihar,4,Bahadurpur,85,2020-21,12.43,12.43,100.00
+Bihar,4,Keoti,86,2020-21,10.73,10.73,100.00
+Bihar,4,Jale,87,2020-21,12.05,12.05,100.00
+Bihar,4,Gaighat,88,2020-21,15.91,15.91,100.00
+Bihar,4,Aurai,89,2020-21,11.61,11.61,100.00
+Bihar,4,Minapur,90,2020-21,13.61,13.61,100.00
+Bihar,4,Bochahan(SC),91,2020-21,15.64,15.64,100.00
+Bihar,4,Sakra (SC),92,2020-21,14.48,14.48,100.00
+Bihar,4,Kurhani,93,2020-21,13.93,13.93,100.00
+Bihar,4,Muzzaffarpur,94,2020-21,0.87,0.87,100.00
+Bihar,4,Kanti,95,2020-21,10.52,10.52,100.00
+Bihar,4,Baruraj,96,2020-21,9.73,9.73,100.00
+Bihar,4,Paroo,97,2020-21,17.50,17.50,100.00
+Bihar,4,Sahebganj,98,2020-21,14.45,14.45,100.00
+Bihar,4,Baikunthpur,99,2020-21,9.23,9.23,100.00
+Bihar,4,Barauli,100,2020-21,6.44,6.44,100.00
+Bihar,4,Gopalganj,101,2020-21,6.76,6.76,100.00
+Bihar,4,Kuchaikote,102,2020-21,8.72,8.72,100.00
+Bihar,4,Bhore(SC),103,2020-21,7.49,7.49,100.00
+Bihar,4,Hathua,104,2020-21,7.94,7.94,100.00
+Bihar,4,Siwan,105,2020-21,5.12,5.12,100.00
+Bihar,4,Ziradel,106,2020-21,6.35,6.35,100.00
+Bihar,4,Darauli (SC),107,2020-21,9.84,9.84,100.00
+Bihar,4,Raghunathpur,108,2020-21,6.92,6.92,100.00
+Bihar,4,Daraunda,109,2020-21,10.37,10.37,100.00
+Bihar,4,Barharia,110,2020-21,7.42,7.42,100.00
+Bihar,4,Goriakothi,111,2020-21,10.12,10.12,100.00
+Bihar,4,Maharajganj,112,2020-21,8.17,8.17,100.00
+Bihar,4,Ekma,113,2020-21,9.25,9.25,100.00
+Bihar,4,Manjhi,114,2020-21,8.59,8.59,100.00
+Bihar,4,Baniapur,115,2020-21,9.63,9.63,100.00
+Bihar,4,Taraiya,116,2020-21,5.27,5.27,100.00
+Bihar,4,Marhaura,117,2020-21,4.53,4.53,100.00
+Bihar,4,Chapra,118,2020-21,4.73,4.73,100.00
+Bihar,4,Garkha(SC),119,2020-21,11.13,11.13,100.00
+Bihar,4,Amnour,120,2020-21,7.69,7.69,100.00
+Bihar,4,Parsa,121,2020-21,10.21,10.21,100.00
+Bihar,4,Sonepur,122,2020-21,6.70,6.70,100.00
+Bihar,4,Hajipur,123,2020-21,8.63,8.63,100.00
+Bihar,4,Lalganj,124,2020-21,17.41,17.41,100.00
+Bihar,4,Vaishali,125,2020-21,15.73,15.73,100.00
+Bihar,4,Mahua,126,2020-21,11.82,11.82,100.00
+Bihar,4,Raja Pakar(SC),127,2020-21,12.30,12.30,100.00
+Bihar,4,Raghopur,128,2020-21,16.37,16.37,100.00
+Bihar,4,Mahnar,129,2020-21,11.06,11.06,100.00
+Bihar,4,Patepur (SC),130,2020-21,10.92,10.92,100.00
+Bihar,4,Kalyanpur(SC),131,2020-21,11.62,11.62,100.00
+Bihar,4,Warisnagar,132,2020-21,8.70,8.70,100.00
+Bihar,4,Samastipur,133,2020-21,6.27,6.27,100.00
+Bihar,4,Ujiarpur,134,2020-21,9.54,9.54,100.00
+Bihar,4,Morwa,135,2020-21,8.01,8.01,100.00
+Bihar,4,Sarairanjan,136,2020-21,7.70,7.70,100.00
+Bihar,4,Mohiuddinnagar,137,2020-21,8.32,8.32,100.00
+Bihar,4,Bibhutipur,138,2020-21,8.84,8.84,100.00
+Bihar,4,Rosera (SC),139,2020-21,11.23,11.23,100.00
+Bihar,4,Hasanpur,140,2020-21,9.69,9.69,100.00
+Bihar,4,Cheria - Bariarpur,141,2020-21,10.65,10.65,100.00
+Bihar,4,Bachhwara,142,2020-21,10.47,10.47,100.00
+Bihar,4,Teghra,143,2020-21,6.03,6.03,100.00
+Bihar,4,Matihani,144,2020-21,6.41,6.41,100.00
+Bihar,4,Sahebpur Kamal,145,2020-21,5.11,5.11,100.00
+Bihar,4,Begusarai,146,2020-21,6.74,6.74,100.00
+Bihar,4,Bakhri (SC),147,2020-21,10.88,10.88,100.00
+Bihar,4,Alauli (SC),148,2020-21,9.63,9.63,100.00
+Bihar,4,Khagaria,149,2020-21,8.26,8.26,100.00
+Bihar,4,Beldaur,150,2020-21,10.58,10.58,100.00
+Bihar,4,Parbatta,151,2020-21,12.27,12.27,100.00
+Bihar,4,Bihpur,152,2020-21,13.28,13.28,100.00
+Bihar,4,Gopalpur,153,2020-21,12.49,12.49,100.00
+Bihar,4,Pirpainti (SC),154,2020-21,10.82,10.82,100.00
+Bihar,4,Kahalgaon,155,2020-21,11.16,11.16,100.00
+Bihar,4,Bhagalpur,156,2020-21,4.81,4.81,100.00
+Bihar,4,Sultanganj,157,2020-21,10.58,10.58,100.00
+Bihar,4,Nathnagar,158,2020-21,11.66,11.66,100.00
+Bihar,4,Amarpur,159,2020-21,8.92,8.92,100.00
+Bihar,4,Dhoraiya (SC),160,2020-21,9.23,9.23,100.00
+Bihar,4,Banka,161,2020-21,6.52,6.52,100.00
+Bihar,4,Katoria (ST),162,2020-21,7.00,7.00,100.00
+Bihar,4,Belhar,163,2020-21,10.42,10.42,100.00
+Bihar,4,Tarapur,164,2020-21,11.42,11.42,100.00
+Bihar,4,Munger,165,2020-21,6.38,6.38,100.00
+Bihar,4,Jamalpur,166,2020-21,7.67,7.67,100.00
+Bihar,4,Suryagarha,167,2020-21,12.52,12.52,100.00
+Bihar,4,Lakshisarai,168,2020-21,7.60,7.60,100.00
+Bihar,4,Sheikhpura,169,2020-21,7.05,7.05,100.00
+Bihar,4,Barbigha,170,2020-21,7.17,7.17,100.00
+Bihar,4,Asthawan,171,2020-21,10.29,10.29,100.00
+Bihar,4,Biharsharif/ Bihar,172,2020-21,3.73,3.73,100.00
+Bihar,4,Rajgir (SC),173,2020-21,7.77,7.77,100.00
+Bihar,4,Islampur,174,2020-21,11.50,11.50,100.00
+Bihar,4,Hilsa,175,2020-21,10.01,10.01,100.00
+Bihar,4,Nalanda,176,2020-21,10.47,10.47,100.00
+Bihar,4,Harnaut,177,2020-21,12.03,12.03,100.00
+Bihar,4,Mokama,178,2020-21,7.52,7.52,100.00
+Bihar,4,Barh,179,2020-21,7.55,7.55,100.00
+Bihar,4,Bakhtiarpur,180,2020-21,8.18,8.18,100.00
+Bihar,4,Digha,181,2020-21,1.53,1.53,100.00
+Bihar,4,Bankipur,182,2020-21,NA,NA,NA
+Bihar,4,Kumhrar,183,2020-21,NA,NA,NA
+Bihar,4,Patna Sahib,184,2020-21,NA,NA,NA
+Bihar,4,Fatuha,185,2020-21,11.13,11.13,100.00
+Bihar,4,Danapur,186,2020-21,3.23,3.23,100.00
+Bihar,4,Maner,187,2020-21,6.01,6.01,100.00
+Bihar,4,Phulwari (SC),188,2020-21,7.50,7.50,100.00
+Bihar,4,Masaurhi (SC),189,2020-21,13.70,13.70,100.00
+Bihar,4,Paliganj,190,2020-21,8.87,8.87,100.00
+Bihar,4,Bikram,191,2020-21,8.53,8.53,100.00
+Bihar,4,Sandesh,192,2020-21,6.89,6.89,100.00
+Bihar,4,Barhara,193,2020-21,6.77,6.77,100.00
+Bihar,4,Arrah,194,2020-21,3.01,3.01,100.00
+Bihar,4,Agiaon (SC),195,2020-21,6.36,6.36,100.00
+Bihar,4,Tarari,196,2020-21,10.28,10.28,100.00
+Bihar,4,Jagdishpur,197,2020-21,9.92,9.92,100.00
+Bihar,4,Shahpur,198,2020-21,9.44,9.44,100.00
+Bihar,4,Brahmpur,199,2020-21,11.56,11.56,100.00
+Bihar,4,Buxar,200,2020-21,7.33,7.33,100.00
+Bihar,4,Dumraon,201,2020-21,11.05,11.05,100.00
+Bihar,4,Rajpur (SC),202,2020-21,11.58,11.58,100.00
+Bihar,4,Ramgarh,203,2020-21,7.69,7.69,100.00
+Bihar,4,Mohania (SC),204,2020-21,6.84,6.84,100.00
+Bihar,4,Bhabua,205,2020-21,9.62,9.62,100.00
+Bihar,4,Chainpur,206,2020-21,13.49,13.49,100.00
+Bihar,4,Chenari (SC),207,2020-21,10.79,10.79,100.00
+Bihar,4,Sasaram,208,2020-21,6.00,6.00,100.00
+Bihar,4,Kargahar,209,2020-21,9.72,9.72,100.00
+Bihar,4,Dinara,210,2020-21,6.87,6.87,100.00
+Bihar,4,Nokha,211,2020-21,7.59,7.59,100.00
+Bihar,4,Dehri,212,2020-21,6.44,6.44,100.00
+Bihar,4,Karakat,213,2020-21,7.15,7.15,100.00
+Bihar,4,Arwal,214,2020-21,9.70,9.70,100.00
+Bihar,4,Kurtha,215,2020-21,10.01,10.01,100.00
+Bihar,4,Jehanabad,216,2020-21,6.29,6.29,100.00
+Bihar,4,Ghosi,217,2020-21,8.96,8.96,100.00
+Bihar,4,Makhdumpur (SC),218,2020-21,6.98,6.98,100.00
+Bihar,4,Goh,219,2020-21,7.64,7.64,100.00
+Bihar,4,Obra,220,2020-21,8.30,8.30,100.00
+Bihar,4,Nabinagar,221,2020-21,6.14,6.14,100.00
+Bihar,4,Kutumba (SC),222,2020-21,7.74,7.74,100.00
+Bihar,4,Aurangabad,223,2020-21,5.28,5.28,100.00
+Bihar,4,Rafiganj,224,2020-21,7.25,7.25,100.00
+Bihar,4,Gurua,225,2020-21,8.41,8.41,100.00
+Bihar,4,Sherghati,226,2020-21,8.62,8.62,100.00
+Bihar,4,Imamganj(SC),227,2020-21,9.56,9.56,100.00
+Bihar,4,Barachatti(SC),228,2020-21,11.69,11.69,100.00
+Bihar,4,Bodh Gaya(SC),229,2020-21,9.26,9.26,100.00
+Bihar,4,Gaya Town,230,2020-21,0.30,0.30,100.00
+Bihar,4,Tikari,231,2020-21,11.75,11.75,100.00
+Bihar,4,Belaganj,232,2020-21,6.74,6.74,100.00
+Bihar,4,Atri,233,2020-21,10.98,10.98,100.00
+Bihar,4,Wazirganj,234,2020-21,8.46,8.46,100.00
+Bihar,4,Rajauli(SC),235,2020-21,9.02,9.02,100.00
+Bihar,4,Hisua,236,2020-21,9.14,9.14,100.00
+Bihar,4,Nawada,237,2020-21,7.49,7.49,100.00
+Bihar,4,Gobindpur,238,2020-21,11.17,11.17,100.00
+Bihar,4,Warsaliganj,239,2020-21,8.17,8.17,100.00
+Bihar,4,Sikandra(SC),240,2020-21,7.66,7.66,100.00
+Bihar,4,Jamui,241,2020-21,7.76,7.76,100.00
+Bihar,4,Jhajha,242,2020-21,11.07,11.07,100.00
+Bihar,4,Chakai,243,2020-21,9.98,9.98,100.00
+Chhattisgarh,5,Bharatpur-Sonhat (ST),1,2019-20,6.15,6.15,100.00
+Chhattisgarh,5,Manendragarh,2,2019-20,5.58,5.58,100.00
+Chhattisgarh,5,Baikunthpur,3,2019-20,8.50,8.50,100.00
+Chhattisgarh,5,Premnagar,4,2019-20,7.63,7.63,100.00
+Chhattisgarh,5,Bhatgaon,5,2019-20,11.20,11.20,100.00
+Chhattisgarh,5,Pratappur (ST),6,2019-20,5.80,5.80,100.00
+Chhattisgarh,5,Ramanujganj (ST),7,2019-20,8.53,8.53,100.00
+Chhattisgarh,5,Samri (ST),8,2019-20,5.83,5.83,100.00
+Chhattisgarh,5,Lundra (ST),9,2019-20,11.71,11.71,100.00
+Chhattisgarh,5,Ambikapur,10,2019-20,7.95,7.95,100.00
+Chhattisgarh,5,Sitapur (ST),11,2019-20,10.63,10.63,100.00
+Chhattisgarh,5,Jashpur (ST),12,2019-20,8.04,8.04,100.00
+Chhattisgarh,5,Kunkuri (ST),13,2019-20,8.56,8.56,100.00
+Chhattisgarh,5,Pathalgaon (ST),14,2019-20,10.55,10.55,100.00
+Chhattisgarh,5,Lailunga (ST),15,2019-20,7.77,7.77,100.00
+Chhattisgarh,5,Raigarh,16,2019-20,15.95,15.95,100.00
+Chhattisgarh,5,Sarangarh (SC),17,2019-20,21.13,21.13,100.00
+Chhattisgarh,5,Kharsia,18,2019-20,12.84,12.84,100.00
+Chhattisgarh,5,Dharamjaigarh (ST),19,2019-20,13.57,13.57,100.00
+Chhattisgarh,5,Rampur (ST),20,2019-20,11.32,11.32,100.00
+Chhattisgarh,5,Korba,21,2019-20,NA,NA,NA
+Chhattisgarh,5,Katghora,22,2019-20,10.02,10.02,100.00
+Chhattisgarh,5,Pali-Tanakhar (ST),23,2019-20,16.24,16.24,100.00
+Chhattisgarh,5,Marwahi (ST),24,2019-20,8.15,8.15,100.00
+Chhattisgarh,5,Kota,25,2019-20,11.03,11.03,100.00
+Chhattisgarh,5,Lormi,26,2019-20,11.41,11.41,100.00
+Chhattisgarh,5,Mungeli (SC),27,2019-20,17.69,17.69,100.00
+Chhattisgarh,5,Takhatpur,28,2019-20,9.68,9.68,100.00
+Chhattisgarh,5,Bilha,29,2019-20,14.20,14.20,100.00
+Chhattisgarh,5,Bilaspur,30,2019-20,5.48,5.48,100.00
+Chhattisgarh,5,Beltara,31,2019-20,5.39,5.39,100.00
+Chhattisgarh,5,Masturi (SC),32,2019-20,16.57,16.57,100.00
+Chhattisgarh,5,Akaltara,33,2019-20,7.05,7.05,100.00
+Chhattisgarh,5,Janjgir Champa,34,2019-20,7.04,7.04,100.00
+Chhattisgarh,5,Sakti,35,2019-20,9.70,9.70,100.00
+Chhattisgarh,5,Chandrapura,36,2019-20,13.15,13.15,100.00
+Chhattisgarh,5,Jaijaipur,37,2019-20,13.10,13.10,100.00
+Chhattisgarh,5,Pamgarh (SC),38,2019-20,7.16,7.16,100.00
+Chhattisgarh,5,Saraipali (SC),39,2019-20,12.94,12.94,100.00
+Chhattisgarh,5,Basna,40,2019-20,10.58,10.58,100.00
+Chhattisgarh,5,Khallari,41,2019-20,7.05,7.05,100.00
+Chhattisgarh,5,Mahasamund,42,2019-20,7.59,7.59,100.00
+Chhattisgarh,5,Bilaigarh (SC),43,2019-20,14.02,14.02,100.00
+Chhattisgarh,5,Kasdol,44,2019-20,8.79,8.79,100.00
+Chhattisgarh,5,Baloda Bazar,45,2019-20,8.58,8.58,100.00
+Chhattisgarh,5,Bhatapara,46,2019-20,11.66,11.66,100.00
+Chhattisgarh,5,Dharsiwa,47,2019-20,9.59,9.59,100.00
+Chhattisgarh,5,Raipur Rural,48,2019-20,1.83,1.83,100.00
+Chhattisgarh,5,Raipur City West,49,2019-20,2.91,2.91,100.00
+Chhattisgarh,5,Raipur City North,50,2019-20,4.12,4.12,100.00
+Chhattisgarh,5,Raipur City South,51,2019-20,3.96,3.96,100.00
+Chhattisgarh,5,Arang (SC),52,2019-20,7.86,7.86,100.00
+Chhattisgarh,5,Abhanpur,53,2019-20,7.50,7.50,100.00
+Chhattisgarh,5,Rajim,54,2019-20,5.50,5.50,100.00
+Chhattisgarh,5,Bindranawagarh (ST),55,2019-20,8.93,8.93,100.00
+Chhattisgarh,5,Sihawa (ST),56,2019-20,9.28,9.28,100.00
+Chhattisgarh,5,Kurud,57,2019-20,6.19,6.19,100.00
+Chhattisgarh,5,Dhamtari,58,2019-20,6.50,6.50,100.00
+Chhattisgarh,5,Sanjari Balod,59,2019-20,5.62,5.62,100.00
+Chhattisgarh,5,Dondi Lohara (ST),60,2019-20,6.38,6.38,100.00
+Chhattisgarh,5,Gunderdehi,61,2019-20,5.84,5.84,100.00
+Chhattisgarh,5,Patan,62,2019-20,3.56,3.56,100.00
+Chhattisgarh,5,Durg-Rural,63,2019-20,1.40,1.40,100.00
+Chhattisgarh,5,Durg-City,64,2019-20,8.03,8.03,100.00
+Chhattisgarh,5,Bhilai Nagar,65,2019-20,0.50,0.50,100.00
+Chhattisgarh,5,Vaishali Nagar,66,2019-20,9.34,9.34,100.00
+Chhattisgarh,5,Ahiwara (SC),67,2019-20,7.22,7.22,100.00
+Chhattisgarh,5,Saja,68,2019-20,6.68,6.68,100.00
+Chhattisgarh,5,Bemetara,69,2019-20,6.88,6.88,100.00
+Chhattisgarh,5,Nawagarh (SC),70,2019-20,6.33,6.33,100.00
+Chhattisgarh,5,Pandariya,71,2019-20,13.00,13.00,100.00
+Chhattisgarh,5,Kawardha,72,2019-20,9.75,9.75,100.00
+Chhattisgarh,5,Khairagarh,73,2019-20,9.22,9.22,100.00
+Chhattisgarh,5,Dongargarh (SC),74,2019-20,5.62,5.62,100.00
+Chhattisgarh,5,Rajnandgaon,75,2019-20,12.01,12.01,100.00
+Chhattisgarh,5,Dongargaon,76,2019-20,5.17,5.17,100.00
+Chhattisgarh,5,Khujji,77,2019-20,6.00,6.00,100.00
+Chhattisgarh,5,Mohala-Manpur (ST),78,2019-20,5.74,5.74,100.00
+Chhattisgarh,5,Antagarh (ST),79,2019-20,1.10,1.10,100.00
+Chhattisgarh,5,Bhanupratappur (ST),80,2019-20,2.22,2.22,100.00
+Chhattisgarh,5,Kanker (ST),81,2019-20,3.53,3.53,100.00
+Chhattisgarh,5,Keshkal (ST),82,2019-20,7.83,7.83,100.00
+Chhattisgarh,5,Kondagaon (ST),83,2019-20,8.30,8.30,100.00
+Chhattisgarh,5,Narayanpur (ST),84,2019-20,6.83,6.83,100.00
+Chhattisgarh,5,Bastar (ST),85,2019-20,4.43,4.43,100.00
+Chhattisgarh,5,Jagdalpur,86,2019-20,8.44,8.44,100.00
+Chhattisgarh,5,Chitrakot (ST),87,2019-20,7.21,7.21,100.00
+Chhattisgarh,5,Dantewada (ST),88,2019-20,7.75,7.75,100.00
+Chhattisgarh,5,Bijapur (ST),89,2019-20,3.46,3.46,100.00
+Chhattisgarh,5,Konta (ST),90,2019-20,6.35,6.35,100.00
+Chhattisgarh,5,Bharatpur-Sonhat (ST),1,2020-21,5.08,5.08,100.00
+Chhattisgarh,5,Manendragarh,2,2020-21,4.79,4.79,100.00
+Chhattisgarh,5,Baikunthpur,3,2020-21,7.02,7.02,100.00
+Chhattisgarh,5,Premnagar,4,2020-21,8.64,8.64,100.00
+Chhattisgarh,5,Bhatgaon,5,2020-21,11.26,11.26,100.00
+Chhattisgarh,5,Pratappur (ST),6,2020-21,6.17,6.17,100.00
+Chhattisgarh,5,Ramanujganj (ST),7,2020-21,10.10,10.10,100.00
+Chhattisgarh,5,Samri (ST),8,2020-21,6.08,6.08,100.00
+Chhattisgarh,5,Lundra (ST),9,2020-21,12.05,12.05,100.00
+Chhattisgarh,5,Ambikapur,10,2020-21,8.17,8.17,100.00
+Chhattisgarh,5,Sitapur (ST),11,2020-21,10.80,10.80,100.00
+Chhattisgarh,5,Jashpur (ST),12,2020-21,6.82,6.82,100.00
+Chhattisgarh,5,Kunkuri (ST),13,2020-21,7.23,7.23,100.00
+Chhattisgarh,5,Pathalgaon (ST),14,2020-21,9.14,9.14,100.00
+Chhattisgarh,5,Lailunga (ST),15,2020-21,7.54,7.54,100.00
+Chhattisgarh,5,Raigarh,16,2020-21,15.70,15.70,100.00
+Chhattisgarh,5,Sarangarh (SC),17,2020-21,21.80,21.80,100.00
+Chhattisgarh,5,Kharsia,18,2020-21,12.90,12.90,100.00
+Chhattisgarh,5,Dharamjaigarh (ST),19,2020-21,13.17,13.17,100.00
+Chhattisgarh,5,Rampur (ST),20,2020-21,16.77,16.77,100.00
+Chhattisgarh,5,Korba,21,2020-21,NA,NA,NA
+Chhattisgarh,5,Katghora,22,2020-21,6.92,6.92,100.00
+Chhattisgarh,5,Pali-Tanakhar (ST),23,2020-21,15.67,15.67,100.00
+Chhattisgarh,5,Marwahi (ST),24,2020-21,9.52,9.52,100.00
+Chhattisgarh,5,Kota,25,2020-21,11.60,11.60,100.00
+Chhattisgarh,5,Lormi,26,2020-21,10.77,10.77,100.00
+Chhattisgarh,5,Mungeli (SC),27,2020-21,15.66,15.66,100.00
+Chhattisgarh,5,Takhatpur,28,2020-21,10.02,10.02,100.00
+Chhattisgarh,5,Bilha,29,2020-21,13.19,13.19,100.00
+Chhattisgarh,5,Bilaspur,30,2020-21,5.97,5.97,100.00
+Chhattisgarh,5,Beltara,31,2020-21,5.38,5.38,100.00
+Chhattisgarh,5,Masturi (SC),32,2020-21,16.94,16.94,100.00
+Chhattisgarh,5,Akaltara,33,2020-21,7.25,7.25,100.00
+Chhattisgarh,5,Janjgir Champa,34,2020-21,7.23,7.23,100.00
+Chhattisgarh,5,Sakti,35,2020-21,10.17,10.17,100.00
+Chhattisgarh,5,Chandrapura,36,2020-21,13.45,13.45,100.00
+Chhattisgarh,5,Jaijaipur,37,2020-21,13.19,13.19,100.00
+Chhattisgarh,5,Pamgarh (SC),38,2020-21,7.72,7.72,100.00
+Chhattisgarh,5,Saraipali (SC),39,2020-21,16.04,16.04,100.00
+Chhattisgarh,5,Basna,40,2020-21,12.98,12.98,100.00
+Chhattisgarh,5,Khallari,41,2020-21,8.89,8.89,100.00
+Chhattisgarh,5,Mahasamund,42,2020-21,9.53,9.53,100.00
+Chhattisgarh,5,Bilaigarh (SC),43,2020-21,12.83,12.83,100.00
+Chhattisgarh,5,Kasdol,44,2020-21,7.91,7.91,100.00
+Chhattisgarh,5,Baloda Bazar,45,2020-21,8.87,8.87,100.00
+Chhattisgarh,5,Bhatapara,46,2020-21,10.16,10.16,100.00
+Chhattisgarh,5,Dharsiwa,47,2020-21,10.17,10.17,100.00
+Chhattisgarh,5,Raipur Rural,48,2020-21,2.13,2.13,100.00
+Chhattisgarh,5,Raipur City West,49,2020-21,3.13,3.13,100.00
+Chhattisgarh,5,Raipur City North,50,2020-21,4.55,4.55,100.00
+Chhattisgarh,5,Raipur City South,51,2020-21,4.32,4.32,100.00
+Chhattisgarh,5,Arang (SC),52,2020-21,8.24,8.24,100.00
+Chhattisgarh,5,Abhanpur,53,2020-21,8.07,8.07,100.00
+Chhattisgarh,5,Rajim,54,2020-21,9.40,9.40,100.00
+Chhattisgarh,5,Bindranawagarh (ST),55,2020-21,15.83,15.83,100.00
+Chhattisgarh,5,Sihawa (ST),56,2020-21,9.83,9.83,100.00
+Chhattisgarh,5,Kurud,57,2020-21,6.06,6.06,100.00
+Chhattisgarh,5,Dhamtari,58,2020-21,7.10,7.10,100.00
+Chhattisgarh,5,Sanjari Balod,59,2020-21,6.14,6.14,100.00
+Chhattisgarh,5,Dondi Lohara (ST),60,2020-21,7.40,7.40,100.00
+Chhattisgarh,5,Gunderdehi,61,2020-21,6.89,6.89,100.00
+Chhattisgarh,5,Patan,62,2020-21,3.58,3.58,100.00
+Chhattisgarh,5,Durg-Rural,63,2020-21,2.47,2.47,100.00
+Chhattisgarh,5,Durg-City,64,2020-21,7.26,7.26,100.00
+Chhattisgarh,5,Bhilai Nagar,65,2020-21,0.61,0.61,100.00
+Chhattisgarh,5,Vaishali Nagar,66,2020-21,8.51,8.51,100.00
+Chhattisgarh,5,Ahiwara (SC),67,2020-21,7.31,7.31,100.00
+Chhattisgarh,5,Saja,68,2020-21,7.43,7.43,100.00
+Chhattisgarh,5,Bemetara,69,2020-21,7.93,7.93,100.00
+Chhattisgarh,5,Nawagarh (SC),70,2020-21,7.05,7.05,100.00
+Chhattisgarh,5,Pandariya,71,2020-21,13.04,13.04,100.00
+Chhattisgarh,5,Kawardha,72,2020-21,9.82,9.82,100.00
+Chhattisgarh,5,Khairagarh,73,2020-21,9.16,9.16,100.00
+Chhattisgarh,5,Dongargarh (SC),74,2020-21,5.53,5.53,100.00
+Chhattisgarh,5,Rajnandgaon,75,2020-21,12.11,12.11,100.00
+Chhattisgarh,5,Dongargaon,76,2020-21,5.14,5.14,100.00
+Chhattisgarh,5,Khujji,77,2020-21,5.73,5.73,100.00
+Chhattisgarh,5,Mohala-Manpur (ST),78,2020-21,5.45,5.45,100.00
+Chhattisgarh,5,Antagarh (ST),79,2020-21,3.09,3.09,100.00
+Chhattisgarh,5,Bhanupratappur (ST),80,2020-21,6.28,6.28,100.00
+Chhattisgarh,5,Kanker (ST),81,2020-21,8.96,8.96,100.00
+Chhattisgarh,5,Keshkal (ST),82,2020-21,8.94,8.94,100.00
+Chhattisgarh,5,Kondagaon (ST),83,2020-21,9.59,9.59,100.00
+Chhattisgarh,5,Narayanpur (ST),84,2020-21,7.57,7.57,100.00
+Chhattisgarh,5,Bastar (ST),85,2020-21,4.58,4.58,100.00
+Chhattisgarh,5,Jagdalpur,86,2020-21,8.99,8.99,100.00
+Chhattisgarh,5,Chitrakot (ST),87,2020-21,7.13,7.13,100.00
+Chhattisgarh,5,Dantewada (ST),88,2020-21,8.90,8.90,100.00
+Chhattisgarh,5,Bijapur (ST),89,2020-21,5.32,5.32,100.00
+Chhattisgarh,5,Konta (ST),90,2020-21,7.34,7.34,100.00
+Jharkhand,10,Rajmahal,1,2019-20,45.56,45.56,100.00
+Jharkhand,10,Boiro (ST),2,2019-20,42.84,42.84,100.00
+Jharkhand,10,Barhait (ST),3,2019-20,27.12,27.12,100.00
+Jharkhand,10,Litipara (ST),4,2019-20,30.11,30.11,100.00
+Jharkhand,10,Pakur,5,2019-20,53.08,53.08,100.00
+Jharkhand,10,Maheshpur (ST),6,2019-20,37.44,37.44,100.00
+Jharkhand,10,Sikaripara (ST),7,2019-20,34.09,34.09,100.00
+Jharkhand,10,Nala,8,2019-20,53.35,53.35,100.00
+Jharkhand,10,Jamtara,9,2019-20,33.08,33.08,100.00
+Jharkhand,10,Dumka (ST),10,2019-20,33.93,33.93,100.00
+Jharkhand,10,Jama (ST),11,2019-20,34.38,34.38,100.00
+Jharkhand,10,Jarmundi,12,2019-20,33.18,33.18,100.00
+Jharkhand,10,Madhupur,13,2019-20,33.56,33.56,100.00
+Jharkhand,10,Sarath,14,2019-20,29.65,29.65,100.00
+Jharkhand,10,Deoghar (SC),15,2019-20,38.08,38.08,100.00
+Jharkhand,10,Poreyahat,16,2019-20,54.58,54.58,100.00
+Jharkhand,10,Godda,17,2019-20,44.68,44.68,100.00
+Jharkhand,10,Mahagama,18,2019-20,47.33,47.33,100.00
+Jharkhand,10,Kodarma,19,2019-20,80.30,80.30,100.00
+Jharkhand,10,Barkatha,20,2019-20,37.17,37.17,100.00
+Jharkhand,10,Barhi,21,2019-20,39.08,39.08,100.00
+Jharkhand,10,Barkagaon,22,2019-20,35.22,35.22,100.00
+Jharkhand,10,Ramgarh,23,2019-20,53.08,53.08,100.00
+Jharkhand,10,Mandu,24,2019-20,27.58,27.58,100.00
+Jharkhand,10,Hazaribagh,25,2019-20,25.05,25.05,100.00
+Jharkhand,10,Simaria (SC),26,2019-20,58.70,58.70,100.00
+Jharkhand,10,Chatra (SC),27,2019-20,52.71,52.71,100.00
+Jharkhand,10,Dhanwar,28,2019-20,43.20,43.20,100.00
+Jharkhand,10,Bagodar,29,2019-20,32.28,32.28,100.00
+Jharkhand,10,Jamua (SC),30,2019-20,29.29,29.29,100.00
+Jharkhand,10,Gandey,31,2019-20,38.51,38.51,100.00
+Jharkhand,10,Giridih,32,2019-20,30.12,30.12,100.00
+Jharkhand,10,Dumri,33,2019-20,32.82,32.82,100.00
+Jharkhand,10,Gomia,34,2019-20,46.95,46.95,100.00
+Jharkhand,10,Bermo,35,2019-20,30.70,30.70,100.00
+Jharkhand,10,Bokaro,36,2019-20,9.38,9.38,100.00
+Jharkhand,10,Chandankiyari (SC),37,2019-20,28.77,28.77,100.00
+Jharkhand,10,Sindri,38,2019-20,44.24,44.24,100.00
+Jharkhand,10,Nirsa,39,2019-20,40.52,40.52,100.00
+Jharkhand,10,Dhanbad,40,2019-20,0.06,0.06,100.00
+Jharkhand,10,Jharia,41,2019-20,NA,NA,NA
+Jharkhand,10,Tundi,42,2019-20,47.44,47.44,100.00
+Jharkhand,10,Baghmara,43,2019-20,16.73,16.73,100.00
+Jharkhand,10,Baharagora,44,2019-20,43.53,43.53,100.00
+Jharkhand,10,Ghatsila (ST),45,2019-20,34.25,34.25,100.00
+Jharkhand,10,Potka (ST),46,2019-20,31.74,31.74,100.00
+Jharkhand,10,Jugsalai (SC),47,2019-20,39.68,39.68,100.00
+Jharkhand,10,Jamshedpur-East,48,2019-20,6.04,6.04,100.00
+Jharkhand,10,Jamshedpur West,49,2019-20,4.90,4.90,100.00
+Jharkhand,10,Ichagarh,50,2019-20,65.09,65.09,100.00
+Jharkhand,10,Seraikella (ST),51,2019-20,31.42,31.42,100.00
+Jharkhand,10,Chaibasa (ST),52,2019-20,21.70,21.70,100.00
+Jharkhand,10,Majhgaon (ST),53,2019-20,19.86,19.86,100.00
+Jharkhand,10,Jaganathpur (ST),54,2019-20,12.61,12.61,100.00
+Jharkhand,10,Manoharpur (ST),55,2019-20,23.21,23.21,100.00
+Jharkhand,10,Chakradharpur (ST),56,2019-20,23.57,23.57,100.00
+Jharkhand,10,Kharsawan (ST),57,2019-20,45.84,45.84,100.00
+Jharkhand,10,Tamar (ST),58,2019-20,33.21,33.21,100.00
+Jharkhand,10,Torpa (ST),59,2019-20,34.08,34.08,100.00
+Jharkhand,10,Khunti (ST),60,2019-20,39.31,39.31,100.00
+Jharkhand,10,Silli,61,2019-20,28.71,28.71,100.00
+Jharkhand,10,Khijri (ST),62,2019-20,27.63,27.63,100.00
+Jharkhand,10,Ranchi,63,2019-20,13.11,13.11,100.00
+Jharkhand,10,Hatia,64,2019-20,24.84,24.84,100.00
+Jharkhand,10,Kanke (SC),65,2019-20,26.19,26.19,100.00
+Jharkhand,10,Mandar (ST),66,2019-20,43.15,43.15,100.00
+Jharkhand,10,Sisai (ST),67,2019-20,33.50,33.50,100.00
+Jharkhand,10,Gumla (ST),68,2019-20,29.75,29.75,100.00
+Jharkhand,10,Bishunpur (ST),69,2019-20,32.43,32.43,100.00
+Jharkhand,10,Simdega (ST),70,2019-20,37.94,37.94,100.00
+Jharkhand,10,Kolebira (ST),71,2019-20,31.53,31.53,100.00
+Jharkhand,10,Lohardaga (ST),72,2019-20,28.47,28.47,100.00
+Jharkhand,10,Manika (ST),73,2019-20,32.98,32.98,100.00
+Jharkhand,10,Latehar (SC),74,2019-20,33.84,33.84,100.00
+Jharkhand,10,Panki,75,2019-20,52.69,52.69,100.00
+Jharkhand,10,Daltonganj,76,2019-20,68.29,68.29,100.00
+Jharkhand,10,Bishrampur,77,2019-20,22.53,22.53,100.00
+Jharkhand,10,Chhatarpur (SC),78,2019-20,31.57,31.57,100.00
+Jharkhand,10,Hussainabad,79,2019-20,55.02,55.02,100.00
+Jharkhand,10,Garhwa,80,2019-20,57.91,57.91,100.00
+Jharkhand,10,Bhawanathpur,81,2019-20,133.60,133.60,100.00
+Jharkhand,10,Rajmahal,1,2020-21,43.49,43.49,100.00
+Jharkhand,10,Boiro (ST),2,2020-21,42.43,42.43,100.00
+Jharkhand,10,Barhait (ST),3,2020-21,26.03,26.03,100.00
+Jharkhand,10,Litipara (ST),4,2020-21,30.13,30.13,100.00
+Jharkhand,10,Pakur,5,2020-21,52.34,52.34,100.00
+Jharkhand,10,Maheshpur (ST),6,2020-21,36.64,36.64,100.00
+Jharkhand,10,Sikaripara (ST),7,2020-21,33.20,33.20,100.00
+Jharkhand,10,Nala,8,2020-21,43.67,43.67,100.00
+Jharkhand,10,Jamtara,9,2020-21,40.30,40.30,100.00
+Jharkhand,10,Dumka (ST),10,2020-21,34.76,34.76,100.00
+Jharkhand,10,Jama (ST),11,2020-21,33.77,33.77,100.00
+Jharkhand,10,Jarmundi,12,2020-21,32.12,32.12,100.00
+Jharkhand,10,Madhupur,13,2020-21,22.81,22.81,100.00
+Jharkhand,10,Sarath,14,2020-21,28.17,28.17,100.00
+Jharkhand,10,Deoghar (SC),15,2020-21,34.67,34.67,100.00
+Jharkhand,10,Poreyahat,16,2020-21,61.40,61.40,100.00
+Jharkhand,10,Godda,17,2020-21,53.73,53.73,100.00
+Jharkhand,10,Mahagama,18,2020-21,55.85,55.85,100.00
+Jharkhand,10,Kodarma,19,2020-21,85.07,85.07,100.00
+Jharkhand,10,Barkatha,20,2020-21,38.58,38.58,100.00
+Jharkhand,10,Barhi,21,2020-21,41.20,41.20,100.00
+Jharkhand,10,Barkagaon,22,2020-21,35.47,35.47,100.00
+Jharkhand,10,Ramgarh,23,2020-21,44.55,44.55,100.00
+Jharkhand,10,Mandu,24,2020-21,28.60,28.60,100.00
+Jharkhand,10,Hazaribagh,25,2020-21,25.47,25.47,100.00
+Jharkhand,10,Simaria (SC),26,2020-21,57.65,57.65,100.00
+Jharkhand,10,Chatra (SC),27,2020-21,49.74,49.74,100.00
+Jharkhand,10,Dhanwar,28,2020-21,42.10,42.10,100.00
+Jharkhand,10,Bagodar,29,2020-21,33.85,33.85,100.00
+Jharkhand,10,Jamua (SC),30,2020-21,49.43,49.43,100.00
+Jharkhand,10,Gandey,31,2020-21,36.93,36.93,100.00
+Jharkhand,10,Giridih,32,2020-21,28.94,28.94,100.00
+Jharkhand,10,Dumri,33,2020-21,31.70,31.70,100.00
+Jharkhand,10,Gomia,34,2020-21,44.34,44.34,100.00
+Jharkhand,10,Bermo,35,2020-21,19.28,19.28,100.00
+Jharkhand,10,Bokaro,36,2020-21,8.77,8.77,100.00
+Jharkhand,10,Chandankiyari (SC),37,2020-21,26.59,26.59,100.00
+Jharkhand,10,Sindri,38,2020-21,46.19,46.19,100.00
+Jharkhand,10,Nirsa,39,2020-21,43.81,43.81,100.00
+Jharkhand,10,Dhanbad,40,2020-21,0.49,0.49,100.00
+Jharkhand,10,Jharia,41,2020-21,NA,NA,NA
+Jharkhand,10,Tundi,42,2020-21,51.74,51.74,100.00
+Jharkhand,10,Baghmara,43,2020-21,19.70,19.70,100.00
+Jharkhand,10,Baharagora,44,2020-21,41.73,41.73,100.00
+Jharkhand,10,Ghatsila (ST),45,2020-21,33.96,33.96,100.00
+Jharkhand,10,Potka (ST),46,2020-21,33.91,33.91,100.00
+Jharkhand,10,Jugsalai (SC),47,2020-21,40.51,40.51,100.00
+Jharkhand,10,Jamshedpur-East,48,2020-21,6.04,6.04,100.00
+Jharkhand,10,Jamshedpur West,49,2020-21,5.03,5.03,100.00
+Jharkhand,10,Ichagarh,50,2020-21,64.93,64.93,100.00
+Jharkhand,10,Seraikella (ST),51,2020-21,30.99,30.99,100.00
+Jharkhand,10,Chaibasa (ST),52,2020-21,19.50,19.50,100.00
+Jharkhand,10,Majhgaon (ST),53,2020-21,18.30,18.30,100.00
+Jharkhand,10,Jaganathpur (ST),54,2020-21,12.29,12.29,100.00
+Jharkhand,10,Manoharpur (ST),55,2020-21,23.89,23.89,100.00
+Jharkhand,10,Chakradharpur (ST),56,2020-21,22.86,22.86,100.00
+Jharkhand,10,Kharsawan (ST),57,2020-21,44.97,44.97,100.00
+Jharkhand,10,Tamar (ST),58,2020-21,28.78,28.78,100.00
+Jharkhand,10,Torpa (ST),59,2020-21,28.90,28.90,100.00
+Jharkhand,10,Khunti (ST),60,2020-21,29.83,29.83,100.00
+Jharkhand,10,Silli,61,2020-21,25.73,25.73,100.00
+Jharkhand,10,Khijri (ST),62,2020-21,26.72,26.72,100.00
+Jharkhand,10,Ranchi,63,2020-21,13.11,13.11,100.00
+Jharkhand,10,Hatia,64,2020-21,24.31,24.31,100.00
+Jharkhand,10,Kanke (SC),65,2020-21,23.23,23.23,100.00
+Jharkhand,10,Mandar (ST),66,2020-21,39.92,39.92,100.00
+Jharkhand,10,Sisai (ST),67,2020-21,30.46,30.46,100.00
+Jharkhand,10,Gumla (ST),68,2020-21,25.25,25.25,100.00
+Jharkhand,10,Bishunpur (ST),69,2020-21,28.79,28.79,100.00
+Jharkhand,10,Simdega (ST),70,2020-21,37.45,37.45,100.00
+Jharkhand,10,Kolebira (ST),71,2020-21,32.05,32.05,100.00
+Jharkhand,10,Lohardaga (ST),72,2020-21,29.88,29.88,100.00
+Jharkhand,10,Manika (ST),73,2020-21,50.97,50.97,100.00
+Jharkhand,10,Latehar (SC),74,2020-21,54.65,54.65,100.00
+Jharkhand,10,Panki,75,2020-21,51.48,51.48,100.00
+Jharkhand,10,Daltonganj,76,2020-21,65.52,65.52,100.00
+Jharkhand,10,Bishrampur,77,2020-21,23.46,23.46,100.00
+Jharkhand,10,Chhatarpur (SC),78,2020-21,49.42,49.42,100.00
+Jharkhand,10,Hussainabad,79,2020-21,55.82,55.82,100.00
+Jharkhand,10,Garhwa,80,2020-21,56.93,56.93,100.00
+Jharkhand,10,Bhawanathpur,81,2020-21,131.38,131.38,100.00
+Maharashtra,14,Akkalkuwa (ST),1,2019-20,10.20,10.20,100.00
+Maharashtra,14,Shahada (ST),2,2019-20,17.94,17.94,100.00
+Maharashtra,14,Nandurbar (ST),3,2019-20,5.14,5.14,100.00
+Maharashtra,14,Nawapur (ST),4,2019-20,23.78,23.78,100.00
+Maharashtra,14,Sakri (ST),5,2019-20,NA,NA,NA
+Maharashtra,14,Dhule Rural,6,2019-20,NA,NA,NA
+Maharashtra,14,Dhule City,7,2019-20,NA,NA,NA
+Maharashtra,14,Sindkheda,8,2019-20,NA,NA,NA
+Maharashtra,14,Shirpur (ST),9,2019-20,NA,NA,NA
+Maharashtra,14,Chopda (ST),10,2019-20,NA,NA,NA
+Maharashtra,14,Raver,11,2019-20,NA,NA,NA
+Maharashtra,14,Bhusawal (SC),12,2019-20,NA,NA,NA
+Maharashtra,14,Jalgaon (City),13,2019-20,NA,NA,NA
+Maharashtra,14,Jalgaon (Rural),14,2019-20,NA,NA,NA
+Maharashtra,14,Amalner,15,2019-20,NA,NA,NA
+Maharashtra,14,Erandol,16,2019-20,NA,NA,NA
+Maharashtra,14,Chalisgaon,17,2019-20,NA,NA,NA
+Maharashtra,14,Pachora,18,2019-20,NA,NA,NA
+Maharashtra,14,Jamner,19,2019-20,NA,NA,NA
+Maharashtra,14,Muktainagar,20,2019-20,NA,NA,NA
+Maharashtra,14,Malkapur,21,2019-20,NA,NA,NA
+Maharashtra,14,Buldhana,22,2019-20,NA,NA,NA
+Maharashtra,14,Chikhli,23,2019-20,NA,NA,NA
+Maharashtra,14,Sindkhed Raja,24,2019-20,NA,NA,NA
+Maharashtra,14,Mehkar (SC),25,2019-20,NA,NA,NA
+Maharashtra,14,Khamgaon,26,2019-20,NA,NA,NA
+Maharashtra,14,Jalgaon (Jamod),27,2019-20,NA,NA,NA
+Maharashtra,14,Akot,28,2019-20,0.30,0.30,100.00
+Maharashtra,14,Balapur,29,2019-20,0.19,0.19,100.00
+Maharashtra,14,Akola West,30,2019-20,NA,NA,NA
+Maharashtra,14,Akola East,31,2019-20,0.19,0.19,100.00
+Maharashtra,14,Murtizapur (SC),32,2019-20,0.24,0.24,100.00
+Maharashtra,14,Risod,33,2019-20,NA,NA,NA
+Maharashtra,14,Washim (SC),34,2019-20,NA,NA,NA
+Maharashtra,14,Karanja,35,2019-20,NA,NA,NA
+Maharashtra,14,Dhamangaon Railway,36,2019-20,NA,NA,NA
+Maharashtra,14,Badnera,37,2019-20,NA,NA,NA
+Maharashtra,14,Amravati,38,2019-20,NA,NA,NA
+Maharashtra,14,Teosa,39,2019-20,NA,NA,NA
+Maharashtra,14,Daryapur (SC),40,2019-20,NA,NA,NA
+Maharashtra,14,Melghat (ST),41,2019-20,NA,NA,NA
+Maharashtra,14,Achalpur,42,2019-20,NA,NA,NA
+Maharashtra,14,Morshi,43,2019-20,NA,NA,NA
+Maharashtra,14,Arvi,44,2019-20,0.01,0.01,100.00
+Maharashtra,14,Deoli,45,2019-20,0.02,0.02,100.00
+Maharashtra,14,Hinganghat,46,2019-20,NA,NA,NA
+Maharashtra,14,Wardha,47,2019-20,NA,NA,NA
+Maharashtra,14,Katol,48,2019-20,11.46,11.46,100.00
+Maharashtra,14,Savner,49,2019-20,2.41,2.41,100.00
+Maharashtra,14,Hingna,50,2019-20,1.02,1.02,100.00
+Maharashtra,14,Umred (SC),51,2019-20,6.02,6.02,100.00
+Maharashtra,14,Nagpur South West,52,2019-20,NA,NA,NA
+Maharashtra,14,Nagpur South,53,2019-20,NA,NA,NA
+Maharashtra,14,Nagpur East,54,2019-20,NA,NA,NA
+Maharashtra,14,Nagpur Central,55,2019-20,NA,NA,NA
+Maharashtra,14,Nagpur West,56,2019-20,NA,NA,NA
+Maharashtra,14,Nagpur North (SC),57,2019-20,NA,NA,NA
+Maharashtra,14,Kamthi,58,2019-20,3.64,3.64,100.00
+Maharashtra,14,Ramtek,59,2019-20,3.80,3.80,100.00
+Maharashtra,14,Tumsar,60,2019-20,NA,NA,NA
+Maharashtra,14,Bhandara (SC),61,2019-20,NA,NA,NA
+Maharashtra,14,Sakoli,62,2019-20,9.53,9.53,100.00
+Maharashtra,14,Arjuni Morgaon (SC),63,2019-20,NA,NA,NA
+Maharashtra,14,Tirora,64,2019-20,NA,NA,NA
+Maharashtra,14,Gondia,65,2019-20,NA,NA,NA
+Maharashtra,14,Amgaon (ST),66,2019-20,NA,NA,NA
+Maharashtra,14,Armori (ST),67,2019-20,NA,NA,NA
+Maharashtra,14,Gadchiroli (ST),68,2019-20,NA,NA,NA
+Maharashtra,14,Aheri (ST),69,2019-20,NA,NA,NA
+Maharashtra,14,Rajura,70,2019-20,2.03,2.03,100.00
+Maharashtra,14,Chandrapur (SC),71,2019-20,0.18,0.18,100.00
+Maharashtra,14,Ballarpur,72,2019-20,1.85,1.85,100.00
+Maharashtra,14,Brahmapuri,73,2019-20,0.29,0.29,100.00
+Maharashtra,14,Chimur,74,2019-20,0.38,0.38,100.00
+Maharashtra,14,Warora,75,2019-20,0.01,0.01,100.00
+Maharashtra,14,Wani,76,2019-20,NA,NA,NA
+Maharashtra,14,Ralegaon (ST),77,2019-20,NA,NA,NA
+Maharashtra,14,Yavatmal,78,2019-20,NA,NA,NA
+Maharashtra,14,Digras,79,2019-20,NA,NA,NA
+Maharashtra,14,Arni (ST),80,2019-20,NA,NA,NA
+Maharashtra,14,Pusad,81,2019-20,NA,NA,NA
+Maharashtra,14,Umarkhed (SC),82,2019-20,NA,NA,NA
+Maharashtra,14,Kinwat,83,2019-20,NA,NA,NA
+Maharashtra,14,Hadgaon,84,2019-20,NA,NA,NA
+Maharashtra,14,Bhokar,85,2019-20,0.21,0.21,100.00
+Maharashtra,14,Nanded North,86,2019-20,NA,NA,NA
+Maharashtra,14,Nanded South,87,2019-20,NA,NA,NA
+Maharashtra,14,Loha,88,2019-20,NA,NA,NA
+Maharashtra,14,Naigaon,89,2019-20,NA,NA,NA
+Maharashtra,14,Deglur (SC),90,2019-20,NA,NA,NA
+Maharashtra,14,Mukhed,91,2019-20,NA,NA,NA
+Maharashtra,14,Basmath,92,2019-20,NA,NA,NA
+Maharashtra,14,Kalamnuri,93,2019-20,NA,NA,NA
+Maharashtra,14,Hingoli,94,2019-20,NA,NA,NA
+Maharashtra,14,Jintur,95,2019-20,NA,NA,NA
+Maharashtra,14,Parbhani,96,2019-20,NA,NA,NA
+Maharashtra,14,Gangakhed,97,2019-20,NA,NA,NA
+Maharashtra,14,Pathri,98,2019-20,NA,NA,NA
+Maharashtra,14,Partur,99,2019-20,NA,NA,NA
+Maharashtra,14,Ghansawangi,100,2019-20,NA,NA,NA
+Maharashtra,14,Jalna,101,2019-20,NA,NA,NA
+Maharashtra,14,Badnapur (SC),102,2019-20,2.45,2.45,100.00
+Maharashtra,14,Bhokardan,103,2019-20,5.99,5.99,100.00
+Maharashtra,14,Sillod,104,2019-20,1.74,1.74,100.00
+Maharashtra,14,Kannad,105,2019-20,4.43,4.43,100.00
+Maharashtra,14,Phulambri,106,2019-20,16.96,16.96,100.00
+Maharashtra,14,Aurangabad Central,107,2019-20,NA,NA,NA
+Maharashtra,14,Aurangabad West (SC),108,2019-20,1.02,1.02,100.00
+Maharashtra,14,Aurangbad East,109,2019-20,0.02,0.02,100.00
+Maharashtra,14,Paithan,110,2019-20,5.74,5.74,100.00
+Maharashtra,14,Gangapur,111,2019-20,14.22,14.22,100.00
+Maharashtra,14,Vaijapur,112,2019-20,10.82,10.82,100.00
+Maharashtra,14,Nandgaon,113,2019-20,NA,NA,NA
+Maharashtra,14,Malegaon (Central),114,2019-20,NA,NA,NA
+Maharashtra,14,Malegaon (Outer),115,2019-20,NA,NA,NA
+Maharashtra,14,Baglan (ST),116,2019-20,NA,NA,NA
+Maharashtra,14,Kalwan (ST),117,2019-20,NA,NA,NA
+Maharashtra,14,Chandvad,118,2019-20,NA,NA,NA
+Maharashtra,14,Yevla,119,2019-20,NA,NA,NA
+Maharashtra,14,Sinnar,120,2019-20,NA,NA,NA
+Maharashtra,14,Niphad,121,2019-20,NA,NA,NA
+Maharashtra,14,Dindori (ST),122,2019-20,NA,NA,NA
+Maharashtra,14,Nashik East,123,2019-20,NA,NA,NA
+Maharashtra,14,Nashik (Central),124,2019-20,NA,NA,NA
+Maharashtra,14,Nashik West,125,2019-20,NA,NA,NA
+Maharashtra,14,Deolali (SC),126,2019-20,NA,NA,NA
+Maharashtra,14,Igatpuri (ST),127,2019-20,NA,NA,NA
+Maharashtra,14,Dahanu (ST),128,2019-20,NA,NA,NA
+Maharashtra,14,Vikramgad (ST),129,2019-20,NA,NA,NA
+Maharashtra,14,Palghar (ST),130,2019-20,NA,NA,NA
+Maharashtra,14,Boisar (ST),131,2019-20,NA,NA,NA
+Maharashtra,14,Nalasopara,132,2019-20,NA,NA,NA
+Maharashtra,14,Vasai,133,2019-20,NA,NA,NA
+Maharashtra,14,Bhiwandi Rural (ST),134,2019-20,NA,NA,NA
+Maharashtra,14,Shahapur (ST),135,2019-20,NA,NA,NA
+Maharashtra,14,Bhiwandi West,136,2019-20,NA,NA,NA
+Maharashtra,14,Bhiwandi East,137,2019-20,NA,NA,NA
+Maharashtra,14,Kalyan West,138,2019-20,NA,NA,NA
+Maharashtra,14,Murbad,139,2019-20,NA,NA,NA
+Maharashtra,14,Ambernath (SC),140,2019-20,NA,NA,NA
+Maharashtra,14,Ulhasnagar,141,2019-20,NA,NA,NA
+Maharashtra,14,Kalyan East,142,2019-20,NA,NA,NA
+Maharashtra,14,Dombivali,143,2019-20,NA,NA,NA
+Maharashtra,14,Kalyan Rural,144,2019-20,NA,NA,NA
+Maharashtra,14,Mira Bhayandar,145,2019-20,NA,NA,NA
+Maharashtra,14,Ovala Majiwada,146,2019-20,NA,NA,NA
+Maharashtra,14,Kopri Pachpakhadi,147,2019-20,NA,NA,NA
+Maharashtra,14,Thane,148,2019-20,NA,NA,NA
+Maharashtra,14,Mumbra Kalwa,149,2019-20,NA,NA,NA
+Maharashtra,14,Airoli,150,2019-20,NA,NA,NA
+Maharashtra,14,Belapur,151,2019-20,NA,NA,NA
+Maharashtra,14,Borivali,152,2019-20,NA,NA,NA
+Maharashtra,14,Dahisar,153,2019-20,0.11,0.11,100.00
+Maharashtra,14,Magathane,154,2019-20,NA,NA,NA
+Maharashtra,14,Mulund,155,2019-20,0.08,0.08,100.00
+Maharashtra,14,Vikhroli,156,2019-20,NA,NA,NA
+Maharashtra,14,Bhandup West,157,2019-20,0.16,0.16,100.00
+Maharashtra,14,Jogeshwari East,158,2019-20,NA,NA,NA
+Maharashtra,14,Dindoshi,159,2019-20,0.15,0.15,100.00
+Maharashtra,14,Kandivali East,160,2019-20,0.05,0.05,100.00
+Maharashtra,14,Charkop,161,2019-20,NA,NA,NA
+Maharashtra,14,Malad West,162,2019-20,NA,NA,NA
+Maharashtra,14,Goregaon,163,2019-20,NA,NA,NA
+Maharashtra,14,Versova,164,2019-20,NA,NA,NA
+Maharashtra,14,Andheri West,165,2019-20,0.06,0.06,100.00
+Maharashtra,14,Andheri East,166,2019-20,0.08,0.08,100.00
+Maharashtra,14,Vile Parle,167,2019-20,0.02,0.02,100.00
+Maharashtra,14,Chandivali,168,2019-20,0.09,0.09,100.00
+Maharashtra,14,Ghatkopar West,169,2019-20,NA,NA,NA
+Maharashtra,14,Ghatkopar East,170,2019-20,NA,NA,NA
+Maharashtra,14,Mankhurd Shivaji Nagar,171,2019-20,NA,NA,NA
+Maharashtra,14,Anushakti Nagar,172,2019-20,0.07,0.07,100.00
+Maharashtra,14,Chembur,173,2019-20,0.11,0.11,100.00
+Maharashtra,14,Kurla (SC),174,2019-20,0.14,0.14,100.00
+Maharashtra,14,Kalina,175,2019-20,NA,NA,NA
+Maharashtra,14,Vandre East,176,2019-20,0.09,0.09,100.00
+Maharashtra,14,Vandre West,177,2019-20,0.04,0.04,100.00
+Maharashtra,14,Dharavi (SC),178,2019-20,NA,NA,NA
+Maharashtra,14,Sion Koliwada,179,2019-20,NA,NA,NA
+Maharashtra,14,Wadala,180,2019-20,NA,NA,NA
+Maharashtra,14,Mahim,181,2019-20,NA,NA,NA
+Maharashtra,14,Worli,182,2019-20,NA,NA,NA
+Maharashtra,14,Shivadi,183,2019-20,NA,NA,NA
+Maharashtra,14,Byculla,184,2019-20,NA,NA,NA
+Maharashtra,14,Malabar Hill,185,2019-20,NA,NA,NA
+Maharashtra,14,Mumbadevi,186,2019-20,NA,NA,NA
+Maharashtra,14,Colaba,187,2019-20,NA,NA,NA
+Maharashtra,14,Panvel,188,2019-20,1.00,1.00,100.00
+Maharashtra,14,Karjat,189,2019-20,1.43,1.43,100.00
+Maharashtra,14,Uran,190,2019-20,1.03,1.03,100.00
+Maharashtra,14,Pen,191,2019-20,5.26,5.26,100.00
+Maharashtra,14,Alibag,192,2019-20,1.72,1.72,100.00
+Maharashtra,14,Shrivardhan,193,2019-20,1.60,1.60,100.00
+Maharashtra,14,Mahad,194,2019-20,1.04,1.04,100.00
+Maharashtra,14,Junnar,195,2019-20,NA,NA,NA
+Maharashtra,14,Ambegaon,196,2019-20,NA,NA,NA
+Maharashtra,14,Khed Alandi,197,2019-20,NA,NA,NA
+Maharashtra,14,Shirur,198,2019-20,NA,NA,NA
+Maharashtra,14,Daund,199,2019-20,NA,NA,NA
+Maharashtra,14,Indapur,200,2019-20,NA,NA,NA
+Maharashtra,14,Baramati,201,2019-20,NA,NA,NA
+Maharashtra,14,Purandar,202,2019-20,NA,NA,NA
+Maharashtra,14,Bhor,203,2019-20,NA,NA,NA
+Maharashtra,14,Maval,204,2019-20,NA,NA,NA
+Maharashtra,14,Chinchwad,205,2019-20,NA,NA,NA
+Maharashtra,14,Pimpri (SC),206,2019-20,NA,NA,NA
+Maharashtra,14,Bhosari,207,2019-20,NA,NA,NA
+Maharashtra,14,Vadgaon Sheri,208,2019-20,NA,NA,NA
+Maharashtra,14,Shivajinagar,209,2019-20,NA,NA,NA
+Maharashtra,14,Kothrud,210,2019-20,NA,NA,NA
+Maharashtra,14,Khadakwasala,211,2019-20,NA,NA,NA
+Maharashtra,14,Parvati,212,2019-20,NA,NA,NA
+Maharashtra,14,Hadapsar,213,2019-20,NA,NA,NA
+Maharashtra,14,Pune Cantonment (SC),214,2019-20,NA,NA,NA
+Maharashtra,14,Kasba Peth,215,2019-20,NA,NA,NA
+Maharashtra,14,Akole (ST),216,2019-20,NA,NA,NA
+Maharashtra,14,Sangamner,217,2019-20,NA,NA,NA
+Maharashtra,14,Shirdi,218,2019-20,2.68,2.68,100.00
+Maharashtra,14,Kopargaon,219,2019-20,1.81,1.81,100.00
+Maharashtra,14,Shrirampur (SC),220,2019-20,0.02,0.02,100.00
+Maharashtra,14,Nevasa,221,2019-20,0.24,0.24,100.00
+Maharashtra,14,Shevgaon,222,2019-20,NA,NA,NA
+Maharashtra,14,Rahuri,223,2019-20,0.09,0.09,100.00
+Maharashtra,14,Parner,224,2019-20,NA,NA,NA
+Maharashtra,14,Ahmednagar City,225,2019-20,NA,NA,NA
+Maharashtra,14,Shrigonda,226,2019-20,NA,NA,NA
+Maharashtra,14,Karjat Jamkhed,227,2019-20,2.62,2.62,100.00
+Maharashtra,14,Georai,228,2019-20,NA,NA,NA
+Maharashtra,14,Majalgaon,229,2019-20,NA,NA,NA
+Maharashtra,14,Beed,230,2019-20,NA,NA,NA
+Maharashtra,14,Ashti,231,2019-20,NA,NA,NA
+Maharashtra,14,Kaij (SC),232,2019-20,NA,NA,NA
+Maharashtra,14,Parli,233,2019-20,NA,NA,NA
+Maharashtra,14,Latur Rural,234,2019-20,NA,NA,NA
+Maharashtra,14,Latur City,235,2019-20,NA,NA,NA
+Maharashtra,14,Ahmadpur,236,2019-20,NA,NA,NA
+Maharashtra,14,Udgir (SC),237,2019-20,NA,NA,NA
+Maharashtra,14,Nilanga,238,2019-20,NA,NA,NA
+Maharashtra,14,Ausa,239,2019-20,NA,NA,NA
+Maharashtra,14,Umarga (SC),240,2019-20,NA,NA,NA
+Maharashtra,14,Tuljapur,241,2019-20,NA,NA,NA
+Maharashtra,14,Osmanabad,242,2019-20,NA,NA,NA
+Maharashtra,14,Paranda,243,2019-20,NA,NA,NA
+Maharashtra,14,Karmala,244,2019-20,NA,NA,NA
+Maharashtra,14,Madha,245,2019-20,NA,NA,NA
+Maharashtra,14,Barshi,246,2019-20,NA,NA,NA
+Maharashtra,14,Mohol (SC),247,2019-20,NA,NA,NA
+Maharashtra,14,Solapur City North,248,2019-20,NA,NA,NA
+Maharashtra,14,Solapur City Central,249,2019-20,NA,NA,NA
+Maharashtra,14,Akkalkot,250,2019-20,NA,NA,NA
+Maharashtra,14,Solapur South,251,2019-20,NA,NA,NA
+Maharashtra,14,Pandharpur,252,2019-20,NA,NA,NA
+Maharashtra,14,Sangole,253,2019-20,NA,NA,NA
+Maharashtra,14,Malshiras (SC),254,2019-20,NA,NA,NA
+Maharashtra,14,Phaltan (SC),255,2019-20,2.35,2.35,100.00
+Maharashtra,14,Wai,256,2019-20,0.79,0.79,100.00
+Maharashtra,14,Koregaon,257,2019-20,1.83,1.83,100.00
+Maharashtra,14,Man,258,2019-20,3.44,3.44,100.00
+Maharashtra,14,Karad North,259,2019-20,1.26,1.26,100.00
+Maharashtra,14,Karad South,260,2019-20,0.36,0.36,100.00
+Maharashtra,14,Patan,261,2019-20,1.64,1.64,100.00
+Maharashtra,14,Satara,262,2019-20,0.79,0.79,100.00
+Maharashtra,14,Dapoli,263,2019-20,NA,NA,NA
+Maharashtra,14,Guhagar,264,2019-20,1.31,1.31,100.00
+Maharashtra,14,Chiplun,265,2019-20,4.23,4.23,100.00
+Maharashtra,14,Ratnagiri,266,2019-20,2.31,2.31,100.00
+Maharashtra,14,Rajapur,267,2019-20,2.01,2.01,100.00
+Maharashtra,14,Kankavli,268,2019-20,NA,NA,NA
+Maharashtra,14,Kudal,269,2019-20,NA,NA,NA
+Maharashtra,14,Sawantwadi,270,2019-20,NA,NA,NA
+Maharashtra,14,Chandgad,271,2019-20,NA,NA,NA
+Maharashtra,14,Radhanagari,272,2019-20,NA,NA,NA
+Maharashtra,14,Kagal,273,2019-20,NA,NA,NA
+Maharashtra,14,Kolhapur South,274,2019-20,NA,NA,NA
+Maharashtra,14,Karvir,275,2019-20,NA,NA,NA
+Maharashtra,14,Kolhapur North,276,2019-20,NA,NA,NA
+Maharashtra,14,Shahuwadi,277,2019-20,NA,NA,NA
+Maharashtra,14,Hatkanangle (SC),278,2019-20,NA,NA,NA
+Maharashtra,14,Ichalkaranji,279,2019-20,NA,NA,NA
+Maharashtra,14,Shirol,280,2019-20,NA,NA,NA
+Maharashtra,14,Miraj (SC),281,2019-20,2.16,2.16,100.00
+Maharashtra,14,Sangli,282,2019-20,0.81,0.81,100.00
+Maharashtra,14,Islampur,283,2019-20,1.19,1.19,100.00
+Maharashtra,14,Shirala,284,2019-20,1.37,1.37,100.00
+Maharashtra,14,Palus Kadegaon,285,2019-20,1.56,1.56,100.00
+Maharashtra,14,Khanapur,286,2019-20,2.01,2.01,100.00
+Maharashtra,14,Tasgaon-Kavathe Mahankal,287,2019-20,1.25,1.25,100.00
+Maharashtra,14,Jat,288,2019-20,1.30,1.30,100.00
+Maharashtra,14,Akkalkuwa (ST),1,2020-21,19.44,19.44,100.00
+Maharashtra,14,Shahada (ST),2,2020-21,14.38,14.38,100.00
+Maharashtra,14,Nandurbar (ST),3,2020-21,4.25,4.25,100.00
+Maharashtra,14,Nawapur (ST),4,2020-21,26.14,26.14,100.00
+Maharashtra,14,Sakri (ST),5,2020-21,NA,NA,NA
+Maharashtra,14,Dhule Rural,6,2020-21,NA,NA,NA
+Maharashtra,14,Dhule City,7,2020-21,NA,NA,NA
+Maharashtra,14,Sindkheda,8,2020-21,NA,NA,NA
+Maharashtra,14,Shirpur (ST),9,2020-21,NA,NA,NA
+Maharashtra,14,Chopda (ST),10,2020-21,NA,NA,NA
+Maharashtra,14,Raver,11,2020-21,NA,NA,NA
+Maharashtra,14,Bhusawal (SC),12,2020-21,NA,NA,NA
+Maharashtra,14,Jalgaon (City),13,2020-21,NA,NA,NA
+Maharashtra,14,Jalgaon (Rural),14,2020-21,NA,NA,NA
+Maharashtra,14,Amalner,15,2020-21,NA,NA,NA
+Maharashtra,14,Erandol,16,2020-21,NA,NA,NA
+Maharashtra,14,Chalisgaon,17,2020-21,NA,NA,NA
+Maharashtra,14,Pachora,18,2020-21,NA,NA,NA
+Maharashtra,14,Jamner,19,2020-21,NA,NA,NA
+Maharashtra,14,Muktainagar,20,2020-21,NA,NA,NA
+Maharashtra,14,Malkapur,21,2020-21,NA,NA,NA
+Maharashtra,14,Buldhana,22,2020-21,NA,NA,NA
+Maharashtra,14,Chikhli,23,2020-21,NA,NA,NA
+Maharashtra,14,Sindkhed Raja,24,2020-21,NA,NA,NA
+Maharashtra,14,Mehkar (SC),25,2020-21,NA,NA,NA
+Maharashtra,14,Khamgaon,26,2020-21,NA,NA,NA
+Maharashtra,14,Jalgaon (Jamod),27,2020-21,NA,NA,NA
+Maharashtra,14,Akot,28,2020-21,0.36,0.36,100.00
+Maharashtra,14,Balapur,29,2020-21,0.18,0.18,100.00
+Maharashtra,14,Akola West,30,2020-21,NA,NA,NA
+Maharashtra,14,Akola East,31,2020-21,0.25,0.25,100.00
+Maharashtra,14,Murtizapur (SC),32,2020-21,0.24,0.24,100.00
+Maharashtra,14,Risod,33,2020-21,NA,NA,NA
+Maharashtra,14,Washim (SC),34,2020-21,NA,NA,NA
+Maharashtra,14,Karanja,35,2020-21,NA,NA,NA
+Maharashtra,14,Dhamangaon Railway,36,2020-21,NA,NA,NA
+Maharashtra,14,Badnera,37,2020-21,NA,NA,NA
+Maharashtra,14,Amravati,38,2020-21,NA,NA,NA
+Maharashtra,14,Teosa,39,2020-21,NA,NA,NA
+Maharashtra,14,Daryapur (SC),40,2020-21,NA,NA,NA
+Maharashtra,14,Melghat (ST),41,2020-21,NA,NA,NA
+Maharashtra,14,Achalpur,42,2020-21,NA,NA,NA
+Maharashtra,14,Morshi,43,2020-21,NA,NA,NA
+Maharashtra,14,Arvi,44,2020-21,NA,NA,NA
+Maharashtra,14,Deoli,45,2020-21,NA,NA,NA
+Maharashtra,14,Hinganghat,46,2020-21,NA,NA,NA
+Maharashtra,14,Wardha,47,2020-21,NA,NA,NA
+Maharashtra,14,Katol,48,2020-21,13.93,13.93,100.00
+Maharashtra,14,Savner,49,2020-21,3.18,3.18,100.00
+Maharashtra,14,Hingna,50,2020-21,1.92,1.92,100.00
+Maharashtra,14,Umred (SC),51,2020-21,5.03,5.03,100.00
+Maharashtra,14,Nagpur South West,52,2020-21,NA,NA,NA
+Maharashtra,14,Nagpur South,53,2020-21,NA,NA,NA
+Maharashtra,14,Nagpur East,54,2020-21,NA,NA,NA
+Maharashtra,14,Nagpur Central,55,2020-21,NA,NA,NA
+Maharashtra,14,Nagpur West,56,2020-21,NA,NA,NA
+Maharashtra,14,Nagpur North (SC),57,2020-21,NA,NA,NA
+Maharashtra,14,Kamthi,58,2020-21,4.29,4.29,100.00
+Maharashtra,14,Ramtek,59,2020-21,4.41,4.41,100.00
+Maharashtra,14,Tumsar,60,2020-21,NA,NA,NA
+Maharashtra,14,Bhandara (SC),61,2020-21,NA,NA,NA
+Maharashtra,14,Sakoli,62,2020-21,11.64,11.64,100.00
+Maharashtra,14,Arjuni Morgaon (SC),63,2020-21,NA,NA,NA
+Maharashtra,14,Tirora,64,2020-21,NA,NA,NA
+Maharashtra,14,Gondia,65,2020-21,NA,NA,NA
+Maharashtra,14,Amgaon (ST),66,2020-21,NA,NA,NA
+Maharashtra,14,Armori (ST),67,2020-21,NA,NA,NA
+Maharashtra,14,Gadchiroli (ST),68,2020-21,NA,NA,NA
+Maharashtra,14,Aheri (ST),69,2020-21,NA,NA,NA
+Maharashtra,14,Rajura,70,2020-21,2.49,2.49,100.00
+Maharashtra,14,Chandrapur (SC),71,2020-21,NA,NA,NA
+Maharashtra,14,Ballarpur,72,2020-21,0.18,0.18,100.00
+Maharashtra,14,Brahmapuri,73,2020-21,0.09,0.09,100.00
+Maharashtra,14,Chimur,74,2020-21,0.05,0.05,100.00
+Maharashtra,14,Warora,75,2020-21,NA,NA,NA
+Maharashtra,14,Wani,76,2020-21,NA,NA,NA
+Maharashtra,14,Ralegaon (ST),77,2020-21,NA,NA,NA
+Maharashtra,14,Yavatmal,78,2020-21,NA,NA,NA
+Maharashtra,14,Digras,79,2020-21,NA,NA,NA
+Maharashtra,14,Arni (ST),80,2020-21,NA,NA,NA
+Maharashtra,14,Pusad,81,2020-21,NA,NA,NA
+Maharashtra,14,Umarkhed (SC),82,2020-21,NA,NA,NA
+Maharashtra,14,Kinwat,83,2020-21,NA,NA,NA
+Maharashtra,14,Hadgaon,84,2020-21,NA,NA,NA
+Maharashtra,14,Bhokar,85,2020-21,0.25,0.25,100.00
+Maharashtra,14,Nanded North,86,2020-21,NA,NA,NA
+Maharashtra,14,Nanded South,87,2020-21,NA,NA,NA
+Maharashtra,14,Loha,88,2020-21,NA,NA,NA
+Maharashtra,14,Naigaon,89,2020-21,NA,NA,NA
+Maharashtra,14,Deglur (SC),90,2020-21,NA,NA,NA
+Maharashtra,14,Mukhed,91,2020-21,NA,NA,NA
+Maharashtra,14,Basmath,92,2020-21,NA,NA,NA
+Maharashtra,14,Kalamnuri,93,2020-21,NA,NA,NA
+Maharashtra,14,Hingoli,94,2020-21,NA,NA,NA
+Maharashtra,14,Jintur,95,2020-21,NA,NA,NA
+Maharashtra,14,Parbhani,96,2020-21,NA,NA,NA
+Maharashtra,14,Gangakhed,97,2020-21,NA,NA,NA
+Maharashtra,14,Pathri,98,2020-21,NA,NA,NA
+Maharashtra,14,Partur,99,2020-21,NA,NA,NA
+Maharashtra,14,Ghansawangi,100,2020-21,NA,NA,NA
+Maharashtra,14,Jalna,101,2020-21,NA,NA,NA
+Maharashtra,14,Badnapur (SC),102,2020-21,4.82,4.82,100.00
+Maharashtra,14,Bhokardan,103,2020-21,10.96,10.96,100.00
+Maharashtra,14,Sillod,104,2020-21,1.80,1.80,100.00
+Maharashtra,14,Kannad,105,2020-21,4.09,4.09,100.00
+Maharashtra,14,Phulambri,106,2020-21,11.40,11.40,100.00
+Maharashtra,14,Aurangabad Central,107,2020-21,NA,NA,NA
+Maharashtra,14,Aurangabad West (SC),108,2020-21,NA,NA,NA
+Maharashtra,14,Aurangbad East,109,2020-21,NA,NA,NA
+Maharashtra,14,Paithan,110,2020-21,3.52,3.52,100.00
+Maharashtra,14,Gangapur,111,2020-21,15.12,15.12,100.00
+Maharashtra,14,Vaijapur,112,2020-21,16.40,16.40,100.00
+Maharashtra,14,Nandgaon,113,2020-21,NA,NA,NA
+Maharashtra,14,Malegaon (Central),114,2020-21,NA,NA,NA
+Maharashtra,14,Malegaon (Outer),115,2020-21,NA,NA,NA
+Maharashtra,14,Baglan (ST),116,2020-21,NA,NA,NA
+Maharashtra,14,Kalwan (ST),117,2020-21,NA,NA,NA
+Maharashtra,14,Chandvad,118,2020-21,NA,NA,NA
+Maharashtra,14,Yevla,119,2020-21,NA,NA,NA
+Maharashtra,14,Sinnar,120,2020-21,NA,NA,NA
+Maharashtra,14,Niphad,121,2020-21,NA,NA,NA
+Maharashtra,14,Dindori (ST),122,2020-21,NA,NA,NA
+Maharashtra,14,Nashik East,123,2020-21,NA,NA,NA
+Maharashtra,14,Nashik (Central),124,2020-21,NA,NA,NA
+Maharashtra,14,Nashik West,125,2020-21,NA,NA,NA
+Maharashtra,14,Deolali (SC),126,2020-21,NA,NA,NA
+Maharashtra,14,Igatpuri (ST),127,2020-21,NA,NA,NA
+Maharashtra,14,Dahanu (ST),128,2020-21,NA,NA,NA
+Maharashtra,14,Vikramgad (ST),129,2020-21,NA,NA,NA
+Maharashtra,14,Palghar (ST),130,2020-21,NA,NA,NA
+Maharashtra,14,Boisar (ST),131,2020-21,NA,NA,NA
+Maharashtra,14,Nalasopara,132,2020-21,NA,NA,NA
+Maharashtra,14,Vasai,133,2020-21,NA,NA,NA
+Maharashtra,14,Bhiwandi Rural (ST),134,2020-21,NA,NA,NA
+Maharashtra,14,Shahapur (ST),135,2020-21,NA,NA,NA
+Maharashtra,14,Bhiwandi West,136,2020-21,NA,NA,NA
+Maharashtra,14,Bhiwandi East,137,2020-21,NA,NA,NA
+Maharashtra,14,Kalyan West,138,2020-21,NA,NA,NA
+Maharashtra,14,Murbad,139,2020-21,NA,NA,NA
+Maharashtra,14,Ambernath (SC),140,2020-21,NA,NA,NA
+Maharashtra,14,Ulhasnagar,141,2020-21,NA,NA,NA
+Maharashtra,14,Kalyan East,142,2020-21,NA,NA,NA
+Maharashtra,14,Dombivali,143,2020-21,NA,NA,NA
+Maharashtra,14,Kalyan Rural,144,2020-21,NA,NA,NA
+Maharashtra,14,Mira Bhayandar,145,2020-21,NA,NA,NA
+Maharashtra,14,Ovala Majiwada,146,2020-21,NA,NA,NA
+Maharashtra,14,Kopri Pachpakhadi,147,2020-21,NA,NA,NA
+Maharashtra,14,Thane,148,2020-21,NA,NA,NA
+Maharashtra,14,Mumbra Kalwa,149,2020-21,NA,NA,NA
+Maharashtra,14,Airoli,150,2020-21,NA,NA,NA
+Maharashtra,14,Belapur,151,2020-21,NA,NA,NA
+Maharashtra,14,Borivali,152,2020-21,NA,NA,NA
+Maharashtra,14,Dahisar,153,2020-21,NA,NA,NA
+Maharashtra,14,Magathane,154,2020-21,NA,NA,NA
+Maharashtra,14,Mulund,155,2020-21,NA,NA,NA
+Maharashtra,14,Vikhroli,156,2020-21,NA,NA,NA
+Maharashtra,14,Bhandup West,157,2020-21,NA,NA,NA
+Maharashtra,14,Jogeshwari East,158,2020-21,NA,NA,NA
+Maharashtra,14,Dindoshi,159,2020-21,NA,NA,NA
+Maharashtra,14,Kandivali East,160,2020-21,NA,NA,NA
+Maharashtra,14,Charkop,161,2020-21,NA,NA,NA
+Maharashtra,14,Malad West,162,2020-21,NA,NA,NA
+Maharashtra,14,Goregaon,163,2020-21,NA,NA,NA
+Maharashtra,14,Versova,164,2020-21,NA,NA,NA
+Maharashtra,14,Andheri West,165,2020-21,NA,NA,NA
+Maharashtra,14,Andheri East,166,2020-21,NA,NA,NA
+Maharashtra,14,Vile Parle,167,2020-21,NA,NA,NA
+Maharashtra,14,Chandivali,168,2020-21,NA,NA,NA
+Maharashtra,14,Ghatkopar West,169,2020-21,NA,NA,NA
+Maharashtra,14,Ghatkopar East,170,2020-21,NA,NA,NA
+Maharashtra,14,Mankhurd Shivaji Nagar,171,2020-21,NA,NA,NA
+Maharashtra,14,Anushakti Nagar,172,2020-21,NA,NA,NA
+Maharashtra,14,Chembur,173,2020-21,NA,NA,NA
+Maharashtra,14,Kurla (SC),174,2020-21,NA,NA,NA
+Maharashtra,14,Kalina,175,2020-21,NA,NA,NA
+Maharashtra,14,Vandre East,176,2020-21,NA,NA,NA
+Maharashtra,14,Vandre West,177,2020-21,NA,NA,NA
+Maharashtra,14,Dharavi (SC),178,2020-21,NA,NA,NA
+Maharashtra,14,Sion Koliwada,179,2020-21,NA,NA,NA
+Maharashtra,14,Wadala,180,2020-21,NA,NA,NA
+Maharashtra,14,Mahim,181,2020-21,NA,NA,NA
+Maharashtra,14,Worli,182,2020-21,NA,NA,NA
+Maharashtra,14,Shivadi,183,2020-21,NA,NA,NA
+Maharashtra,14,Byculla,184,2020-21,NA,NA,NA
+Maharashtra,14,Malabar Hill,185,2020-21,NA,NA,NA
+Maharashtra,14,Mumbadevi,186,2020-21,NA,NA,NA
+Maharashtra,14,Colaba,187,2020-21,NA,NA,NA
+Maharashtra,14,Panvel,188,2020-21,0.92,0.92,100.00
+Maharashtra,14,Karjat,189,2020-21,0.56,0.56,100.00
+Maharashtra,14,Uran,190,2020-21,1.07,1.07,100.00
+Maharashtra,14,Pen,191,2020-21,4.88,4.88,100.00
+Maharashtra,14,Alibag,192,2020-21,1.65,1.65,100.00
+Maharashtra,14,Shrivardhan,193,2020-21,1.88,1.88,100.00
+Maharashtra,14,Mahad,194,2020-21,3.01,3.01,100.00
+Maharashtra,14,Junnar,195,2020-21,NA,NA,NA
+Maharashtra,14,Ambegaon,196,2020-21,NA,NA,NA
+Maharashtra,14,Khed Alandi,197,2020-21,NA,NA,NA
+Maharashtra,14,Shirur,198,2020-21,NA,NA,NA
+Maharashtra,14,Daund,199,2020-21,NA,NA,NA
+Maharashtra,14,Indapur,200,2020-21,NA,NA,NA
+Maharashtra,14,Baramati,201,2020-21,NA,NA,NA
+Maharashtra,14,Purandar,202,2020-21,NA,NA,NA
+Maharashtra,14,Bhor,203,2020-21,NA,NA,NA
+Maharashtra,14,Maval,204,2020-21,NA,NA,NA
+Maharashtra,14,Chinchwad,205,2020-21,NA,NA,NA
+Maharashtra,14,Pimpri (SC),206,2020-21,NA,NA,NA
+Maharashtra,14,Bhosari,207,2020-21,NA,NA,NA
+Maharashtra,14,Vadgaon Sheri,208,2020-21,NA,NA,NA
+Maharashtra,14,Shivajinagar,209,2020-21,NA,NA,NA
+Maharashtra,14,Kothrud,210,2020-21,NA,NA,NA
+Maharashtra,14,Khadakwasala,211,2020-21,NA,NA,NA
+Maharashtra,14,Parvati,212,2020-21,NA,NA,NA
+Maharashtra,14,Hadapsar,213,2020-21,NA,NA,NA
+Maharashtra,14,Pune Cantonment (SC),214,2020-21,NA,NA,NA
+Maharashtra,14,Kasba Peth,215,2020-21,NA,NA,NA
+Maharashtra,14,Akole (ST),216,2020-21,NA,NA,NA
+Maharashtra,14,Sangamner,217,2020-21,NA,NA,NA
+Maharashtra,14,Shirdi,218,2020-21,1.65,1.65,100.00
+Maharashtra,14,Kopargaon,219,2020-21,0.93,0.93,100.00
+Maharashtra,14,Shrirampur (SC),220,2020-21,NA,NA,NA
+Maharashtra,14,Nevasa,221,2020-21,0.38,0.38,100.00
+Maharashtra,14,Shevgaon,222,2020-21,NA,NA,NA
+Maharashtra,14,Rahuri,223,2020-21,NA,NA,NA
+Maharashtra,14,Parner,224,2020-21,NA,NA,NA
+Maharashtra,14,Ahmednagar City,225,2020-21,NA,NA,NA
+Maharashtra,14,Shrigonda,226,2020-21,NA,NA,NA
+Maharashtra,14,Karjat Jamkhed,227,2020-21,1.69,1.69,100.00
+Maharashtra,14,Georai,228,2020-21,NA,NA,NA
+Maharashtra,14,Majalgaon,229,2020-21,NA,NA,NA
+Maharashtra,14,Beed,230,2020-21,NA,NA,NA
+Maharashtra,14,Ashti,231,2020-21,NA,NA,NA
+Maharashtra,14,Kaij (SC),232,2020-21,NA,NA,NA
+Maharashtra,14,Parli,233,2020-21,NA,NA,NA
+Maharashtra,14,Latur Rural,234,2020-21,NA,NA,NA
+Maharashtra,14,Latur City,235,2020-21,NA,NA,NA
+Maharashtra,14,Ahmadpur,236,2020-21,NA,NA,NA
+Maharashtra,14,Udgir (SC),237,2020-21,NA,NA,NA
+Maharashtra,14,Nilanga,238,2020-21,NA,NA,NA
+Maharashtra,14,Ausa,239,2020-21,NA,NA,NA
+Maharashtra,14,Umarga (SC),240,2020-21,NA,NA,NA
+Maharashtra,14,Tuljapur,241,2020-21,NA,NA,NA
+Maharashtra,14,Osmanabad,242,2020-21,NA,NA,NA
+Maharashtra,14,Paranda,243,2020-21,NA,NA,NA
+Maharashtra,14,Karmala,244,2020-21,NA,NA,NA
+Maharashtra,14,Madha,245,2020-21,NA,NA,NA
+Maharashtra,14,Barshi,246,2020-21,NA,NA,NA
+Maharashtra,14,Mohol (SC),247,2020-21,NA,NA,NA
+Maharashtra,14,Solapur City North,248,2020-21,NA,NA,NA
+Maharashtra,14,Solapur City Central,249,2020-21,NA,NA,NA
+Maharashtra,14,Akkalkot,250,2020-21,NA,NA,NA
+Maharashtra,14,Solapur South,251,2020-21,NA,NA,NA
+Maharashtra,14,Pandharpur,252,2020-21,NA,NA,NA
+Maharashtra,14,Sangole,253,2020-21,NA,NA,NA
+Maharashtra,14,Malshiras (SC),254,2020-21,NA,NA,NA
+Maharashtra,14,Phaltan (SC),255,2020-21,3.34,3.34,100.00
+Maharashtra,14,Wai,256,2020-21,0.94,0.94,100.00
+Maharashtra,14,Koregaon,257,2020-21,2.58,2.58,100.00
+Maharashtra,14,Man,258,2020-21,4.56,4.56,100.00
+Maharashtra,14,Karad North,259,2020-21,1.40,1.40,100.00
+Maharashtra,14,Karad South,260,2020-21,0.52,0.52,100.00
+Maharashtra,14,Patan,261,2020-21,2.43,2.43,100.00
+Maharashtra,14,Satara,262,2020-21,1.30,1.30,100.00
+Maharashtra,14,Dapoli,263,2020-21,NA,NA,NA
+Maharashtra,14,Guhagar,264,2020-21,NA,NA,NA
+Maharashtra,14,Chiplun,265,2020-21,0.53,0.53,100.00
+Maharashtra,14,Ratnagiri,266,2020-21,1.03,1.03,100.00
+Maharashtra,14,Rajapur,267,2020-21,0.35,0.35,100.00
+Maharashtra,14,Kankavli,268,2020-21,NA,NA,NA
+Maharashtra,14,Kudal,269,2020-21,NA,NA,NA
+Maharashtra,14,Sawantwadi,270,2020-21,NA,NA,NA
+Maharashtra,14,Chandgad,271,2020-21,NA,NA,NA
+Maharashtra,14,Radhanagari,272,2020-21,NA,NA,NA
+Maharashtra,14,Kagal,273,2020-21,NA,NA,NA
+Maharashtra,14,Kolhapur South,274,2020-21,NA,NA,NA
+Maharashtra,14,Karvir,275,2020-21,NA,NA,NA
+Maharashtra,14,Kolhapur North,276,2020-21,NA,NA,NA
+Maharashtra,14,Shahuwadi,277,2020-21,NA,NA,NA
+Maharashtra,14,Hatkanangle (SC),278,2020-21,NA,NA,NA
+Maharashtra,14,Ichalkaranji,279,2020-21,NA,NA,NA
+Maharashtra,14,Shirol,280,2020-21,NA,NA,NA
+Maharashtra,14,Miraj (SC),281,2020-21,1.81,1.81,100.00
+Maharashtra,14,Sangli,282,2020-21,0.87,0.87,100.00
+Maharashtra,14,Islampur,283,2020-21,1.20,1.20,100.00
+Maharashtra,14,Shirala,284,2020-21,1.59,1.59,100.00
+Maharashtra,14,Palus Kadegaon,285,2020-21,1.83,1.83,100.00
+Maharashtra,14,Khanapur,286,2020-21,2.18,2.18,100.00
+Maharashtra,14,Tasgaon-Kavathe Mahankal,287,2020-21,1.27,1.27,100.00
+Maharashtra,14,Jat,288,2020-21,1.54,1.54,100.00
+Odisha,19,Padampur,1,2019-20,14.28,14.28,100.00
+Odisha,19,Bijepur,2,2019-20,20.27,20.27,100.00
+Odisha,19,Bargarh,3,2019-20,13.27,13.27,100.00
+Odisha,19,Attabira (SC),4,2019-20,15.42,15.42,100.00
+Odisha,19,Bhatli,5,2019-20,17.43,17.43,100.00
+Odisha,19,Brajarajnagar,6,2019-20,13.47,13.47,100.00
+Odisha,19,Jharsuguda,7,2019-20,30.72,30.72,100.00
+Odisha,19,Talsara (ST),8,2019-20,17.64,17.64,100.00
+Odisha,19,Sundargarh (ST),9,2019-20,38.94,38.94,100.00
+Odisha,19,Biramitrapur (ST),10,2019-20,12.68,12.68,100.00
+Odisha,19,Raghunathpali (SC),11,2019-20,10.54,10.54,100.00
+Odisha,19,Rourkela,12,2019-20,20.23,20.23,100.00
+Odisha,19,Rajgangpur (ST),13,2019-20,12.14,12.14,100.00
+Odisha,19,Bonai (ST),14,2019-20,26.11,26.11,100.00
+Odisha,19,Kuchinda (ST),15,2019-20,10.94,10.94,100.00
+Odisha,19,Rengali (SC),16,2019-20,2.30,2.30,100.00
+Odisha,19,Sambalpur,17,2019-20,NA,NA,NA
+Odisha,19,Rairakhol,18,2019-20,6.44,6.44,100.00
+Odisha,19,Deogarh,19,2019-20,21.57,21.57,100.00
+Odisha,19,Telkoi (ST),20,2019-20,120.45,120.45,100.00
+Odisha,19,Ghasipura,21,2019-20,18.14,18.14,100.00
+Odisha,19,Anandapur (SC),22,2019-20,76.70,76.70,100.00
+Odisha,19,Patna (ST),23,2019-20,93.30,93.30,100.00
+Odisha,19,Keonjhar (ST),24,2019-20,83.37,83.37,100.00
+Odisha,19,Champua,25,2019-20,91.09,91.09,100.00
+Odisha,19,Jashipur (ST),26,2019-20,30.59,30.59,100.00
+Odisha,19,Saraskana (ST),27,2019-20,68.42,68.42,100.00
+Odisha,19,Rairangpur (ST),28,2019-20,28.75,28.75,100.00
+Odisha,19,Bangriposi (ST),29,2019-20,101.75,101.75,100.00
+Odisha,19,Karanjia (ST),30,2019-20,29.11,29.11,100.00
+Odisha,19,Udala (ST),31,2019-20,4.02,4.02,100.00
+Odisha,19,Badasahi (SC),32,2019-20,32.75,32.75,100.00
+Odisha,19,Baripada (ST),33,2019-20,33.94,33.94,100.00
+Odisha,19,Morada,34,2019-20,96.04,96.04,100.00
+Odisha,19,Jaleswar,35,2019-20,22.22,22.22,100.00
+Odisha,19,Bhograi,36,2019-20,14.23,14.23,100.00
+Odisha,19,Basta,37,2019-20,23.79,23.79,100.00
+Odisha,19,Balasore,38,2019-20,41.81,41.81,100.00
+Odisha,19,Remuna (SC),39,2019-20,30.18,30.18,100.00
+Odisha,19,Nilgiri,40,2019-20,12.05,12.05,100.00
+Odisha,19,Soro (SC),41,2019-20,17.99,17.99,100.00
+Odisha,19,Simulia,42,2019-20,36.77,36.77,100.00
+Odisha,19,Bhandaripokhari,43,2019-20,21.17,21.17,100.00
+Odisha,19,Bhadrak,44,2019-20,0.80,0.80,100.00
+Odisha,19,Basudevpur,45,2019-20,61.82,61.82,100.00
+Odisha,19,Dhamnagar,46,2019-20,61.56,61.56,100.00
+Odisha,19,Chandabal,47,2019-20,5.56,5.56,100.00
+Odisha,19,Binjharpur (SC),48,2019-20,33.71,33.71,100.00
+Odisha,19,Bari,49,2019-20,1.78,1.78,100.00
+Odisha,19,Barachana,50,2019-20,NA,NA,NA
+Odisha,19,Dharmasala,51,2019-20,NA,NA,NA
+Odisha,19,Jajpur,52,2019-20,46.61,46.61,100.00
+Odisha,19,Korei,53,2019-20,55.09,55.09,100.00
+Odisha,19,Sukinda,54,2019-20,0.05,0.05,100.00
+Odisha,19,Dhenkanal,55,2019-20,9.14,9.14,100.00
+Odisha,19,Hindol (SC),56,2019-20,52.08,52.08,100.00
+Odisha,19,Kamakhyanagar,57,2019-20,17.42,17.42,100.00
+Odisha,19,Parjanga,58,2019-20,49.54,49.54,100.00
+Odisha,19,Pallahara,59,2019-20,7.56,7.56,100.00
+Odisha,19,Talcher,60,2019-20,40.58,40.58,100.00
+Odisha,19,Angul,61,2019-20,0.43,0.43,100.00
+Odisha,19,Chhendipada (SC),62,2019-20,65.49,65.49,100.00
+Odisha,19,Athamallik,63,2019-20,64.15,64.15,100.00
+Odisha,19,Birmaharajpur (SC),64,2019-20,22.71,22.71,100.00
+Odisha,19,Sonepur,65,2019-20,62.48,62.48,100.00
+Odisha,19,Loisingha (SC),66,2019-20,38.24,38.24,100.00
+Odisha,19,Patnagarh,67,2019-20,61.32,61.32,100.00
+Odisha,19,Bolangir,68,2019-20,37.40,37.40,100.00
+Odisha,19,Titlagarh,69,2019-20,35.89,35.89,100.00
+Odisha,19,Kantabanji,70,2019-20,57.10,57.10,100.00
+Odisha,19,Nuapada,71,2019-20,44.89,44.89,100.00
+Odisha,19,Kharia,72,2019-20,35.92,35.92,100.00
+Odisha,19,Umerkote (ST),73,2019-20,60.18,60.18,100.00
+Odisha,19,Jharigam (ST),74,2019-20,34.67,34.67,100.00
+Odisha,19,Nabarangpur (ST),75,2019-20,65.78,65.78,100.00
+Odisha,19,Dabugam (ST),76,2019-20,49.66,49.66,100.00
+Odisha,19,Lanjigarh (ST),77,2019-20,1.72,1.72,100.00
+Odisha,19,Junagarh,78,2019-20,20.01,20.01,100.00
+Odisha,19,Dharamgarh,79,2019-20,16.48,16.48,100.00
+Odisha,19,Bhawanipatna (SC),80,2019-20,22.90,22.90,100.00
+Odisha,19,Narla,81,2019-20,14.88,14.88,100.00
+Odisha,19,Baliguda (ST),82,2019-20,21.01,21.01,100.00
+Odisha,19,G. Udayagiri (ST),83,2019-20,18.06,18.06,100.00
+Odisha,19,Phulbani (ST),84,2019-20,18.67,18.67,100.00
+Odisha,19,Kantamal,85,2019-20,1.68,1.68,100.00
+Odisha,19,Boudh,86,2019-20,1.30,1.30,100.00
+Odisha,19,Baramba,87,2019-20,60.95,60.95,100.00
+Odisha,19,Banki,88,2019-20,13.12,13.12,100.00
+Odisha,19,Athagarh,89,2019-20,12.68,12.68,100.00
+Odisha,19,Barabati‐Cuttack,90,2019-20,8.41,8.41,100.00
+Odisha,19,Choudwar‐Cuttack,91,2019-20,11.38,11.38,100.00
+Odisha,19,Niali (SC),92,2019-20,43.90,43.90,100.00
+Odisha,19,Cuttack Sadar (SC),93,2019-20,26.13,26.13,100.00
+Odisha,19,Salipur,94,2019-20,14.34,14.34,100.00
+Odisha,19,Mahanga,95,2019-20,60.39,60.39,100.00
+Odisha,19,Patkura,96,2019-20,12.84,12.84,100.00
+Odisha,19,Kendrapara (SC),97,2019-20,66.08,66.08,100.00
+Odisha,19,Aul,98,2019-20,83.16,83.16,100.00
+Odisha,19,Rajanagar,99,2019-20,45.98,45.98,100.00
+Odisha,19,Mahakalapada,100,2019-20,70.62,70.62,100.00
+Odisha,19,Paradeep,101,2019-20,36.02,36.02,100.00
+Odisha,19,Tirtol (SC),102,2019-20,34.29,34.29,100.00
+Odisha,19,Balikuda‐Erasama,103,2019-20,34.99,34.99,100.00
+Odisha,19,Jagatsinghpur,104,2019-20,41.16,41.16,100.00
+Odisha,19,Kakatpur (SC),105,2019-20,24.07,24.07,100.00
+Odisha,19,Nimapara,106,2019-20,15.16,15.16,100.00
+Odisha,19,Puri,107,2019-20,18.68,18.68,100.00
+Odisha,19,Brahmagiri,108,2019-20,16.27,16.27,100.00
+Odisha,19,Satyabadi,109,2019-20,28.28,28.28,100.00
+Odisha,19,Pipili,110,2019-20,13.13,13.13,100.00
+Odisha,19,Jayadev (SC),111,2019-20,5.05,5.05,100.00
+Odisha,19,Bhubaneswar Central,112,2019-20,NA,NA,NA
+Odisha,19,Bhubaneswar North,113,2019-20,NA,NA,NA
+Odisha,19,Ekamra‐Bhubaneswar,114,2019-20,NA,NA,NA
+Odisha,19,Jatani,115,2019-20,1.37,1.37,100.00
+Odisha,19,Begunia,116,2019-20,5.00,5.00,100.00
+Odisha,19,Khurda,117,2019-20,13.42,13.42,100.00
+Odisha,19,Chilika,118,2019-20,14.78,14.78,100.00
+Odisha,19,Ranpur,119,2019-20,61.98,61.98,100.00
+Odisha,19,Khandapada,120,2019-20,36.59,36.59,100.00
+Odisha,19,Daspalla (SC),121,2019-20,8.63,8.63,100.00
+Odisha,19,Nayagarh,122,2019-20,6.61,6.61,100.00
+Odisha,19,Bhanjanagar,123,2019-20,10.97,10.97,100.00
+Odisha,19,Polasara,124,2019-20,14.87,14.87,100.00
+Odisha,19,Kabisuryanagar,125,2019-20,6.64,6.64,100.00
+Odisha,19,Khalikote (SC),126,2019-20,0.28,0.28,100.00
+Odisha,19,Chhatrapur (SC),127,2019-20,4.42,4.42,100.00
+Odisha,19,Aska,128,2019-20,1.94,1.94,100.00
+Odisha,19,Surada,129,2019-20,59.35,59.35,100.00
+Odisha,19,Sanakhemundi,130,2019-20,6.84,6.84,100.00
+Odisha,19,Hinjili,131,2019-20,3.70,3.70,100.00
+Odisha,19,Gopalpur,132,2019-20,19.74,19.74,100.00
+Odisha,19,Berhampur,133,2019-20,13.60,13.60,100.00
+Odisha,19,Digapahandi,134,2019-20,3.45,3.45,100.00
+Odisha,19,Chikiti,135,2019-20,11.45,11.45,100.00
+Odisha,19,Mohana (ST),136,2019-20,55.86,55.86,100.00
+Odisha,19,Paralakhemundi,137,2019-20,2.62,2.62,100.00
+Odisha,19,Gunupur (ST),138,2019-20,109.95,109.95,100.00
+Odisha,19,Bissam Cuttack (ST),139,2019-20,104.78,104.78,100.00
+Odisha,19,Rayagada (ST),140,2019-20,17.32,17.32,100.00
+Odisha,19,Lakshmipur (ST),141,2019-20,37.92,37.92,100.00
+Odisha,19,Kotpad (ST),142,2019-20,40.03,40.03,100.00
+Odisha,19,Jeypore,143,2019-20,42.71,42.71,100.00
+Odisha,19,Koraput (SC),144,2019-20,20.22,20.22,100.00
+Odisha,19,Pottangi (ST),145,2019-20,17.80,17.80,100.00
+Odisha,19,Malkangiri (ST),146,2019-20,20.63,20.63,100.00
+Odisha,19,Chitrakonda (ST),147,2019-20,28.53,28.53,100.00
+Odisha,19,Padampur,1,2020-21,44.20,44.20,100.00
+Odisha,19,Bijepur,2,2020-21,17.89,17.89,100.00
+Odisha,19,Bargarh,3,2020-21,27.62,27.62,100.00
+Odisha,19,Attabira (SC),4,2020-21,34.22,34.22,100.00
+Odisha,19,Bhatli,5,2020-21,54.60,54.60,100.00
+Odisha,19,Brajarajnagar,6,2020-21,18.60,18.60,100.00
+Odisha,19,Jharsuguda,7,2020-21,83.97,83.97,100.00
+Odisha,19,Talsara (ST),8,2020-21,14.31,14.31,100.00
+Odisha,19,Sundargarh (ST),9,2020-21,26.98,26.98,100.00
+Odisha,19,Biramitrapur (ST),10,2020-21,16.50,16.50,100.00
+Odisha,19,Raghunathpali (SC),11,2020-21,0.95,0.95,100.00
+Odisha,19,Rourkela,12,2020-21,7.42,7.42,100.00
+Odisha,19,Rajgangpur (ST),13,2020-21,10.48,10.48,100.00
+Odisha,19,Bonai (ST),14,2020-21,17.89,17.89,100.00
+Odisha,19,Kuchinda (ST),15,2020-21,43.92,43.92,100.00
+Odisha,19,Rengali (SC),16,2020-21,13.22,13.22,100.00
+Odisha,19,Sambalpur,17,2020-21,0.13,0.13,100.00
+Odisha,19,Rairakhol,18,2020-21,10.09,10.09,100.00
+Odisha,19,Deogarh,19,2020-21,14.74,14.74,100.00
+Odisha,19,Telkoi (ST),20,2020-21,17.50,17.50,100.00
+Odisha,19,Ghasipura,21,2020-21,23.49,23.49,100.00
+Odisha,19,Anandapur (SC),22,2020-21,24.90,24.90,100.00
+Odisha,19,Patna (ST),23,2020-21,24.14,24.14,100.00
+Odisha,19,Keonjhar (ST),24,2020-21,16.18,16.18,100.00
+Odisha,19,Champua,25,2020-21,23.01,23.01,100.00
+Odisha,19,Jashipur (ST),26,2020-21,52.87,52.87,100.00
+Odisha,19,Saraskana (ST),27,2020-21,109.24,109.24,100.00
+Odisha,19,Rairangpur (ST),28,2020-21,37.53,37.53,100.00
+Odisha,19,Bangriposi (ST),29,2020-21,162.51,162.51,100.00
+Odisha,19,Karanjia (ST),30,2020-21,30.22,30.22,100.00
+Odisha,19,Udala (ST),31,2020-21,15.11,15.11,100.00
+Odisha,19,Badasahi (SC),32,2020-21,84.77,84.77,100.00
+Odisha,19,Baripada (ST),33,2020-21,55.21,55.21,100.00
+Odisha,19,Morada,34,2020-21,126.85,126.85,100.00
+Odisha,19,Jaleswar,35,2020-21,53.15,53.15,100.00
+Odisha,19,Bhograi,36,2020-21,28.86,28.86,100.00
+Odisha,19,Basta,37,2020-21,57.57,57.57,100.00
+Odisha,19,Balasore,38,2020-21,16.99,16.99,100.00
+Odisha,19,Remuna (SC),39,2020-21,23.44,23.44,100.00
+Odisha,19,Nilgiri,40,2020-21,22.72,22.72,100.00
+Odisha,19,Soro (SC),41,2020-21,19.04,19.04,100.00
+Odisha,19,Simulia,42,2020-21,62.51,62.51,100.00
+Odisha,19,Bhandaripokhari,43,2020-21,42.91,42.91,100.00
+Odisha,19,Bhadrak,44,2020-21,13.82,13.82,100.00
+Odisha,19,Basudevpur,45,2020-21,22.53,22.53,100.00
+Odisha,19,Dhamnagar,46,2020-21,5.98,5.98,100.00
+Odisha,19,Chandabal,47,2020-21,3.56,3.56,100.00
+Odisha,19,Binjharpur (SC),48,2020-21,0.14,0.14,100.00
+Odisha,19,Bari,49,2020-21,NA,NA,NA
+Odisha,19,Barachana,50,2020-21,NA,NA,NA
+Odisha,19,Dharmasala,51,2020-21,NA,NA,NA
+Odisha,19,Jajpur,52,2020-21,NA,NA,NA
+Odisha,19,Korei,53,2020-21,NA,NA,NA
+Odisha,19,Sukinda,54,2020-21,0.25,0.25,100.00
+Odisha,19,Dhenkanal,55,2020-21,38.61,38.61,100.00
+Odisha,19,Hindol (SC),56,2020-21,88.73,88.73,100.00
+Odisha,19,Kamakhyanagar,57,2020-21,19.95,19.95,100.00
+Odisha,19,Parjanga,58,2020-21,32.16,32.16,100.00
+Odisha,19,Pallahara,59,2020-21,40.40,40.40,100.00
+Odisha,19,Talcher,60,2020-21,18.95,18.95,100.00
+Odisha,19,Angul,61,2020-21,13.18,13.18,100.00
+Odisha,19,Chhendipada (SC),62,2020-21,41.22,41.22,100.00
+Odisha,19,Athamallik,63,2020-21,47.96,47.96,100.00
+Odisha,19,Birmaharajpur (SC),64,2020-21,18.01,18.01,100.00
+Odisha,19,Sonepur,65,2020-21,42.87,42.87,100.00
+Odisha,19,Loisingha (SC),66,2020-21,92.21,92.21,100.00
+Odisha,19,Patnagarh,67,2020-21,225.06,225.06,100.00
+Odisha,19,Bolangir,68,2020-21,113.10,113.10,100.00
+Odisha,19,Titlagarh,69,2020-21,117.40,117.40,100.00
+Odisha,19,Kantabanji,70,2020-21,127.00,127.00,100.00
+Odisha,19,Nuapada,71,2020-21,31.91,31.91,100.00
+Odisha,19,Kharia,72,2020-21,31.02,31.02,100.00
+Odisha,19,Umerkote (ST),73,2020-21,64.45,64.45,100.00
+Odisha,19,Jharigam (ST),74,2020-21,42.48,42.48,100.00
+Odisha,19,Nabarangpur (ST),75,2020-21,101.69,101.69,100.00
+Odisha,19,Dabugam (ST),76,2020-21,42.92,42.92,100.00
+Odisha,19,Lanjigarh (ST),77,2020-21,1.80,1.80,100.00
+Odisha,19,Junagarh,78,2020-21,99.93,99.93,100.00
+Odisha,19,Dharamgarh,79,2020-21,26.65,26.65,100.00
+Odisha,19,Bhawanipatna (SC),80,2020-21,2.41,2.41,100.00
+Odisha,19,Narla,81,2020-21,NA,NA,NA
+Odisha,19,Baliguda (ST),82,2020-21,18.26,18.26,100.00
+Odisha,19,G. Udayagiri (ST),83,2020-21,13.36,13.36,100.00
+Odisha,19,Phulbani (ST),84,2020-21,11.92,11.92,100.00
+Odisha,19,Kantamal,85,2020-21,4.93,4.93,100.00
+Odisha,19,Boudh,86,2020-21,4.02,4.02,100.00
+Odisha,19,Baramba,87,2020-21,18.88,18.88,100.00
+Odisha,19,Banki,88,2020-21,4.36,4.36,100.00
+Odisha,19,Athagarh,89,2020-21,9.54,9.54,100.00
+Odisha,19,Barabati‐Cuttack,90,2020-21,3.49,3.49,100.00
+Odisha,19,Choudwar‐Cuttack,91,2020-21,6.19,6.19,100.00
+Odisha,19,Niali (SC),92,2020-21,27.90,27.90,100.00
+Odisha,19,Cuttack Sadar (SC),93,2020-21,4.03,4.03,100.00
+Odisha,19,Salipur,94,2020-21,6.00,6.00,100.00
+Odisha,19,Mahanga,95,2020-21,0.05,0.05,100.00
+Odisha,19,Patkura,96,2020-21,47.34,47.34,100.00
+Odisha,19,Kendrapara (SC),97,2020-21,101.15,101.15,100.00
+Odisha,19,Aul,98,2020-21,159.73,159.73,100.00
+Odisha,19,Rajanagar,99,2020-21,146.76,146.76,100.00
+Odisha,19,Mahakalapada,100,2020-21,13.16,13.16,100.00
+Odisha,19,Paradeep,101,2020-21,105.85,105.85,100.00
+Odisha,19,Tirtol (SC),102,2020-21,100.10,100.10,100.00
+Odisha,19,Balikuda‐Erasama,103,2020-21,121.35,121.35,100.00
+Odisha,19,Jagatsinghpur,104,2020-21,127.65,127.65,100.00
+Odisha,19,Kakatpur (SC),105,2020-21,51.20,51.20,100.00
+Odisha,19,Nimapara,106,2020-21,1.77,1.77,100.00
+Odisha,19,Puri,107,2020-21,22.56,22.56,100.00
+Odisha,19,Brahmagiri,108,2020-21,20.15,20.15,100.00
+Odisha,19,Satyabadi,109,2020-21,23.59,23.59,100.00
+Odisha,19,Pipili,110,2020-21,15.68,15.68,100.00
+Odisha,19,Jayadev (SC),111,2020-21,0.27,0.27,100.00
+Odisha,19,Bhubaneswar Central,112,2020-21,NA,NA,NA
+Odisha,19,Bhubaneswar North,113,2020-21,NA,NA,NA
+Odisha,19,Ekamra‐Bhubaneswar,114,2020-21,NA,NA,NA
+Odisha,19,Jatani,115,2020-21,1.57,1.57,100.00
+Odisha,19,Begunia,116,2020-21,NA,NA,NA
+Odisha,19,Khurda,117,2020-21,5.73,5.73,100.00
+Odisha,19,Chilika,118,2020-21,32.83,32.83,100.00
+Odisha,19,Ranpur,119,2020-21,74.32,74.32,100.00
+Odisha,19,Khandapada,120,2020-21,42.38,42.38,100.00
+Odisha,19,Daspalla (SC),121,2020-21,10.71,10.71,100.00
+Odisha,19,Nayagarh,122,2020-21,19.69,19.69,100.00
+Odisha,19,Bhanjanagar,123,2020-21,12.16,12.16,100.00
+Odisha,19,Polasara,124,2020-21,2.65,2.65,100.00
+Odisha,19,Kabisuryanagar,125,2020-21,21.07,21.07,100.00
+Odisha,19,Khalikote (SC),126,2020-21,18.66,18.66,100.00
+Odisha,19,Chhatrapur (SC),127,2020-21,3.62,3.62,100.00
+Odisha,19,Aska,128,2020-21,69.17,69.17,100.00
+Odisha,19,Surada,129,2020-21,21.44,21.44,100.00
+Odisha,19,Sanakhemundi,130,2020-21,9.95,9.95,100.00
+Odisha,19,Hinjili,131,2020-21,10.78,10.78,100.00
+Odisha,19,Gopalpur,132,2020-21,29.24,29.24,100.00
+Odisha,19,Berhampur,133,2020-21,NA,NA,NA
+Odisha,19,Digapahandi,134,2020-21,8.92,8.92,100.00
+Odisha,19,Chikiti,135,2020-21,5.87,5.87,100.00
+Odisha,19,Mohana (ST),136,2020-21,70.35,70.35,100.00
+Odisha,19,Paralakhemundi,137,2020-21,27.40,27.40,100.00
+Odisha,19,Gunupur (ST),138,2020-21,188.88,188.88,100.00
+Odisha,19,Bissam Cuttack (ST),139,2020-21,177.85,177.85,100.00
+Odisha,19,Rayagada (ST),140,2020-21,16.67,16.67,100.00
+Odisha,19,Lakshmipur (ST),141,2020-21,5.62,5.62,100.00
+Odisha,19,Kotpad (ST),142,2020-21,15.14,15.14,100.00
+Odisha,19,Jeypore,143,2020-21,33.48,33.48,100.00
+Odisha,19,Koraput (SC),144,2020-21,6.24,6.24,100.00
+Odisha,19,Pottangi (ST),145,2020-21,8.25,8.25,100.00
+Odisha,19,Malkangiri (ST),146,2020-21,37.05,37.05,100.00
+Odisha,19,Chitrakonda (ST),147,2020-21,18.36,18.36,100.00
+Uttar Pradesh,26,Behat,1,2019-20,6.38,6.38,100.00
+Uttar Pradesh,26,Nakur,2,2019-20,6.65,6.65,100.00
+Uttar Pradesh,26,Saharanpur Nagar,3,2019-20,0.23,0.23,100.00
+Uttar Pradesh,26,Saharanpur,4,2019-20,3.26,3.26,100.00
+Uttar Pradesh,26,Deoband,5,2019-20,3.93,3.93,100.00
+Uttar Pradesh,26,Rampur Maniharan (SC),6,2019-20,5.39,5.39,100.00
+Uttar Pradesh,26,Gangoh,7,2019-20,6.58,6.58,100.00
+Uttar Pradesh,26,Kairana,8,2019-20,NA,NA,NA
+Uttar Pradesh,26,Thana Bhawan,9,2019-20,NA,NA,NA
+Uttar Pradesh,26,Shamli,10,2019-20,NA,NA,NA
+Uttar Pradesh,26,Budhana,11,2019-20,1.27,1.27,100.00
+Uttar Pradesh,26,Charthawal,12,2019-20,2.37,2.37,100.00
+Uttar Pradesh,26,Purqazi (SC),13,2019-20,1.13,1.13,100.00
+Uttar Pradesh,26,Muzaffar Nagar,14,2019-20,0.22,0.22,100.00
+Uttar Pradesh,26,Khatauli,15,2019-20,1.59,1.59,100.00
+Uttar Pradesh,26,Meerapur,16,2019-20,0.77,0.77,100.00
+Uttar Pradesh,26,Najibabad,17,2019-20,2.07,2.07,100.00
+Uttar Pradesh,26,Nagina (SC),18,2019-20,2.28,2.28,100.00
+Uttar Pradesh,26,Barhapur,19,2019-20,1.88,1.88,100.00
+Uttar Pradesh,26,Dhampur,20,2019-20,0.81,0.81,100.00
+Uttar Pradesh,26,Nehtaur (SC),21,2019-20,1.76,1.76,100.00
+Uttar Pradesh,26,Bijnor,22,2019-20,2.09,2.09,100.00
+Uttar Pradesh,26,Chandpur,23,2019-20,2.26,2.26,100.00
+Uttar Pradesh,26,Noorpur,24,2019-20,1.34,1.34,100.00
+Uttar Pradesh,26,Kanth,25,2019-20,1.45,1.45,100.00
+Uttar Pradesh,26,Thakurdwara,26,2019-20,2.20,2.20,100.00
+Uttar Pradesh,26,Moradabad Rural,27,2019-20,1.54,1.54,100.00
+Uttar Pradesh,26,Moradabad Nagar,28,2019-20,0.02,0.02,100.00
+Uttar Pradesh,26,Kundarki,29,2019-20,3.61,3.61,100.00
+Uttar Pradesh,26,Bilari,30,2019-20,0.83,0.83,100.00
+Uttar Pradesh,26,Chandausi (SC),31,2019-20,1.49,1.49,100.00
+Uttar Pradesh,26,Asmoli,32,2019-20,1.56,1.56,100.00
+Uttar Pradesh,26,Sambhal,33,2019-20,1.09,1.09,100.00
+Uttar Pradesh,26,Suar,34,2019-20,2.41,2.41,100.00
+Uttar Pradesh,26,Chamraua,35,2019-20,4.30,4.30,100.00
+Uttar Pradesh,26,Bilaspur,36,2019-20,4.66,4.66,100.00
+Uttar Pradesh,26,Rampur,37,2019-20,1.52,1.52,100.00
+Uttar Pradesh,26,Milak (SC),38,2019-20,3.29,3.29,100.00
+Uttar Pradesh,26,Dhanaura (SC),39,2019-20,1.92,1.92,100.00
+Uttar Pradesh,26,Naugawan Sadat,40,2019-20,2.46,2.46,100.00
+Uttar Pradesh,26,Amroha,41,2019-20,2.30,2.30,100.00
+Uttar Pradesh,26,Hasanpur,42,2019-20,2.28,2.28,100.00
+Uttar Pradesh,26,Siwalkhas,43,2019-20,1.42,1.42,100.00
+Uttar Pradesh,26,Sardhana,44,2019-20,0.80,0.80,100.00
+Uttar Pradesh,26,Hastinapur (SC),45,2019-20,1.84,1.84,100.00
+Uttar Pradesh,26,Kithore,46,2019-20,1.49,1.49,100.00
+Uttar Pradesh,26,Meerut Cantt.,47,2019-20,0.09,0.09,100.00
+Uttar Pradesh,26,Meerut,48,2019-20,NA,NA,NA
+Uttar Pradesh,26,Meerut South,49,2019-20,0.09,0.09,100.00
+Uttar Pradesh,26,Chhaprauli,50,2019-20,2.97,2.97,100.00
+Uttar Pradesh,26,Baraut,51,2019-20,1.92,1.92,100.00
+Uttar Pradesh,26,Baghpat,52,2019-20,2.37,2.37,100.00
+Uttar Pradesh,26,Loni,53,2019-20,0.45,0.45,100.00
+Uttar Pradesh,26,Muradnagar,54,2019-20,0.46,0.46,100.00
+Uttar Pradesh,26,Sahibabad,55,2019-20,NA,NA,NA
+Uttar Pradesh,26,Ghaziabad,56,2019-20,NA,NA,NA
+Uttar Pradesh,26,Modi Nagar,57,2019-20,1.40,1.40,100.00
+Uttar Pradesh,26,Dhaulana,58,2019-20,0.94,0.94,100.00
+Uttar Pradesh,26,Hapur (SC),59,2019-20,0.85,0.85,100.00
+Uttar Pradesh,26,Garhmukteshwar,60,2019-20,1.80,1.80,100.00
+Uttar Pradesh,26,Noida,61,2019-20,0.09,0.09,100.00
+Uttar Pradesh,26,Dadri,62,2019-20,1.46,1.46,100.00
+Uttar Pradesh,26,Jewar,63,2019-20,3.85,3.85,100.00
+Uttar Pradesh,26,Sikandrabad,64,2019-20,1.08,1.08,100.00
+Uttar Pradesh,26,Bulandshahr,65,2019-20,0.91,0.91,100.00
+Uttar Pradesh,26,Syana,66,2019-20,1.48,1.48,100.00
+Uttar Pradesh,26,Anupshahr,67,2019-20,1.32,1.32,100.00
+Uttar Pradesh,26,Debai,68,2019-20,1.58,1.58,100.00
+Uttar Pradesh,26,Shikarpur,69,2019-20,2.44,2.44,100.00
+Uttar Pradesh,26,Khurja (SC),70,2019-20,1.73,1.73,100.00
+Uttar Pradesh,26,Khair (SC),71,2019-20,2.54,2.54,100.00
+Uttar Pradesh,26,Barauli,72,2019-20,2.99,2.99,100.00
+Uttar Pradesh,26,Atrauli,73,2019-20,3.97,3.97,100.00
+Uttar Pradesh,26,Chharra,74,2019-20,3.70,3.70,100.00
+Uttar Pradesh,26,Koil,75,2019-20,0.55,0.55,100.00
+Uttar Pradesh,26,Aligarh,76,2019-20,0.11,0.11,100.00
+Uttar Pradesh,26,Iglas (SC),77,2019-20,2.63,2.63,100.00
+Uttar Pradesh,26,Hathras (SC),78,2019-20,2.09,2.09,100.00
+Uttar Pradesh,26,Sadabad,79,2019-20,3.47,3.47,100.00
+Uttar Pradesh,26,Sikandra Rao,80,2019-20,3.27,3.27,100.00
+Uttar Pradesh,26,Chhata,81,2019-20,5.62,5.62,100.00
+Uttar Pradesh,26,Mant,82,2019-20,7.53,7.53,100.00
+Uttar Pradesh,26,Goverdhan,83,2019-20,6.94,6.94,100.00
+Uttar Pradesh,26,Mathura,84,2019-20,NA,NA,NA
+Uttar Pradesh,26,Baldev (SC),85,2019-20,4.05,4.05,100.00
+Uttar Pradesh,26,Etmadpur,86,2019-20,1.64,1.64,100.00
+Uttar Pradesh,26,Agra Cantt. (SC),87,2019-20,0.02,0.02,100.00
+Uttar Pradesh,26,Agra South,88,2019-20,NA,NA,NA
+Uttar Pradesh,26,Agra North,89,2019-20,NA,NA,NA
+Uttar Pradesh,26,Agra Rural (SC),90,2019-20,1.63,1.63,100.00
+Uttar Pradesh,26,Fatehpur Sikri,91,2019-20,1.83,1.83,100.00
+Uttar Pradesh,26,Kheragarh,92,2019-20,2.27,2.27,100.00
+Uttar Pradesh,26,Fatehabad,93,2019-20,2.09,2.09,100.00
+Uttar Pradesh,26,Bah,94,2019-20,2.98,2.98,100.00
+Uttar Pradesh,26,Tundla (SC),95,2019-20,1.89,1.89,100.00
+Uttar Pradesh,26,Jasrana,96,2019-20,2.38,2.38,100.00
+Uttar Pradesh,26,Firozabad,97,2019-20,NA,NA,NA
+Uttar Pradesh,26,Shikohabad,98,2019-20,1.80,1.80,100.00
+Uttar Pradesh,26,Sirsaganj,99,2019-20,2.02,2.02,100.00
+Uttar Pradesh,26,Kasganj,100,2019-20,1.15,1.15,100.00
+Uttar Pradesh,26,Amanpur,101,2019-20,1.36,1.36,100.00
+Uttar Pradesh,26,Patiyali,102,2019-20,1.64,1.64,100.00
+Uttar Pradesh,26,Aliganj,103,2019-20,4.64,4.64,100.00
+Uttar Pradesh,26,Etah,104,2019-20,2.57,2.57,100.00
+Uttar Pradesh,26,Marhara,105,2019-20,3.25,3.25,100.00
+Uttar Pradesh,26,Jalesar (SC),106,2019-20,2.75,2.75,100.00
+Uttar Pradesh,26,Mainpuri,107,2019-20,12.35,12.35,100.00
+Uttar Pradesh,26,Bhongaon,108,2019-20,12.35,12.35,100.00
+Uttar Pradesh,26,Kishni (SC),109,2019-20,14.96,14.96,100.00
+Uttar Pradesh,26,Karhal,110,2019-20,12.46,12.46,100.00
+Uttar Pradesh,26,Gunnaur,111,2019-20,0.48,0.48,100.00
+Uttar Pradesh,26,Bisauli (SC),112,2019-20,5.26,5.26,100.00
+Uttar Pradesh,26,Sahaswan,113,2019-20,3.75,3.75,100.00
+Uttar Pradesh,26,Bilsi,114,2019-20,3.23,3.23,100.00
+Uttar Pradesh,26,Badaun,115,2019-20,3.77,3.77,100.00
+Uttar Pradesh,26,Shekhupur,116,2019-20,4.85,4.85,100.00
+Uttar Pradesh,26,Dataganj,117,2019-20,6.22,6.22,100.00
+Uttar Pradesh,26,Baheri,118,2019-20,4.96,4.96,100.00
+Uttar Pradesh,26,Meerganj,119,2019-20,7.13,7.13,100.00
+Uttar Pradesh,26,Bhojipura,120,2019-20,5.17,5.17,100.00
+Uttar Pradesh,26,Nawabganj,121,2019-20,8.24,8.24,100.00
+Uttar Pradesh,26,Faridpur (SC),122,2019-20,4.76,4.76,100.00
+Uttar Pradesh,26,Bithari Chainpur,123,2019-20,7.06,7.06,100.00
+Uttar Pradesh,26,Bareilly,124,2019-20,0.04,0.04,100.00
+Uttar Pradesh,26,Bareilly Cantt.,125,2019-20,0.20,0.20,100.00
+Uttar Pradesh,26,Aonla,126,2019-20,8.25,8.25,100.00
+Uttar Pradesh,26,Pilibhit,127,2019-20,2.69,2.69,100.00
+Uttar Pradesh,26,Barkhera,128,2019-20,3.64,3.64,100.00
+Uttar Pradesh,26,Puranpur (SC),129,2019-20,4.87,4.87,100.00
+Uttar Pradesh,26,Bisalpur,130,2019-20,4.64,4.64,100.00
+Uttar Pradesh,26,Katra,131,2019-20,7.14,7.14,100.00
+Uttar Pradesh,26,Jalalabad,132,2019-20,7.43,7.43,100.00
+Uttar Pradesh,26,Tilhar,133,2019-20,4.89,4.89,100.00
+Uttar Pradesh,26,Powayan (SC),134,2019-20,4.58,4.58,100.00
+Uttar Pradesh,26,Shahjahanpur,135,2019-20,1.40,1.40,100.00
+Uttar Pradesh,26,Dadraul,136,2019-20,6.96,6.96,100.00
+Uttar Pradesh,26,Palia,137,2019-20,2.63,2.63,100.00
+Uttar Pradesh,26,Nighasan,138,2019-20,3.59,3.59,100.00
+Uttar Pradesh,26,Gola Gokrannath,139,2019-20,3.58,3.58,100.00
+Uttar Pradesh,26,Sri Nagar (SC),140,2019-20,4.12,4.12,100.00
+Uttar Pradesh,26,Dhaurahra,141,2019-20,5.19,5.19,100.00
+Uttar Pradesh,26,Lakhimpur,142,2019-20,2.94,2.94,100.00
+Uttar Pradesh,26,Kasta (SC),143,2019-20,5.80,5.80,100.00
+Uttar Pradesh,26,Mohammdi,144,2019-20,5.00,5.00,100.00
+Uttar Pradesh,26,Maholi,145,2019-20,4.94,4.94,100.00
+Uttar Pradesh,26,Sitapur,146,2019-20,2.50,2.50,100.00
+Uttar Pradesh,26,Hargaon (SC),147,2019-20,4.60,4.60,100.00
+Uttar Pradesh,26,Laharpur,148,2019-20,4.14,4.14,100.00
+Uttar Pradesh,26,Biswan,149,2019-20,4.13,4.13,100.00
+Uttar Pradesh,26,Sevata,150,2019-20,4.89,4.89,100.00
+Uttar Pradesh,26,Mahmoodabad,151,2019-20,4.56,4.56,100.00
+Uttar Pradesh,26,Sidhauli (SC),152,2019-20,5.40,5.40,100.00
+Uttar Pradesh,26,Misrikh (SC),153,2019-20,9.27,9.27,100.00
+Uttar Pradesh,26,Sawayazpur,154,2019-20,9.09,9.09,100.00
+Uttar Pradesh,26,Shahabad,155,2019-20,6.61,6.61,100.00
+Uttar Pradesh,26,Hardoi,156,2019-20,8.38,8.38,100.00
+Uttar Pradesh,26,Gopamau (SC),157,2019-20,6.25,6.25,100.00
+Uttar Pradesh,26,Sandi (SC),158,2019-20,9.49,9.49,100.00
+Uttar Pradesh,26,Bilgram-Mallanwan,159,2019-20,7.46,7.46,100.00
+Uttar Pradesh,26,Balamau (SC),160,2019-20,11.62,11.62,100.00
+Uttar Pradesh,26,Sandila,161,2019-20,6.16,6.16,100.00
+Uttar Pradesh,26,Bangermau,162,2019-20,9.28,9.28,100.00
+Uttar Pradesh,26,Safipur (SC),163,2019-20,7.77,7.77,100.00
+Uttar Pradesh,26,Mohan (SC),164,2019-20,8.34,8.34,100.00
+Uttar Pradesh,26,Unnao,165,2019-20,6.46,6.46,100.00
+Uttar Pradesh,26,Bhagwantnagar,166,2019-20,10.22,10.22,100.00
+Uttar Pradesh,26,Purwa,167,2019-20,11.76,11.76,100.00
+Uttar Pradesh,26,Malihabad (SC),168,2019-20,13.15,13.15,100.00
+Uttar Pradesh,26,Bakshi Kaa Talab,169,2019-20,5.26,5.26,100.00
+Uttar Pradesh,26,Sarojini Nagar,170,2019-20,4.78,4.78,100.00
+Uttar Pradesh,26,Lucknow West,171,2019-20,NA,NA,NA
+Uttar Pradesh,26,Lucknow North,172,2019-20,NA,NA,NA
+Uttar Pradesh,26,Lucknow East,173,2019-20,NA,NA,NA
+Uttar Pradesh,26,Lucknow Central,174,2019-20,NA,NA,NA
+Uttar Pradesh,26,Lucknow Cantt.,175,2019-20,NA,NA,NA
+Uttar Pradesh,26,Mohanlalganj (SC),176,2019-20,9.74,9.74,100.00
+Uttar Pradesh,26,Bachhrawan (SC),177,2019-20,10.22,10.22,100.00
+Uttar Pradesh,26,Tiloi,178,2019-20,5.95,5.95,100.00
+Uttar Pradesh,26,Harchandpur,179,2019-20,6.53,6.53,100.00
+Uttar Pradesh,26,Rae Bareli,180,2019-20,5.77,5.77,100.00
+Uttar Pradesh,26,Salon (SC),181,2019-20,8.22,8.22,100.00
+Uttar Pradesh,26,Sareni,182,2019-20,12.16,12.16,100.00
+Uttar Pradesh,26,Unchahar,183,2019-20,8.96,8.96,100.00
+Uttar Pradesh,26,Jagdishpur (SC),184,2019-20,5.34,5.34,100.00
+Uttar Pradesh,26,Gauriganj,185,2019-20,6.41,6.41,100.00
+Uttar Pradesh,26,Amethi,186,2019-20,5.46,5.46,100.00
+Uttar Pradesh,26,Isauli,187,2019-20,11.63,11.63,100.00
+Uttar Pradesh,26,Sultanpur,188,2019-20,5.65,5.65,100.00
+Uttar Pradesh,26,Sadar,189,2019-20,13.22,13.22,100.00
+Uttar Pradesh,26,Lambhua,190,2019-20,8.81,8.81,100.00
+Uttar Pradesh,26,Kadipur (SC),191,2019-20,7.60,7.60,100.00
+Uttar Pradesh,26,Kaimganj (SC),192,2019-20,4.33,4.33,100.00
+Uttar Pradesh,26,Amritpur,193,2019-20,3.99,3.99,100.00
+Uttar Pradesh,26,Farrukhabad,194,2019-20,0.95,0.95,100.00
+Uttar Pradesh,26,Bhojpur,195,2019-20,4.63,4.63,100.00
+Uttar Pradesh,26,Chhibramau,196,2019-20,5.27,5.27,100.00
+Uttar Pradesh,26,Tirwa,197,2019-20,9.21,9.21,100.00
+Uttar Pradesh,26,Kannauj (SC),198,2019-20,9.24,9.24,100.00
+Uttar Pradesh,26,Jaswantnagar,199,2019-20,5.87,5.87,100.00
+Uttar Pradesh,26,Etawah,200,2019-20,3.31,3.31,100.00
+Uttar Pradesh,26,Bharthana (SC),201,2019-20,10.67,10.67,100.00
+Uttar Pradesh,26,Bidhuna,202,2019-20,5.33,5.33,100.00
+Uttar Pradesh,26,Dibiyapur,203,2019-20,5.50,5.50,100.00
+Uttar Pradesh,26,Auraiya (SC),204,2019-20,4.14,4.14,100.00
+Uttar Pradesh,26,Rasulabad (SC),205,2019-20,9.83,9.83,100.00
+Uttar Pradesh,26,Akbarpur-Raniya,206,2019-20,4.23,4.23,100.00
+Uttar Pradesh,26,Sikandra,207,2019-20,7.31,7.31,100.00
+Uttar Pradesh,26,Bhognipur,208,2019-20,8.08,8.08,100.00
+Uttar Pradesh,26,Bilhaur (SC),209,2019-20,8.41,8.41,100.00
+Uttar Pradesh,26,Bithoor,210,2019-20,6.42,6.42,100.00
+Uttar Pradesh,26,Kalyanpur,211,2019-20,NA,NA,NA
+Uttar Pradesh,26,Govindnagar,212,2019-20,NA,NA,NA
+Uttar Pradesh,26,Sishamau,213,2019-20,NA,NA,NA
+Uttar Pradesh,26,Arya Nagar,214,2019-20,NA,NA,NA
+Uttar Pradesh,26,Kidwai Nagar,215,2019-20,NA,NA,NA
+Uttar Pradesh,26,Kanpur Cantt.,216,2019-20,NA,NA,NA
+Uttar Pradesh,26,Maharajpur,217,2019-20,3.31,3.31,100.00
+Uttar Pradesh,26,Ghatampur (SC),218,2019-20,6.69,6.69,100.00
+Uttar Pradesh,26,Madhaugarh,219,2019-20,10.58,10.58,100.00
+Uttar Pradesh,26,Kalpi,220,2019-20,9.54,9.54,100.00
+Uttar Pradesh,26,Orai (SC),221,2019-20,5.81,5.81,100.00
+Uttar Pradesh,26,Babina,222,2019-20,6.69,6.69,100.00
+Uttar Pradesh,26,Jhansi Nagar,223,2019-20,0.21,0.21,100.00
+Uttar Pradesh,26,Mauranipur (SC),224,2019-20,18.11,18.11,100.00
+Uttar Pradesh,26,Garautha,225,2019-20,14.98,14.98,100.00
+Uttar Pradesh,26,Lalitpur,226,2019-20,6.44,6.44,100.00
+Uttar Pradesh,26,Mehroni (SC),227,2019-20,4.70,4.70,100.00
+Uttar Pradesh,26,Hamirpur,228,2019-20,6.88,6.88,100.00
+Uttar Pradesh,26,Rath (SC),229,2019-20,6.42,6.42,100.00
+Uttar Pradesh,26,Mahoba,230,2019-20,2.84,2.84,100.00
+Uttar Pradesh,26,Charkhari,231,2019-20,6.59,6.59,100.00
+Uttar Pradesh,26,Tindwari,232,2019-20,7.42,7.42,100.00
+Uttar Pradesh,26,Baberu,233,2019-20,6.15,6.15,100.00
+Uttar Pradesh,26,Naraini (SC),234,2019-20,6.53,6.53,100.00
+Uttar Pradesh,26,Banda,235,2019-20,4.31,4.31,100.00
+Uttar Pradesh,26,Chitrakoot,236,2019-20,6.44,6.44,100.00
+Uttar Pradesh,26,Manikpur,237,2019-20,6.18,6.18,100.00
+Uttar Pradesh,26,Jahanabad,238,2019-20,2.74,2.74,100.00
+Uttar Pradesh,26,Bindki,239,2019-20,2.95,2.95,100.00
+Uttar Pradesh,26,Fatehpur,240,2019-20,1.49,1.49,100.00
+Uttar Pradesh,26,Ayah Shah,241,2019-20,2.72,2.72,100.00
+Uttar Pradesh,26,Husainganj,242,2019-20,3.58,3.58,100.00
+Uttar Pradesh,26,Khaga (SC),243,2019-20,4.68,4.68,100.00
+Uttar Pradesh,26,Rampur Khas,244,2019-20,4.47,4.47,100.00
+Uttar Pradesh,26,Babaganj (SC),245,2019-20,7.68,7.68,100.00
+Uttar Pradesh,26,Kunda,246,2019-20,8.91,8.91,100.00
+Uttar Pradesh,26,Vishwanath Ganj,247,2019-20,11.15,11.15,100.00
+Uttar Pradesh,26,Pratapgarh,248,2019-20,4.96,4.96,100.00
+Uttar Pradesh,26,Patti,249,2019-20,7.64,7.64,100.00
+Uttar Pradesh,26,Raniganj,250,2019-20,7.46,7.46,100.00
+Uttar Pradesh,26,Sirathu,251,2019-20,7.07,7.07,100.00
+Uttar Pradesh,26,Manjhanpur (SC),252,2019-20,10.74,10.74,100.00
+Uttar Pradesh,26,Chail,253,2019-20,6.80,6.80,100.00
+Uttar Pradesh,26,Phaphamau,254,2019-20,5.22,5.22,100.00
+Uttar Pradesh,26,Soraon (SC),255,2019-20,3.82,3.82,100.00
+Uttar Pradesh,26,Phulpur,256,2019-20,4.62,4.62,100.00
+Uttar Pradesh,26,Pratappur,257,2019-20,7.32,7.32,100.00
+Uttar Pradesh,26,Handia,258,2019-20,8.88,8.88,100.00
+Uttar Pradesh,26,Meja,259,2019-20,7.14,7.14,100.00
+Uttar Pradesh,26,Karachhana,260,2019-20,6.31,6.31,100.00
+Uttar Pradesh,26,Allahabad West,261,2019-20,NA,NA,NA
+Uttar Pradesh,26,Allahabad North,262,2019-20,NA,NA,NA
+Uttar Pradesh,26,Allahabad South,263,2019-20,NA,NA,NA
+Uttar Pradesh,26,Bara (SC),264,2019-20,8.34,8.34,100.00
+Uttar Pradesh,26,Koraon (SC),265,2019-20,8.13,8.13,100.00
+Uttar Pradesh,26,Kursi,266,2019-20,8.47,8.47,100.00
+Uttar Pradesh,26,Ram Nagar,267,2019-20,9.88,9.88,100.00
+Uttar Pradesh,26,Barabanki,268,2019-20,5.18,5.18,100.00
+Uttar Pradesh,26,Zaidpur (SC),269,2019-20,7.88,7.88,100.00
+Uttar Pradesh,26,Dariyabad,270,2019-20,9.76,9.76,100.00
+Uttar Pradesh,26,Rudauli,271,2019-20,8.95,8.95,100.00
+Uttar Pradesh,26,Haidergarh (SC),272,2019-20,8.35,8.35,100.00
+Uttar Pradesh,26,Milkipur (SC),273,2019-20,14.61,14.61,100.00
+Uttar Pradesh,26,Bikapur,274,2019-20,8.36,8.36,100.00
+Uttar Pradesh,26,Ayodhya,275,2019-20,2.40,2.40,100.00
+Uttar Pradesh,26,Goshainganj,276,2019-20,10.39,10.39,100.00
+Uttar Pradesh,26,Katehari,277,2019-20,8.99,8.99,100.00
+Uttar Pradesh,26,Tanda,278,2019-20,4.55,4.55,100.00
+Uttar Pradesh,26,Alapur (SC),279,2019-20,6.89,6.89,100.00
+Uttar Pradesh,26,Jalalpur,280,2019-20,10.55,10.55,100.00
+Uttar Pradesh,26,Akbarpur,281,2019-20,6.13,6.13,100.00
+Uttar Pradesh,26,Balha (SC),282,2019-20,2.64,2.64,100.00
+Uttar Pradesh,26,Nanpara,283,2019-20,3.93,3.93,100.00
+Uttar Pradesh,26,Matera,284,2019-20,3.78,3.78,100.00
+Uttar Pradesh,26,Mahasi,285,2019-20,4.91,4.91,100.00
+Uttar Pradesh,26,Bahraich,286,2019-20,3.42,3.42,100.00
+Uttar Pradesh,26,Payagpur,287,2019-20,3.29,3.29,100.00
+Uttar Pradesh,26,Kaiserganj,288,2019-20,5.32,5.32,100.00
+Uttar Pradesh,26,Bhinga,289,2019-20,2.42,2.42,100.00
+Uttar Pradesh,26,Shrawasti,290,2019-20,3.17,3.17,100.00
+Uttar Pradesh,26,Tulsipur,291,2019-20,4.84,4.84,100.00
+Uttar Pradesh,26,Gainsari,292,2019-20,2.26,2.26,100.00
+Uttar Pradesh,26,Utraula,293,2019-20,1.90,1.90,100.00
+Uttar Pradesh,26,Balrampur (SC),294,2019-20,2.98,2.98,100.00
+Uttar Pradesh,26,Mehnaun,295,2019-20,4.94,4.94,100.00
+Uttar Pradesh,26,Gonda,296,2019-20,5.49,5.49,100.00
+Uttar Pradesh,26,Katra Bazar,297,2019-20,9.56,9.56,100.00
+Uttar Pradesh,26,Colonelganj,298,2019-20,9.14,9.14,100.00
+Uttar Pradesh,26,Tarabganj,299,2019-20,12.48,12.48,100.00
+Uttar Pradesh,26,Mankapur (SC),300,2019-20,9.62,9.62,100.00
+Uttar Pradesh,26,Gaura,301,2019-20,5.85,5.85,100.00
+Uttar Pradesh,26,Shohratgarh,302,2019-20,6.26,6.26,100.00
+Uttar Pradesh,26,Kapilvastu (SC),303,2019-20,5.75,5.75,100.00
+Uttar Pradesh,26,Bansi,304,2019-20,6.83,6.83,100.00
+Uttar Pradesh,26,Itwa,305,2019-20,4.14,4.14,100.00
+Uttar Pradesh,26,Domariyaganj,306,2019-20,5.03,5.03,100.00
+Uttar Pradesh,26,Harraiya,307,2019-20,7.89,7.89,100.00
+Uttar Pradesh,26,Kaptanganj,308,2019-20,9.79,9.79,100.00
+Uttar Pradesh,26,Rudhauli,309,2019-20,10.55,10.55,100.00
+Uttar Pradesh,26,Basti Sadar,310,2019-20,6.77,6.77,100.00
+Uttar Pradesh,26,Mahadewa (SC),311,2019-20,16.55,16.55,100.00
+Uttar Pradesh,26,Menhdawal,312,2019-20,16.55,16.55,100.00
+Uttar Pradesh,26,Khalilabad,313,2019-20,9.13,9.13,100.00
+Uttar Pradesh,26,Dhanghata (SC),314,2019-20,9.92,9.92,100.00
+Uttar Pradesh,26,Pharenda,315,2019-20,4.67,4.67,100.00
+Uttar Pradesh,26,Nautanwa,316,2019-20,5.14,5.14,100.00
+Uttar Pradesh,26,Siswa,317,2019-20,4.60,4.60,100.00
+Uttar Pradesh,26,Maharajganj (SC),318,2019-20,6.87,6.87,100.00
+Uttar Pradesh,26,Paniyra,319,2019-20,8.99,8.99,100.00
+Uttar Pradesh,26,Caimpiyarganj,320,2019-20,3.03,3.03,100.00
+Uttar Pradesh,26,Pipraich,321,2019-20,2.50,2.50,100.00
+Uttar Pradesh,26,Gorakhpur Urban,322,2019-20,0.13,0.13,100.00
+Uttar Pradesh,26,Gorakhpur Rural,323,2019-20,2.31,2.31,100.00
+Uttar Pradesh,26,Sahajanwa,324,2019-20,5.08,5.08,100.00
+Uttar Pradesh,26,Khajani (Sc),325,2019-20,5.48,5.48,100.00
+Uttar Pradesh,26,Chauri-Chaura,326,2019-20,3.35,3.35,100.00
+Uttar Pradesh,26,Bansgaon (SC),327,2019-20,4.69,4.69,100.00
+Uttar Pradesh,26,Chillupar,328,2019-20,6.15,6.15,100.00
+Uttar Pradesh,26,Khadda,329,2019-20,6.65,6.65,100.00
+Uttar Pradesh,26,Padrauna,330,2019-20,4.82,4.82,100.00
+Uttar Pradesh,26,Tamkuhi Raj,331,2019-20,6.38,6.38,100.00
+Uttar Pradesh,26,Fazilnagar,332,2019-20,8.31,8.31,100.00
+Uttar Pradesh,26,Kushinagar,333,2019-20,11.20,11.20,100.00
+Uttar Pradesh,26,Hata,334,2019-20,12.35,12.35,100.00
+Uttar Pradesh,26,Ramkola (SC),335,2019-20,6.69,6.69,100.00
+Uttar Pradesh,26,Rudrapur,336,2019-20,5.62,5.62,100.00
+Uttar Pradesh,26,Deoria,337,2019-20,6.21,6.21,100.00
+Uttar Pradesh,26,Pathardeva,338,2019-20,13.18,13.18,100.00
+Uttar Pradesh,26,Rampur Karkhana,339,2019-20,7.34,7.34,100.00
+Uttar Pradesh,26,Bhatpar Rani,340,2019-20,3.59,3.59,100.00
+Uttar Pradesh,26,Salempur (SC),341,2019-20,5.07,5.07,100.00
+Uttar Pradesh,26,Barhaj,342,2019-20,3.69,3.69,100.00
+Uttar Pradesh,26,Atrauliya,343,2019-20,2.46,2.46,100.00
+Uttar Pradesh,26,Gopalpur,344,2019-20,1.84,1.84,100.00
+Uttar Pradesh,26,Sagri,345,2019-20,1.55,1.55,100.00
+Uttar Pradesh,26,Mubarakpur,346,2019-20,1.68,1.68,100.00
+Uttar Pradesh,26,Azamgarh,347,2019-20,1.66,1.66,100.00
+Uttar Pradesh,26,Nizamabad,348,2019-20,1.87,1.87,100.00
+Uttar Pradesh,26,Phoolpur-Pawai,349,2019-20,1.49,1.49,100.00
+Uttar Pradesh,26,Didarganj,350,2019-20,2.23,2.23,100.00
+Uttar Pradesh,26,Lalganj (SC),351,2019-20,2.18,2.18,100.00
+Uttar Pradesh,26,Mehnagar (SC),352,2019-20,2.25,2.25,100.00
+Uttar Pradesh,26,Madhuban,353,2019-20,4.36,4.36,100.00
+Uttar Pradesh,26,Ghosi,354,2019-20,5.62,5.62,100.00
+Uttar Pradesh,26,Muhammadabad- Gohna (SC),355,2019-20,6.61,6.61,100.00
+Uttar Pradesh,26,Mau,356,2019-20,3.61,3.61,100.00
+Uttar Pradesh,26,Belthara Road (SC),357,2019-20,3.32,3.32,100.00
+Uttar Pradesh,26,Rasara,358,2019-20,9.66,9.66,100.00
+Uttar Pradesh,26,Sikanderpur,359,2019-20,6.07,6.07,100.00
+Uttar Pradesh,26,Phephana,360,2019-20,2.55,2.55,100.00
+Uttar Pradesh,26,Ballia Nagar,361,2019-20,6.12,6.12,100.00
+Uttar Pradesh,26,Bansdih,362,2019-20,7.34,7.34,100.00
+Uttar Pradesh,26,Bairia,363,2019-20,2.01,2.01,100.00
+Uttar Pradesh,26,Badlapur,364,2019-20,5.92,5.92,100.00
+Uttar Pradesh,26,Shahganj,365,2019-20,5.05,5.05,100.00
+Uttar Pradesh,26,Jaunpur,366,2019-20,5.28,5.28,100.00
+Uttar Pradesh,26,Malhani,367,2019-20,5.81,5.81,100.00
+Uttar Pradesh,26,Mungra Badshahpur,368,2019-20,5.53,5.53,100.00
+Uttar Pradesh,26,Machhlishahr (SC),369,2019-20,4.03,4.03,100.00
+Uttar Pradesh,26,Mariyahu,370,2019-20,6.26,6.26,100.00
+Uttar Pradesh,26,Zafrabad,371,2019-20,5.01,5.01,100.00
+Uttar Pradesh,26,Kerakat (SC),372,2019-20,4.72,4.72,100.00
+Uttar Pradesh,26,Jakhanian (SC),373,2019-20,3.18,3.18,100.00
+Uttar Pradesh,26,Saidpur (SC),374,2019-20,3.89,3.89,100.00
+Uttar Pradesh,26,Ghazipur,375,2019-20,3.13,3.13,100.00
+Uttar Pradesh,26,Jangipur (Sc),376,2019-20,2.98,2.98,100.00
+Uttar Pradesh,26,Zahoorabad,377,2019-20,4.75,4.75,100.00
+Uttar Pradesh,26,Mohammadabad,378,2019-20,4.75,4.75,100.00
+Uttar Pradesh,26,Zamania,379,2019-20,2.46,2.46,100.00
+Uttar Pradesh,26,Mughalsarai,380,2019-20,8.27,8.27,100.00
+Uttar Pradesh,26,Sakaldiha,381,2019-20,11.34,11.34,100.00
+Uttar Pradesh,26,Saiyadraja,382,2019-20,10.55,10.55,100.00
+Uttar Pradesh,26,Chakia (SC),383,2019-20,23.17,23.17,100.00
+Uttar Pradesh,26,Pindra,384,2019-20,7.92,7.92,100.00
+Uttar Pradesh,26,Ajagara (SC),385,2019-20,7.63,7.63,100.00
+Uttar Pradesh,26,Shivpur,386,2019-20,7.00,7.00,100.00
+Uttar Pradesh,26,Rohaniya,387,2019-20,6.11,6.11,100.00
+Uttar Pradesh,26,Varanasi North,388,2019-20,NA,NA,NA
+Uttar Pradesh,26,Varanasi South,389,2019-20,NA,NA,NA
+Uttar Pradesh,26,Varanasi Cantt.,390,2019-20,0.02,0.02,100.00
+Uttar Pradesh,26,Sevapuri,391,2019-20,8.62,8.62,100.00
+Uttar Pradesh,26,Bhadohi,392,2019-20,5.77,5.77,100.00
+Uttar Pradesh,26,Gyanpur,393,2019-20,6.87,6.87,100.00
+Uttar Pradesh,26,Aurai (SC),394,2019-20,3.28,3.28,100.00
+Uttar Pradesh,26,Chhanbey (SC),395,2019-20,9.84,9.84,100.00
+Uttar Pradesh,26,Mirzapur,396,2019-20,7.36,7.36,100.00
+Uttar Pradesh,26,Majhawan,397,2019-20,13.88,13.88,100.00
+Uttar Pradesh,26,Chunar,398,2019-20,8.81,8.81,100.00
+Uttar Pradesh,26,Marihan,399,2019-20,12.36,12.36,100.00
+Uttar Pradesh,26,Ghorawal,400,2019-20,6.89,6.89,100.00
+Uttar Pradesh,26,Robertsganj,401,2019-20,9.47,9.47,100.00
+Uttar Pradesh,26,Obra,402,2019-20,2.31,2.31,100.00
+Uttar Pradesh,26,Duddhi (SC),403,2019-20,7.34,7.34,100.00
+Uttar Pradesh,26,Behat,1,2020-21,5.73,5.73,100.00
+Uttar Pradesh,26,Nakur,2,2020-21,5.29,5.29,100.00
+Uttar Pradesh,26,Saharanpur Nagar,3,2020-21,0.14,0.14,100.00
+Uttar Pradesh,26,Saharanpur,4,2020-21,6.44,6.44,100.00
+Uttar Pradesh,26,Deoband,5,2020-21,3.37,3.37,100.00
+Uttar Pradesh,26,Rampur Maniharan (SC),6,2020-21,5.34,5.34,100.00
+Uttar Pradesh,26,Gangoh,7,2020-21,6.43,6.43,100.00
+Uttar Pradesh,26,Kairana,8,2020-21,NA,NA,NA
+Uttar Pradesh,26,Thana Bhawan,9,2020-21,NA,NA,NA
+Uttar Pradesh,26,Shamli,10,2020-21,NA,NA,NA
+Uttar Pradesh,26,Budhana,11,2020-21,2.15,2.15,100.00
+Uttar Pradesh,26,Charthawal,12,2020-21,3.78,3.78,100.00
+Uttar Pradesh,26,Purqazi (SC),13,2020-21,1.92,1.92,100.00
+Uttar Pradesh,26,Muzaffar Nagar,14,2020-21,0.43,0.43,100.00
+Uttar Pradesh,26,Khatauli,15,2020-21,2.70,2.70,100.00
+Uttar Pradesh,26,Meerapur,16,2020-21,1.33,1.33,100.00
+Uttar Pradesh,26,Najibabad,17,2020-21,3.03,3.03,100.00
+Uttar Pradesh,26,Nagina (SC),18,2020-21,2.92,2.92,100.00
+Uttar Pradesh,26,Barhapur,19,2020-21,2.25,2.25,100.00
+Uttar Pradesh,26,Dhampur,20,2020-21,1.24,1.24,100.00
+Uttar Pradesh,26,Nehtaur (SC),21,2020-21,1.70,1.70,100.00
+Uttar Pradesh,26,Bijnor,22,2020-21,2.04,2.04,100.00
+Uttar Pradesh,26,Chandpur,23,2020-21,2.91,2.91,100.00
+Uttar Pradesh,26,Noorpur,24,2020-21,1.67,1.67,100.00
+Uttar Pradesh,26,Kanth,25,2020-21,2.13,2.13,100.00
+Uttar Pradesh,26,Thakurdwara,26,2020-21,2.27,2.27,100.00
+Uttar Pradesh,26,Moradabad Rural,27,2020-21,3.99,3.99,100.00
+Uttar Pradesh,26,Moradabad Nagar,28,2020-21,2.64,2.64,100.00
+Uttar Pradesh,26,Kundarki,29,2020-21,5.67,5.67,100.00
+Uttar Pradesh,26,Bilari,30,2020-21,1.18,1.18,100.00
+Uttar Pradesh,26,Chandausi (SC),31,2020-21,2.61,2.61,100.00
+Uttar Pradesh,26,Asmoli,32,2020-21,2.10,2.10,100.00
+Uttar Pradesh,26,Sambhal,33,2020-21,1.48,1.48,100.00
+Uttar Pradesh,26,Suar,34,2020-21,1.95,1.95,100.00
+Uttar Pradesh,26,Chamraua,35,2020-21,3.51,3.51,100.00
+Uttar Pradesh,26,Bilaspur,36,2020-21,5.56,5.56,100.00
+Uttar Pradesh,26,Rampur,37,2020-21,4.32,4.32,100.00
+Uttar Pradesh,26,Milak (SC),38,2020-21,3.44,3.44,100.00
+Uttar Pradesh,26,Dhanaura (SC),39,2020-21,2.84,2.84,100.00
+Uttar Pradesh,26,Naugawan Sadat,40,2020-21,3.04,3.04,100.00
+Uttar Pradesh,26,Amroha,41,2020-21,3.49,3.49,100.00
+Uttar Pradesh,26,Hasanpur,42,2020-21,2.28,2.28,100.00
+Uttar Pradesh,26,Siwalkhas,43,2020-21,1.95,1.95,100.00
+Uttar Pradesh,26,Sardhana,44,2020-21,1.28,1.28,100.00
+Uttar Pradesh,26,Hastinapur (SC),45,2020-21,2.83,2.83,100.00
+Uttar Pradesh,26,Kithore,46,2020-21,1.98,1.98,100.00
+Uttar Pradesh,26,Meerut Cantt.,47,2020-21,0.22,0.22,100.00
+Uttar Pradesh,26,Meerut,48,2020-21,0.05,0.05,100.00
+Uttar Pradesh,26,Meerut South,49,2020-21,0.21,0.21,100.00
+Uttar Pradesh,26,Chhaprauli,50,2020-21,4.34,4.34,100.00
+Uttar Pradesh,26,Baraut,51,2020-21,2.75,2.75,100.00
+Uttar Pradesh,26,Baghpat,52,2020-21,3.25,3.25,100.00
+Uttar Pradesh,26,Loni,53,2020-21,0.94,0.94,100.00
+Uttar Pradesh,26,Muradnagar,54,2020-21,0.56,0.56,100.00
+Uttar Pradesh,26,Sahibabad,55,2020-21,0.26,0.26,100.00
+Uttar Pradesh,26,Ghaziabad,56,2020-21,0.16,0.16,100.00
+Uttar Pradesh,26,Modi Nagar,57,2020-21,2.38,2.38,100.00
+Uttar Pradesh,26,Dhaulana,58,2020-21,1.19,1.19,100.00
+Uttar Pradesh,26,Hapur (SC),59,2020-21,1.25,1.25,100.00
+Uttar Pradesh,26,Garhmukteshwar,60,2020-21,2.59,2.59,100.00
+Uttar Pradesh,26,Noida,61,2020-21,0.11,0.11,100.00
+Uttar Pradesh,26,Dadri,62,2020-21,1.53,1.53,100.00
+Uttar Pradesh,26,Jewar,63,2020-21,4.08,4.08,100.00
+Uttar Pradesh,26,Sikandrabad,64,2020-21,1.69,1.69,100.00
+Uttar Pradesh,26,Bulandshahr,65,2020-21,1.45,1.45,100.00
+Uttar Pradesh,26,Syana,66,2020-21,2.36,2.36,100.00
+Uttar Pradesh,26,Anupshahr,67,2020-21,1.98,1.98,100.00
+Uttar Pradesh,26,Debai,68,2020-21,2.46,2.46,100.00
+Uttar Pradesh,26,Shikarpur,69,2020-21,3.56,3.56,100.00
+Uttar Pradesh,26,Khurja (SC),70,2020-21,2.61,2.61,100.00
+Uttar Pradesh,26,Khair (SC),71,2020-21,3.00,3.00,100.00
+Uttar Pradesh,26,Barauli,72,2020-21,3.38,3.38,100.00
+Uttar Pradesh,26,Atrauli,73,2020-21,5.77,5.77,100.00
+Uttar Pradesh,26,Chharra,74,2020-21,4.62,4.62,100.00
+Uttar Pradesh,26,Koil,75,2020-21,0.90,0.90,100.00
+Uttar Pradesh,26,Aligarh,76,2020-21,1.93,1.93,100.00
+Uttar Pradesh,26,Iglas (SC),77,2020-21,2.49,2.49,100.00
+Uttar Pradesh,26,Hathras (SC),78,2020-21,2.87,2.87,100.00
+Uttar Pradesh,26,Sadabad,79,2020-21,4.72,4.72,100.00
+Uttar Pradesh,26,Sikandra Rao,80,2020-21,4.68,4.68,100.00
+Uttar Pradesh,26,Chhata,81,2020-21,6.89,6.89,100.00
+Uttar Pradesh,26,Mant,82,2020-21,8.57,8.57,100.00
+Uttar Pradesh,26,Goverdhan,83,2020-21,8.75,8.75,100.00
+Uttar Pradesh,26,Mathura,84,2020-21,3.81,3.81,100.00
+Uttar Pradesh,26,Baldev (SC),85,2020-21,5.11,5.11,100.00
+Uttar Pradesh,26,Etmadpur,86,2020-21,2.77,2.77,100.00
+Uttar Pradesh,26,Agra Cantt. (SC),87,2020-21,0.29,0.29,100.00
+Uttar Pradesh,26,Agra South,88,2020-21,0.44,0.44,100.00
+Uttar Pradesh,26,Agra North,89,2020-21,0.33,0.33,100.00
+Uttar Pradesh,26,Agra Rural (SC),90,2020-21,2.61,2.61,100.00
+Uttar Pradesh,26,Fatehpur Sikri,91,2020-21,3.06,3.06,100.00
+Uttar Pradesh,26,Kheragarh,92,2020-21,3.94,3.94,100.00
+Uttar Pradesh,26,Fatehabad,93,2020-21,3.42,3.42,100.00
+Uttar Pradesh,26,Bah,94,2020-21,4.82,4.82,100.00
+Uttar Pradesh,26,Tundla (SC),95,2020-21,2.99,2.99,100.00
+Uttar Pradesh,26,Jasrana,96,2020-21,3.61,3.61,100.00
+Uttar Pradesh,26,Firozabad,97,2020-21,1.00,1.00,100.00
+Uttar Pradesh,26,Shikohabad,98,2020-21,2.59,2.59,100.00
+Uttar Pradesh,26,Sirsaganj,99,2020-21,3.04,3.04,100.00
+Uttar Pradesh,26,Kasganj,100,2020-21,1.59,1.59,100.00
+Uttar Pradesh,26,Amanpur,101,2020-21,1.97,1.97,100.00
+Uttar Pradesh,26,Patiyali,102,2020-21,2.80,2.80,100.00
+Uttar Pradesh,26,Aliganj,103,2020-21,7.81,7.81,100.00
+Uttar Pradesh,26,Etah,104,2020-21,4.53,4.53,100.00
+Uttar Pradesh,26,Marhara,105,2020-21,5.55,5.55,100.00
+Uttar Pradesh,26,Jalesar (SC),106,2020-21,4.68,4.68,100.00
+Uttar Pradesh,26,Mainpuri,107,2020-21,11.13,11.13,100.00
+Uttar Pradesh,26,Bhongaon,108,2020-21,12.35,12.35,100.00
+Uttar Pradesh,26,Kishni (SC),109,2020-21,13.00,13.00,100.00
+Uttar Pradesh,26,Karhal,110,2020-21,10.86,10.86,100.00
+Uttar Pradesh,26,Gunnaur,111,2020-21,0.34,0.34,100.00
+Uttar Pradesh,26,Bisauli (SC),112,2020-21,7.12,7.12,100.00
+Uttar Pradesh,26,Sahaswan,113,2020-21,2.92,2.92,100.00
+Uttar Pradesh,26,Bilsi,114,2020-21,3.89,3.89,100.00
+Uttar Pradesh,26,Badaun,115,2020-21,4.24,4.24,100.00
+Uttar Pradesh,26,Shekhupur,116,2020-21,5.56,5.56,100.00
+Uttar Pradesh,26,Dataganj,117,2020-21,7.05,7.05,100.00
+Uttar Pradesh,26,Baheri,118,2020-21,5.09,5.09,100.00
+Uttar Pradesh,26,Meerganj,119,2020-21,7.17,7.17,100.00
+Uttar Pradesh,26,Bhojipura,120,2020-21,5.33,5.33,100.00
+Uttar Pradesh,26,Nawabganj,121,2020-21,8.76,8.76,100.00
+Uttar Pradesh,26,Faridpur (SC),122,2020-21,4.83,4.83,100.00
+Uttar Pradesh,26,Bithari Chainpur,123,2020-21,7.22,7.22,100.00
+Uttar Pradesh,26,Bareilly,124,2020-21,2.60,2.60,100.00
+Uttar Pradesh,26,Bareilly Cantt.,125,2020-21,0.20,0.20,100.00
+Uttar Pradesh,26,Aonla,126,2020-21,8.12,8.12,100.00
+Uttar Pradesh,26,Pilibhit,127,2020-21,5.44,5.44,100.00
+Uttar Pradesh,26,Barkhera,128,2020-21,6.30,6.30,100.00
+Uttar Pradesh,26,Puranpur (SC),129,2020-21,8.73,8.73,100.00
+Uttar Pradesh,26,Bisalpur,130,2020-21,8.40,8.40,100.00
+Uttar Pradesh,26,Katra,131,2020-21,8.62,8.62,100.00
+Uttar Pradesh,26,Jalalabad,132,2020-21,8.92,8.92,100.00
+Uttar Pradesh,26,Tilhar,133,2020-21,6.59,6.59,100.00
+Uttar Pradesh,26,Powayan (SC),134,2020-21,6.56,6.56,100.00
+Uttar Pradesh,26,Shahjahanpur,135,2020-21,3.57,3.57,100.00
+Uttar Pradesh,26,Dadraul,136,2020-21,8.10,8.10,100.00
+Uttar Pradesh,26,Palia,137,2020-21,4.12,4.12,100.00
+Uttar Pradesh,26,Nighasan,138,2020-21,5.54,5.54,100.00
+Uttar Pradesh,26,Gola Gokrannath,139,2020-21,5.62,5.62,100.00
+Uttar Pradesh,26,Sri Nagar (SC),140,2020-21,6.28,6.28,100.00
+Uttar Pradesh,26,Dhaurahra,141,2020-21,7.87,7.87,100.00
+Uttar Pradesh,26,Lakhimpur,142,2020-21,4.48,4.48,100.00
+Uttar Pradesh,26,Kasta (SC),143,2020-21,8.62,8.62,100.00
+Uttar Pradesh,26,Mohammdi,144,2020-21,7.60,7.60,100.00
+Uttar Pradesh,26,Maholi,145,2020-21,3.88,3.88,100.00
+Uttar Pradesh,26,Sitapur,146,2020-21,2.32,2.32,100.00
+Uttar Pradesh,26,Hargaon (SC),147,2020-21,3.63,3.63,100.00
+Uttar Pradesh,26,Laharpur,148,2020-21,3.55,3.55,100.00
+Uttar Pradesh,26,Biswan,149,2020-21,3.16,3.16,100.00
+Uttar Pradesh,26,Sevata,150,2020-21,3.89,3.89,100.00
+Uttar Pradesh,26,Mahmoodabad,151,2020-21,3.76,3.76,100.00
+Uttar Pradesh,26,Sidhauli (SC),152,2020-21,4.39,4.39,100.00
+Uttar Pradesh,26,Misrikh (SC),153,2020-21,7.31,7.31,100.00
+Uttar Pradesh,26,Sawayazpur,154,2020-21,12.29,12.29,100.00
+Uttar Pradesh,26,Shahabad,155,2020-21,9.74,9.74,100.00
+Uttar Pradesh,26,Hardoi,156,2020-21,10.61,10.61,100.00
+Uttar Pradesh,26,Gopamau (SC),157,2020-21,8.00,8.00,100.00
+Uttar Pradesh,26,Sandi (SC),158,2020-21,12.41,12.41,100.00
+Uttar Pradesh,26,Bilgram-Mallanwan,159,2020-21,9.75,9.75,100.00
+Uttar Pradesh,26,Balamau (SC),160,2020-21,15.47,15.47,100.00
+Uttar Pradesh,26,Sandila,161,2020-21,9.60,9.60,100.00
+Uttar Pradesh,26,Bangermau,162,2020-21,12.16,12.16,100.00
+Uttar Pradesh,26,Safipur (SC),163,2020-21,9.56,9.56,100.00
+Uttar Pradesh,26,Mohan (SC),164,2020-21,10.10,10.10,100.00
+Uttar Pradesh,26,Unnao,165,2020-21,9.13,9.13,100.00
+Uttar Pradesh,26,Bhagwantnagar,166,2020-21,12.89,12.89,100.00
+Uttar Pradesh,26,Purwa,167,2020-21,14.92,14.92,100.00
+Uttar Pradesh,26,Malihabad (SC),168,2020-21,9.46,9.46,100.00
+Uttar Pradesh,26,Bakshi Kaa Talab,169,2020-21,4.92,4.92,100.00
+Uttar Pradesh,26,Sarojini Nagar,170,2020-21,4.19,4.19,100.00
+Uttar Pradesh,26,Lucknow West,171,2020-21,NA,NA,NA
+Uttar Pradesh,26,Lucknow North,172,2020-21,NA,NA,NA
+Uttar Pradesh,26,Lucknow East,173,2020-21,NA,NA,NA
+Uttar Pradesh,26,Lucknow Central,174,2020-21,NA,NA,NA
+Uttar Pradesh,26,Lucknow Cantt.,175,2020-21,NA,NA,NA
+Uttar Pradesh,26,Mohanlalganj (SC),176,2020-21,8.86,8.86,100.00
+Uttar Pradesh,26,Bachhrawan (SC),177,2020-21,10.88,10.88,100.00
+Uttar Pradesh,26,Tiloi,178,2020-21,9.19,9.19,100.00
+Uttar Pradesh,26,Harchandpur,179,2020-21,12.10,12.10,100.00
+Uttar Pradesh,26,Rae Bareli,180,2020-21,6.51,6.51,100.00
+Uttar Pradesh,26,Salon (SC),181,2020-21,9.76,9.76,100.00
+Uttar Pradesh,26,Sareni,182,2020-21,13.69,13.69,100.00
+Uttar Pradesh,26,Unchahar,183,2020-21,9.29,9.29,100.00
+Uttar Pradesh,26,Jagdishpur (SC),184,2020-21,7.41,7.41,100.00
+Uttar Pradesh,26,Gauriganj,185,2020-21,9.39,9.39,100.00
+Uttar Pradesh,26,Amethi,186,2020-21,8.26,8.26,100.00
+Uttar Pradesh,26,Isauli,187,2020-21,11.23,11.23,100.00
+Uttar Pradesh,26,Sultanpur,188,2020-21,5.36,5.36,100.00
+Uttar Pradesh,26,Sadar,189,2020-21,10.94,10.94,100.00
+Uttar Pradesh,26,Lambhua,190,2020-21,7.50,7.50,100.00
+Uttar Pradesh,26,Kadipur (SC),191,2020-21,6.96,6.96,100.00
+Uttar Pradesh,26,Kaimganj (SC),192,2020-21,4.81,4.81,100.00
+Uttar Pradesh,26,Amritpur,193,2020-21,4.17,4.17,100.00
+Uttar Pradesh,26,Farrukhabad,194,2020-21,2.51,2.51,100.00
+Uttar Pradesh,26,Bhojpur,195,2020-21,4.22,4.22,100.00
+Uttar Pradesh,26,Chhibramau,196,2020-21,6.39,6.39,100.00
+Uttar Pradesh,26,Tirwa,197,2020-21,8.01,8.01,100.00
+Uttar Pradesh,26,Kannauj (SC),198,2020-21,6.67,6.67,100.00
+Uttar Pradesh,26,Jaswantnagar,199,2020-21,9.73,9.73,100.00
+Uttar Pradesh,26,Etawah,200,2020-21,6.60,6.60,100.00
+Uttar Pradesh,26,Bharthana (SC),201,2020-21,17.86,17.86,100.00
+Uttar Pradesh,26,Bidhuna,202,2020-21,8.11,8.11,100.00
+Uttar Pradesh,26,Dibiyapur,203,2020-21,8.37,8.37,100.00
+Uttar Pradesh,26,Auraiya (SC),204,2020-21,7.04,7.04,100.00
+Uttar Pradesh,26,Rasulabad (SC),205,2020-21,12.61,12.61,100.00
+Uttar Pradesh,26,Akbarpur-Raniya,206,2020-21,5.56,5.56,100.00
+Uttar Pradesh,26,Sikandra,207,2020-21,9.45,9.45,100.00
+Uttar Pradesh,26,Bhognipur,208,2020-21,10.30,10.30,100.00
+Uttar Pradesh,26,Bilhaur (SC),209,2020-21,13.73,13.73,100.00
+Uttar Pradesh,26,Bithoor,210,2020-21,10.25,10.25,100.00
+Uttar Pradesh,26,Kalyanpur,211,2020-21,0.83,0.83,100.00
+Uttar Pradesh,26,Govindnagar,212,2020-21,0.84,0.84,100.00
+Uttar Pradesh,26,Sishamau,213,2020-21,1.16,1.16,100.00
+Uttar Pradesh,26,Arya Nagar,214,2020-21,1.17,1.17,100.00
+Uttar Pradesh,26,Kidwai Nagar,215,2020-21,0.81,0.81,100.00
+Uttar Pradesh,26,Kanpur Cantt.,216,2020-21,0.31,0.31,100.00
+Uttar Pradesh,26,Maharajpur,217,2020-21,5.98,5.98,100.00
+Uttar Pradesh,26,Ghatampur (SC),218,2020-21,10.99,10.99,100.00
+Uttar Pradesh,26,Madhaugarh,219,2020-21,13.19,13.19,100.00
+Uttar Pradesh,26,Kalpi,220,2020-21,11.49,11.49,100.00
+Uttar Pradesh,26,Orai (SC),221,2020-21,8.85,8.85,100.00
+Uttar Pradesh,26,Babina,222,2020-21,6.15,6.15,100.00
+Uttar Pradesh,26,Jhansi Nagar,223,2020-21,0.17,0.17,100.00
+Uttar Pradesh,26,Mauranipur (SC),224,2020-21,17.16,17.16,100.00
+Uttar Pradesh,26,Garautha,225,2020-21,13.45,13.45,100.00
+Uttar Pradesh,26,Lalitpur,226,2020-21,12.22,12.22,100.00
+Uttar Pradesh,26,Mehroni (SC),227,2020-21,8.31,8.31,100.00
+Uttar Pradesh,26,Hamirpur,228,2020-21,11.96,11.96,100.00
+Uttar Pradesh,26,Rath (SC),229,2020-21,10.95,10.95,100.00
+Uttar Pradesh,26,Mahoba,230,2020-21,5.13,5.13,100.00
+Uttar Pradesh,26,Charkhari,231,2020-21,10.38,10.38,100.00
+Uttar Pradesh,26,Tindwari,232,2020-21,9.93,9.93,100.00
+Uttar Pradesh,26,Baberu,233,2020-21,7.99,7.99,100.00
+Uttar Pradesh,26,Naraini (SC),234,2020-21,8.82,8.82,100.00
+Uttar Pradesh,26,Banda,235,2020-21,5.95,5.95,100.00
+Uttar Pradesh,26,Chitrakoot,236,2020-21,9.05,9.05,100.00
+Uttar Pradesh,26,Manikpur,237,2020-21,8.79,8.79,100.00
+Uttar Pradesh,26,Jahanabad,238,2020-21,4.55,4.55,100.00
+Uttar Pradesh,26,Bindki,239,2020-21,4.96,4.96,100.00
+Uttar Pradesh,26,Fatehpur,240,2020-21,2.56,2.56,100.00
+Uttar Pradesh,26,Ayah Shah,241,2020-21,4.52,4.52,100.00
+Uttar Pradesh,26,Husainganj,242,2020-21,5.89,5.89,100.00
+Uttar Pradesh,26,Khaga (SC),243,2020-21,8.17,8.17,100.00
+Uttar Pradesh,26,Rampur Khas,244,2020-21,4.37,4.37,100.00
+Uttar Pradesh,26,Babaganj (SC),245,2020-21,7.35,7.35,100.00
+Uttar Pradesh,26,Kunda,246,2020-21,8.84,8.84,100.00
+Uttar Pradesh,26,Vishwanath Ganj,247,2020-21,11.46,11.46,100.00
+Uttar Pradesh,26,Pratapgarh,248,2020-21,5.53,5.53,100.00
+Uttar Pradesh,26,Patti,249,2020-21,8.41,8.41,100.00
+Uttar Pradesh,26,Raniganj,250,2020-21,7.01,7.01,100.00
+Uttar Pradesh,26,Sirathu,251,2020-21,11.78,11.78,100.00
+Uttar Pradesh,26,Manjhanpur (SC),252,2020-21,17.60,17.60,100.00
+Uttar Pradesh,26,Chail,253,2020-21,11.24,11.24,100.00
+Uttar Pradesh,26,Phaphamau,254,2020-21,4.88,4.88,100.00
+Uttar Pradesh,26,Soraon (SC),255,2020-21,3.60,3.60,100.00
+Uttar Pradesh,26,Phulpur,256,2020-21,5.77,5.77,100.00
+Uttar Pradesh,26,Pratappur,257,2020-21,6.33,6.33,100.00
+Uttar Pradesh,26,Handia,258,2020-21,7.29,7.29,100.00
+Uttar Pradesh,26,Meja,259,2020-21,5.95,5.95,100.00
+Uttar Pradesh,26,Karachhana,260,2020-21,5.38,5.38,100.00
+Uttar Pradesh,26,Allahabad West,261,2020-21,0.02,0.02,100.00
+Uttar Pradesh,26,Allahabad North,262,2020-21,0.01,0.01,100.00
+Uttar Pradesh,26,Allahabad South,263,2020-21,0.64,0.64,100.00
+Uttar Pradesh,26,Bara (SC),264,2020-21,5.81,5.81,100.00
+Uttar Pradesh,26,Koraon (SC),265,2020-21,7.94,7.94,100.00
+Uttar Pradesh,26,Kursi,266,2020-21,9.60,9.60,100.00
+Uttar Pradesh,26,Ram Nagar,267,2020-21,10.58,10.58,100.00
+Uttar Pradesh,26,Barabanki,268,2020-21,6.02,6.02,100.00
+Uttar Pradesh,26,Zaidpur (SC),269,2020-21,9.25,9.25,100.00
+Uttar Pradesh,26,Dariyabad,270,2020-21,10.96,10.96,100.00
+Uttar Pradesh,26,Rudauli,271,2020-21,4.55,4.55,100.00
+Uttar Pradesh,26,Haidergarh (SC),272,2020-21,9.52,9.52,100.00
+Uttar Pradesh,26,Milkipur (SC),273,2020-21,4.84,4.84,100.00
+Uttar Pradesh,26,Bikapur,274,2020-21,4.73,4.73,100.00
+Uttar Pradesh,26,Ayodhya,275,2020-21,2.00,2.00,100.00
+Uttar Pradesh,26,Goshainganj,276,2020-21,5.47,5.47,100.00
+Uttar Pradesh,26,Katehari,277,2020-21,10.49,10.49,100.00
+Uttar Pradesh,26,Tanda,278,2020-21,6.97,6.97,100.00
+Uttar Pradesh,26,Alapur (SC),279,2020-21,4.66,4.66,100.00
+Uttar Pradesh,26,Jalalpur,280,2020-21,13.38,13.38,100.00
+Uttar Pradesh,26,Akbarpur,281,2020-21,10.46,10.46,100.00
+Uttar Pradesh,26,Balha (SC),282,2020-21,4.19,4.19,100.00
+Uttar Pradesh,26,Nanpara,283,2020-21,6.37,6.37,100.00
+Uttar Pradesh,26,Matera,284,2020-21,5.41,5.41,100.00
+Uttar Pradesh,26,Mahasi,285,2020-21,7.58,7.58,100.00
+Uttar Pradesh,26,Bahraich,286,2020-21,4.02,4.02,100.00
+Uttar Pradesh,26,Payagpur,287,2020-21,4.59,4.59,100.00
+Uttar Pradesh,26,Kaiserganj,288,2020-21,7.34,7.34,100.00
+Uttar Pradesh,26,Bhinga,289,2020-21,3.19,3.19,100.00
+Uttar Pradesh,26,Shrawasti,290,2020-21,4.23,4.23,100.00
+Uttar Pradesh,26,Tulsipur,291,2020-21,7.31,7.31,100.00
+Uttar Pradesh,26,Gainsari,292,2020-21,3.49,3.49,100.00
+Uttar Pradesh,26,Utraula,293,2020-21,2.91,2.91,100.00
+Uttar Pradesh,26,Balrampur (SC),294,2020-21,5.28,5.28,100.00
+Uttar Pradesh,26,Mehnaun,295,2020-21,2.59,2.59,100.00
+Uttar Pradesh,26,Gonda,296,2020-21,5.06,5.06,100.00
+Uttar Pradesh,26,Katra Bazar,297,2020-21,6.67,6.67,100.00
+Uttar Pradesh,26,Colonelganj,298,2020-21,8.39,8.39,100.00
+Uttar Pradesh,26,Tarabganj,299,2020-21,13.44,13.44,100.00
+Uttar Pradesh,26,Mankapur (SC),300,2020-21,8.66,8.66,100.00
+Uttar Pradesh,26,Gaura,301,2020-21,5.79,5.79,100.00
+Uttar Pradesh,26,Shohratgarh,302,2020-21,10.52,10.52,100.00
+Uttar Pradesh,26,Kapilvastu (SC),303,2020-21,10.21,10.21,100.00
+Uttar Pradesh,26,Bansi,304,2020-21,12.13,12.13,100.00
+Uttar Pradesh,26,Itwa,305,2020-21,7.07,7.07,100.00
+Uttar Pradesh,26,Domariyaganj,306,2020-21,8.31,8.31,100.00
+Uttar Pradesh,26,Harraiya,307,2020-21,7.36,7.36,100.00
+Uttar Pradesh,26,Kaptanganj,308,2020-21,8.91,8.91,100.00
+Uttar Pradesh,26,Rudhauli,309,2020-21,10.01,10.01,100.00
+Uttar Pradesh,26,Basti Sadar,310,2020-21,6.63,6.63,100.00
+Uttar Pradesh,26,Mahadewa (SC),311,2020-21,15.21,15.21,100.00
+Uttar Pradesh,26,Menhdawal,312,2020-21,21.43,21.43,100.00
+Uttar Pradesh,26,Khalilabad,313,2020-21,7.42,7.42,100.00
+Uttar Pradesh,26,Dhanghata (SC),314,2020-21,11.83,11.83,100.00
+Uttar Pradesh,26,Pharenda,315,2020-21,5.27,5.27,100.00
+Uttar Pradesh,26,Nautanwa,316,2020-21,5.62,5.62,100.00
+Uttar Pradesh,26,Siswa,317,2020-21,4.97,4.97,100.00
+Uttar Pradesh,26,Maharajganj (SC),318,2020-21,8.65,8.65,100.00
+Uttar Pradesh,26,Paniyra,319,2020-21,9.67,9.67,100.00
+Uttar Pradesh,26,Caimpiyarganj,320,2020-21,3.48,3.48,100.00
+Uttar Pradesh,26,Pipraich,321,2020-21,3.37,3.37,100.00
+Uttar Pradesh,26,Gorakhpur Urban,322,2020-21,0.39,0.39,100.00
+Uttar Pradesh,26,Gorakhpur Rural,323,2020-21,3.13,3.13,100.00
+Uttar Pradesh,26,Sahajanwa,324,2020-21,6.95,6.95,100.00
+Uttar Pradesh,26,Khajani (Sc),325,2020-21,7.58,7.58,100.00
+Uttar Pradesh,26,Chauri-Chaura,326,2020-21,4.42,4.42,100.00
+Uttar Pradesh,26,Bansgaon (SC),327,2020-21,6.79,6.79,100.00
+Uttar Pradesh,26,Chillupar,328,2020-21,8.47,8.47,100.00
+Uttar Pradesh,26,Khadda,329,2020-21,4.32,4.32,100.00
+Uttar Pradesh,26,Padrauna,330,2020-21,3.44,3.44,100.00
+Uttar Pradesh,26,Tamkuhi Raj,331,2020-21,4.75,4.75,100.00
+Uttar Pradesh,26,Fazilnagar,332,2020-21,6.44,6.44,100.00
+Uttar Pradesh,26,Kushinagar,333,2020-21,9.25,9.25,100.00
+Uttar Pradesh,26,Hata,334,2020-21,7.92,7.92,100.00
+Uttar Pradesh,26,Ramkola (SC),335,2020-21,5.20,5.20,100.00
+Uttar Pradesh,26,Rudrapur,336,2020-21,3.11,3.11,100.00
+Uttar Pradesh,26,Deoria,337,2020-21,3.54,3.54,100.00
+Uttar Pradesh,26,Pathardeva,338,2020-21,6.72,6.72,100.00
+Uttar Pradesh,26,Rampur Karkhana,339,2020-21,4.24,4.24,100.00
+Uttar Pradesh,26,Bhatpar Rani,340,2020-21,2.80,2.80,100.00
+Uttar Pradesh,26,Salempur (SC),341,2020-21,3.04,3.04,100.00
+Uttar Pradesh,26,Barhaj,342,2020-21,2.67,2.67,100.00
+Uttar Pradesh,26,Atrauliya,343,2020-21,3.64,3.64,100.00
+Uttar Pradesh,26,Gopalpur,344,2020-21,2.63,2.63,100.00
+Uttar Pradesh,26,Sagri,345,2020-21,2.12,2.12,100.00
+Uttar Pradesh,26,Mubarakpur,346,2020-21,2.46,2.46,100.00
+Uttar Pradesh,26,Azamgarh,347,2020-21,2.43,2.43,100.00
+Uttar Pradesh,26,Nizamabad,348,2020-21,2.79,2.79,100.00
+Uttar Pradesh,26,Phoolpur-Pawai,349,2020-21,2.28,2.28,100.00
+Uttar Pradesh,26,Didarganj,350,2020-21,3.54,3.54,100.00
+Uttar Pradesh,26,Lalganj (SC),351,2020-21,3.32,3.32,100.00
+Uttar Pradesh,26,Mehnagar (SC),352,2020-21,3.43,3.43,100.00
+Uttar Pradesh,26,Madhuban,353,2020-21,6.72,6.72,100.00
+Uttar Pradesh,26,Ghosi,354,2020-21,9.17,9.17,100.00
+Uttar Pradesh,26,Muhammadabad- Gohna (SC),355,2020-21,9.67,9.67,100.00
+Uttar Pradesh,26,Mau,356,2020-21,5.88,5.88,100.00
+Uttar Pradesh,26,Belthara Road (SC),357,2020-21,4.76,4.76,100.00
+Uttar Pradesh,26,Rasara,358,2020-21,12.99,12.99,100.00
+Uttar Pradesh,26,Sikanderpur,359,2020-21,8.58,8.58,100.00
+Uttar Pradesh,26,Phephana,360,2020-21,3.73,3.73,100.00
+Uttar Pradesh,26,Ballia Nagar,361,2020-21,9.38,9.38,100.00
+Uttar Pradesh,26,Bansdih,362,2020-21,9.97,9.97,100.00
+Uttar Pradesh,26,Bairia,363,2020-21,2.71,2.71,100.00
+Uttar Pradesh,26,Badlapur,364,2020-21,7.19,7.19,100.00
+Uttar Pradesh,26,Shahganj,365,2020-21,6.21,6.21,100.00
+Uttar Pradesh,26,Jaunpur,366,2020-21,6.20,6.20,100.00
+Uttar Pradesh,26,Malhani,367,2020-21,6.94,6.94,100.00
+Uttar Pradesh,26,Mungra Badshahpur,368,2020-21,6.53,6.53,100.00
+Uttar Pradesh,26,Machhlishahr (SC),369,2020-21,4.93,4.93,100.00
+Uttar Pradesh,26,Mariyahu,370,2020-21,7.67,7.67,100.00
+Uttar Pradesh,26,Zafrabad,371,2020-21,6.15,6.15,100.00
+Uttar Pradesh,26,Kerakat (SC),372,2020-21,5.82,5.82,100.00
+Uttar Pradesh,26,Jakhanian (SC),373,2020-21,5.01,5.01,100.00
+Uttar Pradesh,26,Saidpur (SC),374,2020-21,6.15,6.15,100.00
+Uttar Pradesh,26,Ghazipur,375,2020-21,4.92,4.92,100.00
+Uttar Pradesh,26,Jangipur (Sc),376,2020-21,4.68,4.68,100.00
+Uttar Pradesh,26,Zahoorabad,377,2020-21,7.57,7.57,100.00
+Uttar Pradesh,26,Mohammadabad,378,2020-21,7.88,7.88,100.00
+Uttar Pradesh,26,Zamania,379,2020-21,3.97,3.97,100.00
+Uttar Pradesh,26,Mughalsarai,380,2020-21,6.32,6.32,100.00
+Uttar Pradesh,26,Sakaldiha,381,2020-21,6.52,6.52,100.00
+Uttar Pradesh,26,Saiyadraja,382,2020-21,7.34,7.34,100.00
+Uttar Pradesh,26,Chakia (SC),383,2020-21,15.42,15.42,100.00
+Uttar Pradesh,26,Pindra,384,2020-21,6.82,6.82,100.00
+Uttar Pradesh,26,Ajagara (SC),385,2020-21,6.76,6.76,100.00
+Uttar Pradesh,26,Shivpur,386,2020-21,6.00,6.00,100.00
+Uttar Pradesh,26,Rohaniya,387,2020-21,5.52,5.52,100.00
+Uttar Pradesh,26,Varanasi North,388,2020-21,1.91,1.91,100.00
+Uttar Pradesh,26,Varanasi South,389,2020-21,2.53,2.53,100.00
+Uttar Pradesh,26,Varanasi Cantt.,390,2020-21,1.49,1.49,100.00
+Uttar Pradesh,26,Sevapuri,391,2020-21,7.45,7.45,100.00
+Uttar Pradesh,26,Bhadohi,392,2020-21,9.76,9.76,100.00
+Uttar Pradesh,26,Gyanpur,393,2020-21,11.08,11.08,100.00
+Uttar Pradesh,26,Aurai (SC),394,2020-21,5.49,5.49,100.00
+Uttar Pradesh,26,Chhanbey (SC),395,2020-21,9.00,9.00,100.00
+Uttar Pradesh,26,Mirzapur,396,2020-21,8.13,8.13,100.00
+Uttar Pradesh,26,Majhawan,397,2020-21,12.36,12.36,100.00
+Uttar Pradesh,26,Chunar,398,2020-21,7.74,7.74,100.00
+Uttar Pradesh,26,Marihan,399,2020-21,10.19,10.19,100.00
+Uttar Pradesh,26,Ghorawal,400,2020-21,8.02,8.02,100.00
+Uttar Pradesh,26,Robertsganj,401,2020-21,10.25,10.25,100.00
+Uttar Pradesh,26,Obra,402,2020-21,2.63,2.63,100.00
+Uttar Pradesh,26,Duddhi (SC),403,2020-21,8.05,8.05,100.00

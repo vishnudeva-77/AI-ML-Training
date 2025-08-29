@@ -1,0 +1,1162 @@
+country,continent,UnitsSold,UnitPrice
+USA,North America,15,17.38
+USA,North America,36,126.22
+USA,North America,18,369.55
+USA,North America,87,371.63
+USA,North America,70,48.03
+USA,North America,55,20.73
+USA,North America,12,113.23
+USA,North America,65,303.0
+USA,North America,72,103.42
+USA,North America,84,352.16
+USA,North America,54,114.12
+USA,North America,76,142.7
+USA,North America,1,380.61
+USA,North America,21,350.58
+USA,North America,44,142.55
+USA,North America,28,478.82
+USA,North America,44,55.59
+USA,North America,49,52.87
+USA,North America,45,303.84
+USA,North America,6,366.22
+USA,North America,69,66.79
+USA,North America,49,44.01
+USA,North America,38,415.56
+USA,North America,80,443.3
+USA,North America,47,290.79
+USA,North America,91,39.43
+USA,North America,85,117.81
+USA,North America,38,492.68
+USA,North America,30,433.91
+USA,North America,49,142.6
+USA,North America,82,417.88
+USA,North America,21,188.24
+USA,North America,27,336.74
+USA,North America,90,468.64
+USA,North America,83,40.34
+USA,North America,82,89.71
+USA,North America,94,126.18
+USA,North America,60,192.83
+USA,North America,82,345.64
+USA,North America,29,343.88
+USA,North America,99,389.12
+USA,North America,30,411.79
+USA,North America,41,203.58
+USA,North America,9,109.44
+USA,North America,73,438.8
+USA,North America,41,110.25
+USA,North America,64,200.84
+USA,North America,83,232.13
+USA,North America,34,74.12
+USA,North America,96,282.88
+USA,North America,34,374.77
+USA,North America,55,449.42
+USA,North America,52,184.19
+USA,North America,18,257.22
+USA,North America,12,379.11
+USA,North America,15,80.66
+USA,North America,21,397.08
+USA,North America,55,300.22
+USA,North America,50,193.9
+USA,North America,60,266.91
+USA,North America,71,431.09
+USA,North America,2,341.74
+USA,North America,15,342.45
+USA,North America,69,376.68
+USA,North America,99,322.28
+USA,North America,15,150.28
+USA,North America,21,229.59
+USA,North America,93,438.55
+USA,North America,34,486.08
+USA,North America,98,93.43
+USA,North America,14,435.91
+USA,North America,39,421.63
+USA,North America,65,306.44
+USA,North America,20,190.09
+USA,North America,21,271.99
+USA,North America,100,461.6
+USA,North America,1,301.48
+USA,North America,63,14.64
+USA,North America,47,439.97
+USA,North America,40,123.53
+USA,North America,31,439.61
+USA,North America,11,47.4
+USA,North America,63,408.93
+USA,North America,98,268.69
+USA,North America,17,68.55
+USA,North America,61,473.69
+USA,North America,22,136.2
+USA,North America,78,214.45
+USA,North America,28,464.81
+USA,North America,97,366.32
+Canada,North America,92,159.3
+Canada,North America,86,326.69
+Canada,North America,57,450.31
+Canada,North America,58,64.9
+Canada,North America,29,36.69
+Canada,North America,3,296.21
+Canada,North America,30,296.28
+Canada,North America,1,40.14
+Canada,North America,81,34.14
+Canada,North America,9,453.18
+Canada,North America,43,40.07
+Canada,North America,31,142.85
+Canada,North America,63,111.05
+Canada,North America,17,363.06
+Canada,North America,74,290.22
+Canada,North America,32,393.39
+Canada,North America,53,99.25
+Canada,North America,13,331.2
+Canada,North America,46,214.67
+Canada,North America,60,432.6
+Canada,North America,7,338.32
+Canada,North America,83,53.72
+Canada,North America,52,365.47
+Canada,North America,14,128.08
+Canada,North America,25,270.46
+Canada,North America,18,213.83
+Canada,North America,36,234.0
+Canada,North America,10,224.35
+Canada,North America,71,53.46
+Canada,North America,84,499.64
+Canada,North America,2,484.65
+Canada,North America,97,425.1
+Canada,North America,22,206.17
+Canada,North America,62,110.8
+Canada,North America,52,451.71
+Canada,North America,22,192.59
+Canada,North America,50,136.28
+Canada,North America,59,146.2
+Canada,North America,90,478.87
+Canada,North America,72,332.63
+Canada,North America,63,81.62
+Canada,North America,38,112.76
+Canada,North America,8,291.69
+Canada,North America,70,35.17
+Canada,North America,41,33.3
+Canada,North America,75,241.01
+Canada,North America,68,82.93
+Canada,North America,66,44.66
+Canada,North America,24,38.92
+Canada,North America,9,339.23
+Canada,North America,31,204.87
+Canada,North America,73,126.88
+Canada,North America,77,24.67
+Canada,North America,11,212.52
+Canada,North America,75,284.79
+Canada,North America,41,467.68
+Canada,North America,27,336.51
+Canada,North America,41,123.15
+Canada,North America,51,69.78
+Canada,North America,83,153.5
+Canada,North America,41,464.86
+Canada,North America,10,9.61
+Mexico,North America,73,498.07
+Mexico,North America,10,271.13
+Mexico,North America,65,136.27
+Mexico,North America,45,441.03
+Mexico,North America,32,187.92
+Mexico,North America,21,221.9
+Mexico,North America,70,353.25
+Mexico,North America,79,492.01
+Mexico,North America,84,266.83
+Mexico,North America,86,409.47
+Mexico,North America,39,466.22
+Mexico,North America,14,469.77
+Mexico,North America,18,135.91
+Mexico,North America,14,372.5
+Mexico,North America,20,139.81
+Mexico,North America,78,109.26
+Mexico,North America,44,105.78
+Mexico,North America,82,427.19
+Mexico,North America,65,246.82
+Mexico,North America,7,50.69
+Mexico,North America,55,415.53
+Mexico,North America,6,6.76
+Mexico,North America,99,69.76
+Mexico,North America,34,84.98
+Mexico,North America,57,278.08
+Mexico,North America,55,282.65
+Mexico,North America,15,42.25
+Mexico,North America,89,452.44
+Mexico,North America,70,22.83
+Mexico,North America,48,293.34
+Mexico,North America,19,217.74
+Mexico,North America,6,157.59
+Mexico,North America,6,449.97
+Mexico,North America,27,342.62
+Mexico,North America,86,55.88
+Mexico,North America,100,282.14
+Mexico,North America,53,487.05
+Mexico,North America,96,81.5
+Mexico,North America,31,432.98
+Mexico,North America,23,441.3
+Mexico,North America,4,93.78
+Mexico,North America,43,392.28
+Mexico,North America,53,402.11
+Mexico,North America,95,406.32
+Mexico,North America,35,83.8
+Mexico,North America,90,58.51
+Mexico,North America,5,430.0
+Mexico,North America,29,103.79
+Mexico,North America,59,178.08
+Mexico,North America,30,115.35
+Mexico,North America,85,100.6
+Mexico,North America,43,142.91
+Mexico,North America,9,483.61
+Mexico,North America,36,178.82
+Mexico,North America,66,202.84
+Mexico,North America,69,168.92
+Mexico,North America,4,62.09
+Mexico,North America,34,93.39
+Mexico,North America,34,23.94
+Mexico,North America,77,220.11
+Mexico,North America,94,394.28
+Mexico,North America,56,305.07
+Mexico,North America,66,62.24
+Mexico,North America,74,99.09
+Mexico,North America,6,355.85
+Mexico,North America,1,262.36
+Mexico,North America,69,344.99
+Mexico,North America,95,369.83
+Mexico,North America,26,185.29
+Mexico,North America,9,474.69
+Mexico,North America,43,313.46
+Mexico,North America,85,424.77
+Mexico,North America,93,450.52
+Mexico,North America,65,158.1
+Mexico,North America,53,166.46
+Mexico,North America,90,151.35
+Mexico,North America,17,99.96
+Mexico,North America,86,470.48
+Mexico,North America,87,375.33
+Mexico,North America,23,309.68
+Mexico,North America,39,206.01
+Mexico,North America,1,155.42
+Mexico,North America,27,217.79
+Mexico,North America,75,305.3
+Mexico,North America,42,235.17
+Mexico,North America,57,339.44
+Mexico,North America,66,239.23
+Mexico,North America,95,89.0
+Mexico,North America,11,145.47
+Brazil,South America,82,311.53
+Brazil,South America,12,410.12
+Brazil,South America,97,121.26
+Brazil,South America,40,116.2
+Brazil,South America,26,77.94
+Brazil,South America,6,126.2
+Brazil,South America,61,307.58
+Brazil,South America,99,41.05
+Brazil,South America,54,443.64
+Brazil,South America,74,101.25
+Brazil,South America,90,195.07
+Brazil,South America,52,125.77
+Brazil,South America,84,345.37
+Brazil,South America,97,430.92
+Brazil,South America,14,390.32
+Brazil,South America,29,92.06
+Brazil,South America,90,261.39
+Brazil,South America,7,280.92
+Brazil,South America,16,230.95
+Brazil,South America,60,335.45
+Brazil,South America,72,299.75
+Brazil,South America,97,446.26
+Brazil,South America,79,408.43
+Brazil,South America,65,216.24
+Brazil,South America,71,225.73
+Brazil,South America,21,373.11
+Brazil,South America,61,227.78
+Brazil,South America,97,127.38
+Brazil,South America,82,142.27
+Brazil,South America,100,263.04
+Brazil,South America,81,123.43
+Brazil,South America,57,43.35
+Brazil,South America,37,121.07
+Brazil,South America,43,163.26
+Brazil,South America,70,44.89
+Brazil,South America,20,119.47
+Brazil,South America,89,80.64
+Brazil,South America,28,36.79
+Brazil,South America,53,168.79
+Brazil,South America,60,210.81
+Brazil,South America,27,417.28
+Brazil,South America,50,452.9
+Brazil,South America,75,473.3
+Brazil,South America,3,429.08
+Brazil,South America,98,289.97
+Brazil,South America,62,7.92
+Brazil,South America,46,152.81
+Brazil,South America,50,427.46
+Brazil,South America,54,271.42
+Brazil,South America,95,275.34
+Brazil,South America,78,449.42
+Brazil,South America,63,113.61
+Brazil,South America,56,245.39
+Brazil,South America,50,171.38
+Brazil,South America,87,400.08
+Brazil,South America,93,86.7
+Brazil,South America,60,460.17
+Brazil,South America,80,269.39
+Brazil,South America,51,297.99
+Brazil,South America,85,18.42
+Brazil,South America,83,217.16
+Brazil,South America,60,94.96
+Brazil,South America,34,192.66
+Brazil,South America,28,230.08
+Brazil,South America,44,381.81
+Brazil,South America,49,142.74
+Brazil,South America,54,129.87
+Brazil,South America,11,237.8
+Brazil,South America,96,272.01
+Brazil,South America,45,115.99
+Brazil,South America,9,391.71
+Brazil,South America,84,24.93
+Brazil,South America,4,475.06
+Brazil,South America,26,420.42
+Brazil,South America,80,80.43
+Brazil,South America,17,239.41
+Brazil,South America,15,284.16
+Brazil,South America,28,235.19
+Brazil,South America,33,384.61
+Brazil,South America,22,304.92
+Brazil,South America,96,360.59
+Brazil,South America,100,410.55
+Brazil,South America,40,58.51
+Brazil,South America,4,464.8
+Brazil,South America,74,340.29
+Brazil,South America,49,201.34
+Brazil,South America,92,103.17
+Brazil,South America,76,346.85
+Brazil,South America,81,125.21
+Brazil,South America,90,387.38
+Brazil,South America,88,302.2
+Brazil,South America,16,399.13
+Argentina,South America,6,176.87
+Argentina,South America,55,332.45
+Argentina,South America,9,255.45
+Argentina,South America,44,11.26
+Argentina,South America,54,412.05
+Argentina,South America,14,219.59
+Argentina,South America,47,319.61
+Argentina,South America,59,355.12
+Argentina,South America,56,92.19
+Argentina,South America,67,482.91
+Argentina,South America,35,309.88
+Argentina,South America,69,388.45
+Argentina,South America,60,220.61
+Argentina,South America,94,298.27
+Argentina,South America,42,426.6
+Argentina,South America,12,143.07
+Argentina,South America,58,125.71
+Argentina,South America,60,287.08
+Argentina,South America,86,192.6
+Argentina,South America,4,249.68
+Argentina,South America,42,95.01
+Argentina,South America,28,180.64
+Argentina,South America,34,173.47
+Argentina,South America,77,352.09
+Argentina,South America,36,280.12
+Argentina,South America,67,474.29
+Argentina,South America,11,124.47
+Argentina,South America,53,246.85
+Argentina,South America,98,123.96
+Argentina,South America,61,324.72
+Argentina,South America,63,226.85
+Argentina,South America,3,51.06
+Argentina,South America,29,205.18
+Argentina,South America,32,156.57
+Argentina,South America,75,187.67
+Argentina,South America,71,267.81
+Argentina,South America,55,498.33
+Argentina,South America,71,168.74
+Argentina,South America,90,229.6
+Argentina,South America,40,129.44
+Argentina,South America,16,362.04
+Argentina,South America,41,64.18
+Argentina,South America,69,475.68
+Argentina,South America,89,96.65
+Argentina,South America,28,370.61
+Argentina,South America,36,363.67
+Argentina,South America,98,264.7
+Argentina,South America,37,490.35
+Argentina,South America,25,151.64
+Argentina,South America,47,93.82
+Argentina,South America,2,355.47
+Argentina,South America,17,140.78
+Argentina,South America,7,278.91
+Argentina,South America,90,472.32
+Argentina,South America,82,434.89
+Argentina,South America,63,55.78
+Argentina,South America,2,289.16
+Argentina,South America,61,241.96
+Argentina,South America,44,96.26
+Argentina,South America,7,129.98
+Argentina,South America,62,61.47
+Argentina,South America,9,203.35
+Argentina,South America,10,290.63
+Argentina,South America,88,31.54
+Argentina,South America,20,406.52
+Argentina,South America,39,47.16
+Argentina,South America,32,63.63
+Argentina,South America,98,211.01
+Argentina,South America,77,396.42
+Argentina,South America,29,388.97
+Argentina,South America,49,228.0
+Argentina,South America,57,152.19
+Argentina,South America,76,495.07
+Argentina,South America,40,286.47
+Argentina,South America,8,306.77
+Argentina,South America,95,54.12
+Argentina,South America,98,107.86
+Argentina,South America,28,136.0
+Argentina,South America,11,82.74
+Argentina,South America,23,278.24
+Argentina,South America,21,6.32
+Argentina,South America,58,346.24
+Argentina,South America,61,149.17
+Argentina,South America,30,147.61
+Argentina,South America,37,352.98
+Argentina,South America,59,40.23
+Germany,Europe,34,394.97
+Germany,Europe,81,296.95
+Germany,Europe,26,215.44
+Germany,Europe,70,116.28
+Germany,Europe,20,454.66
+Germany,Europe,19,40.35
+Germany,Europe,22,397.35
+Germany,Europe,77,375.73
+Germany,Europe,73,460.99
+Germany,Europe,57,66.56
+Germany,Europe,89,155.53
+Germany,Europe,52,471.62
+Germany,Europe,65,272.29
+Germany,Europe,57,44.82
+Germany,Europe,6,445.26
+Germany,Europe,95,164.55
+Germany,Europe,33,17.8
+Germany,Europe,30,481.15
+Germany,Europe,74,295.63
+Germany,Europe,3,499.79
+Germany,Europe,87,411.6
+Germany,Europe,74,24.91
+Germany,Europe,97,91.72
+Germany,Europe,67,327.5
+Germany,Europe,36,94.84
+Germany,Europe,75,220.76
+Germany,Europe,63,484.68
+Germany,Europe,61,177.24
+Germany,Europe,43,163.92
+Germany,Europe,14,429.58
+Germany,Europe,43,208.76
+Germany,Europe,64,147.67
+Germany,Europe,52,407.72
+Germany,Europe,71,23.17
+Germany,Europe,12,160.69
+Germany,Europe,42,62.38
+Germany,Europe,99,205.07
+Germany,Europe,66,413.34
+Germany,Europe,1,330.54
+Germany,Europe,70,233.68
+Germany,Europe,7,97.85
+Germany,Europe,47,313.2
+Germany,Europe,64,314.58
+Germany,Europe,98,30.55
+Germany,Europe,35,276.86
+Germany,Europe,37,221.87
+Germany,Europe,90,244.93
+Germany,Europe,4,486.71
+Germany,Europe,78,400.66
+Germany,Europe,91,83.4
+Germany,Europe,71,11.77
+Germany,Europe,53,51.14
+Germany,Europe,15,233.42
+Germany,Europe,16,325.62
+Germany,Europe,20,251.7
+Germany,Europe,92,149.47
+Germany,Europe,91,140.35
+Germany,Europe,62,490.22
+Germany,Europe,32,231.11
+Germany,Europe,19,194.88
+Germany,Europe,77,256.58
+Germany,Europe,18,432.69
+Germany,Europe,36,387.47
+Germany,Europe,54,173.24
+France,Europe,65,137.25
+France,Europe,1,145.01
+France,Europe,39,419.55
+France,Europe,75,499.46
+France,Europe,63,433.3
+France,Europe,58,271.6
+France,Europe,45,169.56
+France,Europe,98,274.0
+France,Europe,59,466.76
+France,Europe,25,490.48
+France,Europe,31,288.04
+France,Europe,30,428.73
+France,Europe,53,26.61
+France,Europe,96,239.12
+France,Europe,49,196.11
+France,Europe,85,397.23
+France,Europe,84,490.5
+France,Europe,64,482.59
+France,Europe,17,253.63
+France,Europe,76,169.34
+France,Europe,13,437.72
+France,Europe,57,54.36
+France,Europe,59,12.6
+France,Europe,19,207.94
+France,Europe,84,485.13
+France,Europe,10,237.4
+France,Europe,34,172.59
+France,Europe,89,201.75
+France,Europe,11,426.62
+France,Europe,87,430.37
+France,Europe,49,477.3
+France,Europe,81,360.77
+France,Europe,98,246.53
+France,Europe,70,22.77
+France,Europe,9,121.21
+France,Europe,88,460.86
+France,Europe,30,374.65
+France,Europe,56,489.28
+France,Europe,98,318.71
+France,Europe,13,224.62
+France,Europe,89,153.24
+France,Europe,4,27.77
+France,Europe,8,150.22
+France,Europe,48,218.19
+France,Europe,32,267.93
+France,Europe,73,342.49
+France,Europe,24,89.14
+France,Europe,11,306.7
+France,Europe,49,311.76
+France,Europe,31,251.35
+France,Europe,75,75.84
+France,Europe,60,320.76
+France,Europe,59,131.39
+France,Europe,2,449.96
+France,Europe,60,451.1
+France,Europe,87,275.57
+France,Europe,10,223.66
+France,Europe,45,493.89
+France,Europe,39,321.27
+France,Europe,55,346.71
+France,Europe,59,423.43
+France,Europe,26,499.69
+France,Europe,62,57.79
+France,Europe,49,288.1
+France,Europe,74,151.46
+France,Europe,90,151.14
+France,Europe,85,200.92
+France,Europe,2,285.13
+France,Europe,88,390.26
+France,Europe,7,455.76
+France,Europe,96,250.88
+France,Europe,37,388.99
+France,Europe,30,305.5
+France,Europe,46,113.41
+France,Europe,25,312.34
+France,Europe,87,379.01
+France,Europe,99,331.29
+France,Europe,18,315.98
+France,Europe,81,324.94
+France,Europe,40,395.36
+France,Europe,5,291.89
+France,Europe,94,70.05
+France,Europe,38,166.73
+France,Europe,54,91.94
+France,Europe,17,394.32
+France,Europe,47,267.77
+France,Europe,35,416.08
+France,Europe,33,457.45
+France,Europe,62,483.86
+France,Europe,38,374.55
+France,Europe,44,403.1
+France,Europe,60,481.63
+France,Europe,19,378.3
+France,Europe,29,430.77
+France,Europe,93,338.83
+France,Europe,51,483.8
+France,Europe,72,186.06
+France,Europe,51,11.89
+France,Europe,69,66.18
+France,Europe,48,338.05
+UK,Europe,34,294.36
+UK,Europe,82,470.44
+UK,Europe,14,339.04
+UK,Europe,61,17.39
+UK,Europe,72,167.36
+UK,Europe,79,114.58
+UK,Europe,9,319.52
+UK,Europe,60,455.15
+UK,Europe,39,326.37
+UK,Europe,15,74.19
+UK,Europe,5,155.66
+UK,Europe,64,62.48
+UK,Europe,31,444.19
+UK,Europe,18,197.38
+UK,Europe,48,336.89
+UK,Europe,96,349.76
+UK,Europe,70,212.47
+UK,Europe,96,364.67
+UK,Europe,54,329.19
+UK,Europe,63,309.75
+UK,Europe,36,21.19
+UK,Europe,48,112.55
+UK,Europe,57,475.52
+UK,Europe,47,54.18
+UK,Europe,88,186.83
+UK,Europe,83,182.54
+UK,Europe,51,141.56
+UK,Europe,16,474.76
+UK,Europe,59,50.38
+UK,Europe,28,322.64
+UK,Europe,77,485.69
+UK,Europe,7,394.46
+UK,Europe,32,494.47
+UK,Europe,73,106.58
+UK,Europe,98,279.33
+UK,Europe,76,111.9
+UK,Europe,30,167.64
+UK,Europe,19,395.38
+UK,Europe,77,6.4
+UK,Europe,19,493.83
+UK,Europe,70,129.07
+UK,Europe,23,59.41
+UK,Europe,4,70.24
+UK,Europe,46,396.04
+UK,Europe,31,296.48
+UK,Europe,3,91.25
+UK,Europe,7,67.75
+UK,Europe,54,265.41
+UK,Europe,96,36.46
+UK,Europe,58,390.12
+UK,Europe,66,298.86
+UK,Europe,58,254.4
+UK,Europe,79,26.47
+UK,Europe,85,263.12
+UK,Europe,59,323.45
+UK,Europe,4,35.11
+UK,Europe,62,424.41
+UK,Europe,55,344.62
+UK,Europe,63,357.64
+UK,Europe,57,41.38
+UK,Europe,11,164.45
+UK,Europe,19,37.51
+UK,Europe,36,314.04
+UK,Europe,75,276.44
+UK,Europe,42,193.55
+UK,Europe,77,267.63
+UK,Europe,59,255.25
+UK,Europe,56,54.09
+UK,Europe,90,61.63
+UK,Europe,84,327.2
+UK,Europe,99,277.91
+UK,Europe,28,217.88
+UK,Europe,30,209.84
+UK,Europe,59,202.37
+UK,Europe,94,52.07
+UK,Europe,55,159.7
+UK,Europe,33,190.28
+UK,Europe,20,344.98
+UK,Europe,61,38.23
+UK,Europe,11,51.15
+UK,Europe,13,373.57
+UK,Europe,48,406.83
+UK,Europe,72,34.69
+UK,Europe,72,283.03
+UK,Europe,86,65.5
+UK,Europe,46,437.44
+UK,Europe,97,214.35
+UK,Europe,93,30.47
+UK,Europe,37,302.2
+UK,Europe,46,56.28
+UK,Europe,65,110.31
+UK,Europe,85,243.68
+UK,Europe,14,178.31
+India,Asia,48,61.87
+India,Asia,36,289.18
+India,Asia,55,423.35
+India,Asia,99,410.12
+India,Asia,79,339.11
+India,Asia,72,18.0
+India,Asia,85,415.58
+India,Asia,35,19.33
+India,Asia,35,352.84
+India,Asia,40,461.16
+India,Asia,45,8.02
+India,Asia,19,285.33
+India,Asia,52,39.44
+India,Asia,95,318.42
+India,Asia,4,50.42
+India,Asia,68,111.49
+India,Asia,54,229.55
+India,Asia,21,188.18
+India,Asia,93,165.57
+India,Asia,73,300.13
+India,Asia,7,82.01
+India,Asia,97,310.83
+India,Asia,87,45.38
+India,Asia,57,332.66
+India,Asia,63,305.5
+India,Asia,54,140.22
+India,Asia,97,258.61
+India,Asia,45,217.81
+India,Asia,37,340.72
+India,Asia,76,245.88
+India,Asia,86,157.67
+India,Asia,29,200.66
+India,Asia,77,32.12
+India,Asia,27,154.2
+India,Asia,28,384.84
+India,Asia,98,131.48
+India,Asia,42,64.39
+India,Asia,64,374.77
+India,Asia,23,68.95
+India,Asia,69,353.32
+India,Asia,65,281.57
+India,Asia,86,404.07
+India,Asia,10,201.55
+India,Asia,95,25.94
+India,Asia,3,232.58
+India,Asia,10,431.74
+India,Asia,74,217.5
+India,Asia,52,356.2
+India,Asia,54,148.31
+India,Asia,52,15.32
+India,Asia,42,90.08
+India,Asia,80,232.75
+India,Asia,89,460.29
+India,Asia,12,221.17
+India,Asia,14,125.44
+India,Asia,76,203.22
+India,Asia,11,200.9
+India,Asia,40,374.17
+India,Asia,29,169.87
+India,Asia,22,42.81
+India,Asia,82,61.44
+India,Asia,66,100.98
+India,Asia,100,177.94
+India,Asia,94,479.32
+India,Asia,83,408.44
+India,Asia,31,55.89
+India,Asia,33,102.65
+India,Asia,78,80.67
+India,Asia,98,329.48
+India,Asia,23,475.89
+India,Asia,81,249.59
+India,Asia,97,284.05
+India,Asia,75,227.21
+India,Asia,73,323.28
+India,Asia,80,164.99
+India,Asia,81,161.49
+India,Asia,57,38.8
+India,Asia,57,317.54
+India,Asia,36,297.75
+India,Asia,46,256.13
+India,Asia,40,233.56
+India,Asia,5,33.16
+India,Asia,37,42.98
+India,Asia,12,309.43
+India,Asia,65,195.32
+China,Asia,71,477.34
+China,Asia,95,448.46
+China,Asia,58,454.98
+China,Asia,74,327.66
+China,Asia,42,304.48
+China,Asia,65,79.68
+China,Asia,8,228.01
+China,Asia,44,491.28
+China,Asia,11,254.75
+China,Asia,23,24.38
+China,Asia,91,221.69
+China,Asia,57,264.41
+China,Asia,79,83.58
+China,Asia,48,459.38
+China,Asia,50,207.34
+China,Asia,44,341.05
+China,Asia,7,395.67
+China,Asia,83,170.65
+China,Asia,43,51.78
+China,Asia,87,196.35
+China,Asia,33,363.25
+China,Asia,85,482.38
+China,Asia,78,437.27
+China,Asia,43,45.34
+China,Asia,85,75.01
+China,Asia,45,158.56
+China,Asia,84,350.75
+China,Asia,51,68.83
+China,Asia,91,469.31
+China,Asia,40,281.67
+China,Asia,83,396.87
+China,Asia,17,336.71
+China,Asia,95,498.6
+China,Asia,68,51.26
+China,Asia,86,214.59
+China,Asia,47,14.02
+China,Asia,40,94.23
+China,Asia,28,174.16
+China,Asia,99,245.7
+China,Asia,29,499.99
+China,Asia,20,43.2
+China,Asia,13,256.31
+China,Asia,70,418.38
+China,Asia,68,23.69
+China,Asia,44,438.81
+China,Asia,80,69.87
+China,Asia,49,81.36
+China,Asia,24,416.52
+China,Asia,99,314.25
+China,Asia,22,361.99
+China,Asia,6,208.38
+China,Asia,87,361.19
+China,Asia,57,307.24
+China,Asia,97,375.53
+China,Asia,58,120.83
+China,Asia,31,158.19
+China,Asia,61,452.47
+China,Asia,25,187.08
+China,Asia,74,492.3
+China,Asia,60,385.87
+China,Asia,100,194.03
+China,Asia,68,212.24
+China,Asia,21,409.36
+China,Asia,78,73.51
+China,Asia,33,30.83
+China,Asia,62,437.69
+China,Asia,71,467.48
+China,Asia,92,423.72
+China,Asia,16,146.11
+China,Asia,98,84.35
+China,Asia,58,453.13
+China,Asia,19,416.37
+China,Asia,12,473.47
+China,Asia,29,409.27
+China,Asia,45,465.58
+China,Asia,54,31.36
+China,Asia,65,190.11
+China,Asia,50,497.29
+China,Asia,48,116.15
+China,Asia,41,465.76
+China,Asia,92,326.73
+China,Asia,19,73.11
+China,Asia,37,459.11
+China,Asia,61,349.56
+China,Asia,18,380.63
+China,Asia,61,227.06
+China,Asia,1,453.4
+Japan,Asia,33,111.75
+Japan,Asia,20,276.66
+Japan,Asia,94,306.4
+Japan,Asia,55,60.04
+Japan,Asia,37,122.63
+Japan,Asia,16,28.64
+Japan,Asia,54,321.28
+Japan,Asia,80,231.27
+Japan,Asia,15,419.16
+Japan,Asia,64,300.39
+Japan,Asia,3,317.82
+Japan,Asia,74,124.76
+Japan,Asia,19,149.18
+Japan,Asia,1,309.33
+Japan,Asia,31,287.48
+Japan,Asia,24,333.86
+Japan,Asia,11,264.12
+Japan,Asia,47,38.5
+Japan,Asia,68,274.32
+Japan,Asia,65,279.31
+Japan,Asia,50,437.3
+Japan,Asia,6,319.66
+Japan,Asia,48,130.56
+Japan,Asia,3,181.76
+Japan,Asia,9,175.68
+Japan,Asia,94,330.27
+Japan,Asia,14,386.89
+Japan,Asia,95,379.56
+Japan,Asia,18,26.95
+Japan,Asia,70,172.58
+Japan,Asia,83,91.67
+Japan,Asia,100,343.92
+Japan,Asia,90,241.87
+Japan,Asia,24,406.69
+Japan,Asia,9,359.44
+Japan,Asia,59,23.31
+Japan,Asia,26,26.68
+Japan,Asia,26,443.47
+Japan,Asia,41,467.02
+Japan,Asia,66,202.12
+Japan,Asia,70,239.33
+Japan,Asia,5,377.88
+Japan,Asia,25,146.62
+Japan,Asia,100,28.66
+Japan,Asia,84,169.3
+Japan,Asia,16,400.67
+Japan,Asia,56,445.3
+Japan,Asia,96,222.67
+Japan,Asia,50,172.82
+Japan,Asia,24,250.62
+Japan,Asia,64,186.84
+Australia,Oceania,35,401.57
+Australia,Oceania,94,215.13
+Australia,Oceania,56,303.21
+Australia,Oceania,24,275.01
+Australia,Oceania,42,55.79
+Australia,Oceania,42,332.16
+Australia,Oceania,40,225.73
+Australia,Oceania,92,215.93
+Australia,Oceania,89,224.73
+Australia,Oceania,58,25.97
+Australia,Oceania,46,309.35
+Australia,Oceania,56,140.9
+Australia,Oceania,8,42.15
+Australia,Oceania,82,206.07
+Australia,Oceania,66,401.54
+Australia,Oceania,87,84.19
+Australia,Oceania,4,75.68
+Australia,Oceania,78,340.65
+Australia,Oceania,57,22.23
+Australia,Oceania,9,121.82
+Australia,Oceania,83,186.33
+Australia,Oceania,50,474.99
+Australia,Oceania,5,304.52
+Australia,Oceania,87,227.71
+Australia,Oceania,48,189.15
+Australia,Oceania,98,43.06
+Australia,Oceania,18,267.08
+Australia,Oceania,51,160.62
+Australia,Oceania,36,128.56
+Australia,Oceania,15,17.83
+Australia,Oceania,24,252.03
+Australia,Oceania,50,457.2
+Australia,Oceania,16,134.58
+Australia,Oceania,34,353.5
+Australia,Oceania,28,498.2
+Australia,Oceania,37,348.52
+Australia,Oceania,63,104.09
+Australia,Oceania,18,427.15
+Australia,Oceania,58,90.46
+Australia,Oceania,92,225.33
+Australia,Oceania,12,406.2
+Australia,Oceania,41,335.58
+Australia,Oceania,91,37.14
+Australia,Oceania,70,148.73
+Australia,Oceania,39,426.42
+Australia,Oceania,92,356.23
+Australia,Oceania,90,320.66
+Australia,Oceania,47,256.83
+Australia,Oceania,16,492.64
+Australia,Oceania,18,122.18
+Australia,Oceania,64,18.01
+Australia,Oceania,71,288.28
+Australia,Oceania,60,402.81
+Australia,Oceania,71,69.24
+Australia,Oceania,12,37.55
+Australia,Oceania,51,499.8
+Australia,Oceania,93,241.94
+Australia,Oceania,53,385.74
+Australia,Oceania,74,41.51
+Australia,Oceania,41,322.96
+Australia,Oceania,58,235.59
+Australia,Oceania,67,175.53
+Australia,Oceania,100,277.9
+Australia,Oceania,76,95.07
+Australia,Oceania,17,219.15
+Australia,Oceania,8,416.54
+Australia,Oceania,67,80.74
+Australia,Oceania,22,85.17
+Australia,Oceania,91,116.61
+Australia,Oceania,67,447.99
+Australia,Oceania,11,129.05
+Australia,Oceania,82,478.39
+Australia,Oceania,36,66.96
+Australia,Oceania,39,309.14
+Australia,Oceania,12,253.77
+Australia,Oceania,22,297.95
+Australia,Oceania,75,81.33
+Australia,Oceania,85,314.12
+Australia,Oceania,78,172.12
+Australia,Oceania,73,25.39
+Australia,Oceania,4,45.21
+Australia,Oceania,83,386.66
+Australia,Oceania,34,327.31
+South Africa,Africa,74,211.21
+South Africa,Africa,82,19.99
+South Africa,Africa,81,275.06
+South Africa,Africa,83,478.54
+South Africa,Africa,62,126.21
+South Africa,Africa,88,206.02
+South Africa,Africa,59,41.12
+South Africa,Africa,8,83.25
+South Africa,Africa,54,244.7
+South Africa,Africa,27,173.4
+South Africa,Africa,19,159.73
+South Africa,Africa,92,163.06
+South Africa,Africa,45,487.81
+South Africa,Africa,17,381.53
+South Africa,Africa,66,283.02
+South Africa,Africa,41,124.66
+South Africa,Africa,16,137.4
+South Africa,Africa,32,74.73
+South Africa,Africa,7,148.65
+South Africa,Africa,50,432.76
+South Africa,Africa,54,127.89
+South Africa,Africa,21,407.67
+South Africa,Africa,74,361.96
+South Africa,Africa,25,382.75
+South Africa,Africa,64,498.0
+South Africa,Africa,60,251.89
+South Africa,Africa,40,251.2
+South Africa,Africa,12,472.89
+South Africa,Africa,65,231.33
+South Africa,Africa,31,111.5
+South Africa,Africa,46,29.09
+South Africa,Africa,37,249.97
+South Africa,Africa,84,337.9
+South Africa,Africa,37,270.66
+South Africa,Africa,14,218.31
+South Africa,Africa,34,365.12
+South Africa,Africa,98,204.61
+South Africa,Africa,6,203.29
+South Africa,Africa,73,283.1
+South Africa,Africa,47,278.85
+South Africa,Africa,10,196.24
+South Africa,Africa,58,383.38
+South Africa,Africa,36,413.53
+South Africa,Africa,80,341.8
+South Africa,Africa,16,68.69
+South Africa,Africa,13,199.98
+South Africa,Africa,44,281.13
+South Africa,Africa,47,378.71
+South Africa,Africa,26,303.22
+South Africa,Africa,52,252.54
+South Africa,Africa,6,24.26
+South Africa,Africa,92,169.86
+South Africa,Africa,61,262.07
+South Africa,Africa,20,305.1
+South Africa,Africa,66,74.19
+South Africa,Africa,79,162.67
+South Africa,Africa,51,495.35
+South Africa,Africa,95,422.09
+South Africa,Africa,76,171.5
+South Africa,Africa,66,268.51
+South Africa,Africa,91,283.65
+South Africa,Africa,61,408.8
+South Africa,Africa,48,168.96
+South Africa,Africa,15,490.05
+South Africa,Africa,75,157.3
+South Africa,Africa,93,436.69
+South Africa,Africa,81,18.19
+South Africa,Africa,61,136.44
+South Africa,Africa,84,392.54
+South Africa,Africa,100,291.34
+South Africa,Africa,30,362.09
+South Africa,Africa,75,242.82
+South Africa,Africa,68,316.37
+South Africa,Africa,80,388.43
+South Africa,Africa,49,78.15
+South Africa,Africa,88,124.89
+South Africa,Africa,74,474.36
+South Africa,Africa,15,99.44
+South Africa,Africa,57,160.28
+South Africa,Africa,20,209.42
+South Africa,Africa,27,208.14
+South Africa,Africa,100,307.68
+South Africa,Africa,61,437.04
+South Africa,Africa,95,365.06
+South Africa,Africa,91,73.35
+South Africa,Africa,27,282.64
+South Africa,Africa,85,241.79
+South Africa,Africa,49,160.31
+South Africa,Africa,23,232.53
+South Africa,Africa,69,174.45
+South Africa,Africa,46,339.55
+South Africa,Africa,93,341.97
+South Africa,Africa,89,135.86
+South Africa,Africa,62,100.17
+South Africa,Africa,32,143.11
+South Africa,Africa,39,116.31
+South Africa,Africa,39,386.73
+South Africa,Africa,91,107.6
+South Africa,Africa,91,247.06
+Egypt,Africa,45,282.44
+Egypt,Africa,93,140.36
+Egypt,Africa,16,288.87
+Egypt,Africa,70,192.95
+Egypt,Africa,51,410.1
+Egypt,Africa,99,403.28
+Egypt,Africa,38,25.82
+Egypt,Africa,92,44.12
+Egypt,Africa,57,329.71
+Egypt,Africa,96,242.14
+Egypt,Africa,26,414.84
+Egypt,Africa,35,466.85
+Egypt,Africa,90,139.45
+Egypt,Africa,14,309.76
+Egypt,Africa,76,123.44
+Egypt,Africa,7,336.57
+Egypt,Africa,68,116.71
+Egypt,Africa,30,30.98
+Egypt,Africa,53,168.5
+Egypt,Africa,61,54.77
+Egypt,Africa,99,73.05
+Egypt,Africa,71,489.07
+Egypt,Africa,21,206.42
+Egypt,Africa,61,241.34
+Egypt,Africa,26,379.18
+Egypt,Africa,37,163.98
+Egypt,Africa,83,34.29
+Egypt,Africa,99,49.28
+Egypt,Africa,74,119.95
+Egypt,Africa,95,362.94
+Egypt,Africa,5,457.05
+Egypt,Africa,23,211.85
+Egypt,Africa,23,467.29
+Egypt,Africa,5,498.6
+Egypt,Africa,51,395.04
+Egypt,Africa,24,468.62
+Egypt,Africa,38,438.99
+Egypt,Africa,2,152.7
+Egypt,Africa,78,58.11
+Egypt,Africa,43,145.86
+Egypt,Africa,83,273.93
+Egypt,Africa,64,445.18
+Egypt,Africa,18,426.27
+Egypt,Africa,60,140.05
+Egypt,Africa,15,168.69
+Egypt,Africa,94,232.16
+Egypt,Africa,33,360.71
+Egypt,Africa,2,369.63
+Egypt,Africa,38,286.05
+Egypt,Africa,97,100.61
+Egypt,Africa,79,428.79
+Egypt,Africa,52,414.36
+Egypt,Africa,66,167.32
+Egypt,Africa,52,336.28
+Egypt,Africa,24,490.93
+Egypt,Africa,62,165.18
+Egypt,Africa,32,8.38
+Egypt,Africa,50,121.58
+Egypt,Africa,97,137.16
+Egypt,Africa,43,154.46
+Egypt,Africa,93,288.57
+Egypt,Africa,34,328.57
+Egypt,Africa,89,121.97
+Egypt,Africa,86,63.52
+Egypt,Africa,40,84.06
+Egypt,Africa,88,253.75
+Egypt,Africa,91,386.07
+Egypt,Africa,89,63.12
+Egypt,Africa,38,186.93
+Egypt,Africa,29,113.47
+Egypt,Africa,18,241.7
+Egypt,Africa,59,375.13
+Egypt,Africa,78,189.94
+Egypt,Africa,90,276.87
+Egypt,Africa,61,379.89
+Egypt,Africa,86,413.67
+Egypt,Africa,98,127.5
+Egypt,Africa,97,299.93
+Egypt,Africa,11,265.13
+Egypt,Africa,68,353.36
